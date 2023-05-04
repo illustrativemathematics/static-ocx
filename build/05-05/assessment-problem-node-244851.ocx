@@ -1,0 +1,98 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:AssessmentProblem",
+  "@id": "im:1c273fb2-3420-5220-8c9c-5023946dd093",
+  "identifier": "im:1c273fb2-3420-5220-8c9c-5023946dd093",
+  "name": "Solve each of the following:      1. 3 movie tickets cost \\$36. At this...",
+  "alternateName": "6.2",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Assessment",
+    "@id": "im:dc1c61ef-ba5b-559c-9fce-6598a9af24c0",
+    "courseCode": "6.2"
+  },
+  "learningResourceType": [
+    "Assessment problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:AssessmentProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/assessment_problems/14842",
+  "dateCreated": "2019-05-20 07:56:41 UTC",
+  "dateModified": "2020-06-25 11:57:56 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">14842</div>
+    <div class="AssessmentProblem.type">ShortAnswerResponse</div>
+    <div class="AssessmentProblem.statement"><p>Solve each of the following:</p>
+
+<ol>
+	<li>3 movie tickets cost <span>$</span>36. At this rate, what is the cost per ticket?<presentation-tag data-tag-title="1 INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/4.tag"></presentation-tag><presentation-tag data-tag-title="1 INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/4.tag"></presentation-tag>
+</li>
+	<li>3 ice cream cones cost <span>$</span>8.25. At this rate, how much do 2 ice cream cones cost?<presentation-tag data-tag-title="1 INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/4.tag"></presentation-tag><presentation-tag data-tag-title="1 INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/4.tag"></presentation-tag>
+</li>
+	<li>3 bananas cost <span>$</span>0.99. At this rate, how much do 5 bananas cost?<presentation-tag data-tag-title="1 INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/4.tag"></presentation-tag><presentation-tag data-tag-title="1 INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/4.tag"></presentation-tag>
+</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.solution"><ol>
+	<li>
+<span>$</span>12</li>
+	<li>
+<span>$</span>5.50</li>
+	<li>
+<span>$</span>1.65</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:56:41 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-06-25 11:57:56 UTC</div>
+  </body>
+</html>

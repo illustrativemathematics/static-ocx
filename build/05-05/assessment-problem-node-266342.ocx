@@ -1,0 +1,100 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:AssessmentProblem",
+  "@id": "im:acf22f78-811d-53ba-8bd1-19c742130f27",
+  "identifier": "im:acf22f78-811d-53ba-8bd1-19c742130f27",
+  "name": "3 concert tickets cost \\$45. At this rate, what is...",
+  "alternateName": "6.2",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Assessment",
+    "@id": "im:08f8bbd2-4634-53d2-bbd6-d623a84a7222",
+    "courseCode": "6.2"
+  },
+  "learningResourceType": [
+    "Assessment problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:AssessmentProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/assessment_problems/2006",
+  "dateCreated": "2018-08-19 00:12:01 UTC",
+  "dateModified": "2020-06-25 11:57:57 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">2006</div>
+    <div class="AssessmentProblem.type">ShortAnswerResponse</div>
+    <div class="AssessmentProblem.statement"><ol>
+	<li>
+	<p>Three concert tickets cost <span>$</span>45. At this rate, what is the cost per ticket?<presentation-tag data-tag-title="1 INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/4.tag"></presentation-tag><presentation-tag data-tag-title="1 INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/4.tag"></presentation-tag></p>
+	<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_AE" data-tree-node-id="24440" data-tree-ref-id="57" src="/presentation_tags/3.tag"></presentation-tag>
+</li>
+	<li>
+	<p>Three milkshakes cost <span>$</span>9.75. At this rate, how much do 2 milkshakes cost?<presentation-tag data-tag-title="1 INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/4.tag"></presentation-tag><presentation-tag data-tag-title="1 INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/4.tag"></presentation-tag></p>
+	<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_AE" data-tree-node-id="24440" data-tree-ref-id="57" src="/presentation_tags/3.tag"></presentation-tag>
+</li>
+	<li>Three oranges cost <span>$</span>1.35. At this rate, how much do 5 oranges cost?<presentation-tag data-tag-title="Pagebreak after" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/2.tag"></presentation-tag><presentation-tag data-tag-title="Pagebreak after" data-tree-code="MS_AE" data-tree-node-id="24440" data-tree-ref-id="57" src="/presentation_tags/2.tag"></presentation-tag><presentation-tag data-tag-title="Pagebreak after" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/2.tag"></presentation-tag>
+</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.solution"><ol>
+	<li>
+<span>$</span>15</li>
+	<li>
+<span>$</span>6.50</li>
+	<li>
+<span>$</span>2.25</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.dateCreated">2018-08-19 00:12:01 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-06-25 11:57:57 UTC</div>
+  </body>
+</html>
