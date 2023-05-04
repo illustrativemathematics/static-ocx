@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:b084372f-5219-57ef-9910-6a72799436b3",
+  "identifier": "im:b084372f-5219-57ef-9910-6a72799436b3",
+  "name": "6.2.11.6 A recipe for trail mix uses 7 ounces of almonds with 5 ounces of...",
+  "alternateName": "6.2.11.6",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:e9523c6d-3961-55a9-b8f2-e445316d41fe",
+    "courseCode": "6.2.11"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102738",
+  "dateCreated": "2019-05-20 07:52:58 UTC",
+  "dateModified": "2020-05-04 20:27:20 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102738</div>
+    <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
+    <div class="AssessmentProblem.statement"><p>A recipe for trail mix uses 7 ounces of almonds with 5 ounces of raisins. (Almonds and raisins are the only ingredients.) How many ounces of almonds would be in a one-pound bag of this trail mix? Explain or show your reasoning.<presentation-tag data-tag-title="2 INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/5.tag"></presentation-tag><presentation-tag data-tag-title="2 INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/5.tag"></presentation-tag></p>
+</div>
+    <div class="AssessmentProblem.solution"><p><span class="math math-repaired" data-png-file-id="45298">\(\frac{28} 3 = 9 \frac 1 3\)</span>, so there are <span class="math math-repaired" data-png-file-id="45347">\(9 \frac 1 3\)</span> ounces of almonds. There are multiple ways to find this, and&#xA0;one way is to know the original mix has 12 ounces and multiply by <span class="math math-repaired" data-png-file-id="45404">\(\frac {16}{12} = \frac 4 3\)</span> to produce an equivalent ratio for a 16-ounce mix.</p>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:52:58 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-05-04 20:27:20 UTC</div>
+  </body>
+</html>

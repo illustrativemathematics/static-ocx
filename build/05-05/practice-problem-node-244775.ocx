@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:42b6c837-186b-5762-b054-1c8ca89bc581",
+  "identifier": "im:42b6c837-186b-5762-b054-1c8ca89bc581",
+  "name": "6.2.14.6 A chef is making pickles. He needs 15 gallons of vinegar. The store...",
+  "alternateName": "6.2.14.6",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:b438c73b-291a-5115-9a8b-4d88ba0c66ab",
+    "courseCode": "6.2.14"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102775",
+  "dateCreated": "2019-05-20 07:53:00 UTC",
+  "dateModified": "2020-06-25 12:16:20 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102775</div>
+    <div class="AssessmentProblem.type">ShortAnswerResponse</div>
+    <div class="AssessmentProblem.statement"><p>A chef is making pickles. He needs 15 gallons of vinegar. The store sells 2 gallons of vinegar for <span>$</span>3.00 and allows customers&#xA0;to buy any amount of vinegar.&#xA0;Decide whether each of the following ratios correctly represents&#xA0;the price of vinegar.</p>
+
+<ol>
+	<li>4 gallons to <span>$</span>3.00</li>
+	<li>1 gallon to <span>$</span>1.50</li>
+	<li>30 gallons to <span>$</span>45.00</li>
+	<li>
+<span>$</span>2.00 to 30 gallons</li>
+	<li>
+<span>$</span>1.00 to <span class="math math-repaired" data-png-file-id="781">\(\frac23\)</span> gallon<presentation-tag data-tag-title="1 INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/4.tag"></presentation-tag><presentation-tag data-tag-title="1 INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/4.tag"></presentation-tag>
+</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.solution"><ol>
+	<li>No. (The ratio is not equivalent; 4 gallons of vinegar would cost <span>$</span>6).</li>
+	<li>Yes. &#xA0;</li>
+	<li>Yes.&#xA0;</li>
+	<li>No. (The ratio is not equivalent; 2 gallons of vinegar&#xA0;cost <span>$</span>3, and&#xA0;<span>$</span>30 would buy 20 gallons).</li>
+	<li>Yes.&#xA0;</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:53:00 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-06-25 12:16:20 UTC</div>
+  </body>
+</html>

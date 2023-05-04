@@ -1,0 +1,126 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:3012169b-1176-57bf-bb37-f7ea63a541fc",
+  "identifier": "im:3012169b-1176-57bf-bb37-f7ea63a541fc",
+  "name": "6.2.13.8 Clare traveled at a constant rate for 6 hours. The double number line...",
+  "alternateName": "6.2.13.3",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:d63675b3-1018-5a9c-963a-e870341cca56",
+    "courseCode": "6.2.13"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102766",
+  "dateCreated": "2019-05-20 07:52:59 UTC",
+  "dateModified": "2020-05-04 20:27:16 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102766</div>
+    <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
+    <div class="AssessmentProblem.statement"><p>Clare travels&#xA0;at a constant speed, as shown on the double number line.</p>
+
+<p><img class="h-max-height--3-lines" src="/image_files/29498.png" /></p>
+
+<p>At this rate, how far does she travel in each of these intervals of time? Explain or show your reasoning. If you get stuck, consider using a table.</p>
+
+<ol>
+	<li>1 hour</li>
+	<li>3 hours</li>
+	<li>6.5 hours<presentation-tag data-tag-title="1 INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/4.tag"></presentation-tag>
+</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.solution"><p>Explanations vary. Sample responses:</p>
+
+<ol>
+	<li>36 miles. 1 hour is half of 2 hours, so half of 72 is 36. She traveled 36 miles in 1 hour.</li>
+	<li>108 miles. Since the rate is 36 miles per hour, to find her distance in 3 hours, multiply 36 by 3. She traveled 108 miles in 3 hours.</li>
+	<li>234 miles. Multiply the rate by 6.5. She traveled 234&#xA0;miles in 6.5 hours.&#xA0;
+	<table border="1">
+		<thead>
+			<tr>
+				<th scope="col">distance (miles)</th>
+				<th scope="col">elapsed time (hours)</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>72</td>
+				<td>2</td>
+			</tr>
+			<tr>
+				<td>36</td>
+				<td>1</td>
+			</tr>
+			<tr>
+				<td>108</td>
+				<td>3</td>
+			</tr>
+			<tr>
+				<td>234</td>
+				<td>6.5</td>
+			</tr>
+		</tbody>
+	</table>
+	</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:52:59 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-05-04 20:27:16 UTC</div>
+  </body>
+</html>

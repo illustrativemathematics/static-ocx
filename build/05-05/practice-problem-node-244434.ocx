@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:2514deea-7332-55d0-a734-1d0e2bed4c8e",
+  "identifier": "im:2514deea-7332-55d0-a734-1d0e2bed4c8e",
+  "name": "6.2.1.5 To make lemonade, combine 3 cups of hot water, 2 cups of sugar, and the...",
+  "alternateName": "6.2.1.5",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:8eb517bc-6b9b-5e17-963e-01da90324026",
+    "courseCode": "6.2.1"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102618",
+  "dateCreated": "2019-05-20 07:52:51 UTC",
+  "dateModified": "2020-05-04 20:27:11 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102618</div>
+    <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
+    <div class="AssessmentProblem.statement"><p>To make lemonade, combine 3 cups of hot water, 2 cups of sugar, and the juice from 6 lemons.&#xA0;How much of each ingredient is needed to:</p>
+
+<ol>
+	<li>triple the recipe?</li>
+	<li>make half of a recipe?</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.solution"><ol>
+	<li>9 cups of hot water, 6 cups of sugar, and the juice from 18 lemons.</li>
+	<li>
+<span class="math math-repaired" data-png-file-id="3217">\(1\frac12\)</span> cup hot water, 1 cup of sugar, and the juice from 3 lemons.</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:52:51 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-05-04 20:27:11 UTC</div>
+  </body>
+</html>

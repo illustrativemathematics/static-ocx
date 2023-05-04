@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:Activity",
+  "@id": "im:b9b055a6-ffdc-5bea-b5bd-a62ab4937739",
+  "identifier": "im:b9b055a6-ffdc-5bea-b5bd-a62ab4937739",
+  "name": "Blue Paint on a Double Number Line",
+  "alternateName": "6.2.6.3",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Lesson",
+    "@id": "im:857d9dde-b180-5932-b3ca-69cc51ab7b0d",
+    "courseCode": "6.2.6"
+  },
+  "learningResourceType": [
+    "Activity"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:Activity",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/activities/51854",
+  "dateCreated": "2019-05-20 07:45:12 UTC",
+  "dateModified": "2020-05-04 20:27:13 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="Activity.identifier">51854</div>
+    <div class="Activity.name">Blue Paint on a Double Number Line</div>
+    <div class="Activity.dateCreated">2019-05-20 07:45:12 UTC</div>
+    <div class="Activity.dateModified">2020-05-04 20:27:13 UTC</div>
+    <div class="im_statement"><p>Here is a diagram showing Elena&#x2019;s recipe for light blue paint.</p>
+
+<p><img class="h-max-height--6-lines" src="/image_files/27357.png" /></p>
+
+<ol>
+	<li>
+	<p>Complete the double number line diagram to show the amounts of white paint and blue paint in different-sized batches of light blue paint.</p>
+
+	<p><img class="h-max-height--8-lines" src="/image_files/27382.png" /></p>
+	</li>
+	<li>Compare your double number line diagram with your partner. Discuss your thinking. If needed, revise your diagram.</li>
+	<li>How many cups of white paint should Elena mix with 12 tablespoons of blue paint? How many batches would this make?</li>
+	<li>How many tablespoons of blue paint should Elena mix with 6 cups of white paint? How many batches would this make?</li>
+	<li>Use your double number line diagram to find another amount of white paint and blue paint that would make the same shade of light blue paint.</li>
+	<li>How do you know that these mixtures would make the same shade of light blue paint?<presentation-tag data-tag-title="Pagebreak after" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/2.tag"></presentation-tag><presentation-tag data-tag-title="Pagebreak after" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/2.tag"></presentation-tag>
+</li>
+</ol>
+</div>
+    <div class="im_extension"></div>
+  </body>
+</html>

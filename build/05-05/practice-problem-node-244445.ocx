@@ -1,0 +1,109 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:89231266-155e-5b3f-ad92-34c05b49e1d8",
+  "identifier": "im:89231266-155e-5b3f-ad92-34c05b49e1d8",
+  "name": "6.2.1.16 Complete each equation with a number that makes it true.  1. $\\frac18...",
+  "alternateName": "6.2.1.16",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:8eb517bc-6b9b-5e17-963e-01da90324026",
+    "courseCode": "6.2.1"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102629",
+  "dateCreated": "2019-05-20 07:52:52 UTC",
+  "dateModified": "2022-08-19 21:27:43 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102629</div>
+    <div class="AssessmentProblem.type">ShortAnswerResponse</div>
+    <div class="AssessmentProblem.statement"><p>Complete each equation with a number that makes it true.</p>
+
+<div class="imgrid">
+<div class="g--row g--row-1">
+<div class="g--col-1 g--column g--content g--half g--row-1">
+<ul>
+	<li><span class="math math-repaired">\(\frac18 \boldcdot 8 = \text{_______}\)</span></li>
+	<li><span class="math math-repaired">\(\frac38 \boldcdot 8 = \text{_______}\)</span></li>
+</ul>
+</div>
+
+<div class="g--col-2 g--column g--content g--half g--row-1">
+<ul>
+	<li><span class="math math-repaired">\(\frac18 \boldcdot 7 = \text{_______}\)</span></li>
+	<li><span class="math math-repaired">\(\frac38 \boldcdot 7 = \text{_______}\)</span></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+    <div class="AssessmentProblem.solution"><ol>
+	<li>
+<span class="math math-repaired">\(1\)</span> (or equivalent)</li>
+	<li>
+<span class="math math-repaired">\(3\)</span> (or equivalent)</li>
+	<li>
+<span class="math math-repaired">\(\frac{7}{8}\)</span>&#xA0;(or equivalent)</li>
+	<li>
+<span class="math math-repaired">\(\frac{21}{8} \)</span> (or equivalent, 2<span class="math math-repaired">\(\frac{5}{8}\)</span> for example)</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:52:52 UTC</div>
+    <div class="AssessmentProblem.dateModified">2022-08-19 21:27:43 UTC</div>
+  </body>
+</html>

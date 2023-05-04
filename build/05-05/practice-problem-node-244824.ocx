@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:24c5435d-8b6d-590e-8a0a-0c474a8ea247",
+  "identifier": "im:24c5435d-8b6d-590e-8a0a-0c474a8ea247",
+  "name": "6.2.16.10 Describe a situation with two quantities that could be represented with...",
+  "alternateName": "6.2.16.10",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:11e9464a-a14a-5075-a5dd-473d371c27d4",
+    "courseCode": "6.2.16"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102796",
+  "dateCreated": "2019-05-20 07:53:01 UTC",
+  "dateModified": "2020-05-04 20:27:18 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102796</div>
+    <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
+    <div class="AssessmentProblem.statement"><p>Describe a situation&#xA0;that could be represented with this tape diagram.</p>
+
+<div class="imgrid">
+<div class="g--row g--row-1">
+<div class="g--column g--one-fourth g--content g--col-1 g--row-1">
+<p><img class="h-max-height--4-lines" src="/image_files/29505.png" /></p>
+</div>
+
+<div class="g--column g--three-fourth g--content g--col-2 g--row-1"></div>
+</div>
+</div>
+</div>
+    <div class="AssessmentProblem.solution"><p>Answers vary. Sample response: There are 30 people at a movie. The ratio of teenagers to adults is 3 to 2. There are 18 teenagers and 12 adults.</p>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:53:01 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-05-04 20:27:18 UTC</div>
+  </body>
+</html>

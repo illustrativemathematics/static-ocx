@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:f91d0b5d-5531-55e9-a345-58979f67c2ce",
+  "identifier": "im:f91d0b5d-5531-55e9-a345-58979f67c2ce",
+  "name": "6.2.3.6 A sports drink recipe calls for $\\frac{5}{3}$ tablespoons of powdered...",
+  "alternateName": "6.2.13.5",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:d63675b3-1018-5a9c-963a-e870341cca56",
+    "courseCode": "6.2.13"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102644",
+  "dateCreated": "2019-05-20 07:52:53 UTC",
+  "dateModified": "2020-06-25 12:15:18 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102644</div>
+    <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
+    <div class="AssessmentProblem.statement"><p>A sports drink recipe calls for <span class="math math-repaired" data-png-file-id="4281">\(\frac{5}{3}\)</span> tablespoons of powdered drink mix for every 12 ounces of water. How many batches can you make with 5 tablespoons of drink mix and 36 ounces of water? Explain your reasoning.<presentation-tag data-tag-title="2 INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/5.tag"></presentation-tag></p>
+</div>
+    <div class="AssessmentProblem.solution"><p>3 batches. Each batch has <span class="math math-repaired" data-png-file-id="4281">\(\frac{5}{3}\)</span> tablespoons of drink mix, so 3 batches will have 5 tablespoons of drink mix, since <span class="math math-repaired" data-png-file-id="45254">\(3 \boldcdot \frac{5}{3} = 5\)</span>. Similarly, we can make 3 batches with 36 ounces of water, since <span class="math math-repaired" data-png-file-id="41082">\(3 \boldcdot 12 = 36\)</span>.</p>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:52:53 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-06-25 12:15:18 UTC</div>
+  </body>
+</html>

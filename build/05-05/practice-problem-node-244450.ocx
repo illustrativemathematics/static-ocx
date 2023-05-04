@@ -1,0 +1,118 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:c76c6622-2efe-58a3-bcce-121bd0c35eea",
+  "identifier": "im:c76c6622-2efe-58a3-bcce-121bd0c35eea",
+  "name": "6.1.17.7 Choose an appropriate unit of measurement for each quantity.",
+  "alternateName": "6.2.1.4",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:484ed7c5-c12a-5211-a16a-d12a72339ab1",
+    "courseCode": "6.2.1"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102608",
+  "dateCreated": "2019-05-20 07:52:50 UTC",
+  "dateModified": "2020-05-04 20:27:47 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102608</div>
+    <div class="AssessmentProblem.type">ShortAnswerResponse</div>
+    <div class="AssessmentProblem.statement"><p>Choose an appropriate unit of measurement for each quantity.</p>
+
+<div class="imgrid">
+<div class="g--row g--row-1">
+<div class="g--column g--half g--content g--col-1 g--row-1">
+<ol>
+	<li>area of a rectangle</li>
+	<li>volume of a prism</li>
+	<li>side of a square</li>
+	<li>area of a square</li>
+	<li>volume of a cube</li>
+</ol>
+</div>
+
+<div class="g--column g--half g--content g--col-2 g--row-1">
+<ul>
+	<li>cm</li>
+	<li>cm<sup>3</sup>
+</li>
+	<li>cm<sup>2</sup>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<p>&#xA0;<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/3.tag"></presentation-tag></p>
+</div>
+    <div class="AssessmentProblem.solution"><ol>
+	<li>cm<sup>2</sup>
+</li>
+	<li>cm<sup>3</sup>
+</li>
+	<li>cm</li>
+	<li>cm<sup>2</sup>
+</li>
+	<li>cm<sup>3</sup>
+</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:52:50 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-05-04 20:27:47 UTC</div>
+  </body>
+</html>

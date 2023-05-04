@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:2cd5a093-53df-5407-9a68-b1bf7b3882f4",
+  "identifier": "im:2cd5a093-53df-5407-9a68-b1bf7b3882f4",
+  "name": "6.2.5.9 Here are three rectangles.",
+  "alternateName": "6.2.5.9",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:6a59853e-9f03-5936-a717-e3d30ba2fb38",
+    "courseCode": "6.2.5"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102675",
+  "dateCreated": "2019-05-20 07:52:54 UTC",
+  "dateModified": "2020-05-04 20:27:13 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102675</div>
+    <div class="AssessmentProblem.type">ShortAnswerResponse</div>
+    <div class="AssessmentProblem.statement"><p>Here are three rectangles.</p>
+
+<p><img class="h-max-height--16-lines" src="/image_files/29474.png" /></p>
+
+<ol>
+	<li>The ratio of the length of Rectangle A to the length of Rectangle B to the length of Rectangle C is 4 to 8 to 16. What is the ratio of width of Rectangle A to the width of Rectangle B to the width of Rectangle C?</li>
+	<li>Is the ratio of widths equivalent to the ratio of lengths? Explain how you know.</li>
+	<li>Find the perimeters of all three rectangles. Is the ratio of the perimeters equivalent to the ratio of the lengths? Explain how you know.</li>
+	<li>Find the areas of all three rectangles. Is the ratio of the areas equivalent to the ratio of the lengths? Explain how you know.</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.solution"><ol>
+	<li>1 to 2 to 4. The width of Rectangle A is 1, the width of Rectangle B is 2, and the width of Rectangle C is 4.</li>
+	<li>The ratio of widths is equivalent to the ratio of lengths because <span class="math math-repaired" data-png-file-id="47580">\(4 \boldcdot 1 = 4\)</span>, <span class="math math-repaired" data-png-file-id="9466">\(4 \boldcdot 2 = 8\)</span>, and <span class="math math-repaired" data-png-file-id="47619">\(4 \boldcdot 4 = 16\)</span>.</li>
+	<li>The perimeters of Rectangles A, B, and C are 10, 20, and 40. These are equivalent to the ratio of lengths because <span class="math math-repaired" data-png-file-id="47657">\((2.5) \boldcdot 4 = 10\)</span>, <span class="math math-repaired" data-png-file-id="47688">\((2.5) \boldcdot 8 = 20\)</span>, and <span class="math math-repaired" data-png-file-id="47715">\((2.5) \boldcdot 16 = 40\)</span>.</li>
+	<li>The areas of Rectangles A, B, and C are 4, 16, and 64. The ratio of areas <span class="math math-repaired" data-png-file-id="47767">\(4:16:64\)</span>&#xA0;is&#xA0;<em>not</em> equivalent to the ratio of lengths <span class="math math-repaired" data-png-file-id="47823">\(4:8:16\)</span> because <span class="math math-repaired" data-png-file-id="47580">\(4 \boldcdot 1 = 4\)</span> but <span class="math math-repaired" data-png-file-id="47879">\(16 \boldcdot 1\)</span> is not 8.</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:52:54 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-05-04 20:27:13 UTC</div>
+  </body>
+</html>

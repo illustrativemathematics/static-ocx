@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:CoolDown",
+  "@id": "im:0cd2ae7c-20ec-5bd3-b191-c9d03e2f5d13",
+  "identifier": "im:0cd2ae7c-20ec-5bd3-b191-c9d03e2f5d13",
+  "name": "Train Speeds",
+  "alternateName": "6.2.9",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Lesson",
+    "@id": "im:21f2e723-f728-51ac-8794-651785b247da",
+    "courseCode": "6.2.9"
+  },
+  "learningResourceType": [
+    "Cool down"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:CoolDown",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/cool_downs/3110",
+  "dateCreated": "2020-03-02 16:17:52 UTC",
+  "dateModified": "2020-08-18 15:04:36 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="Assessment.identifier">3110</div>
+    <div class="Assessment.name">Train Speeds</div>
+    <div class="Assessment.dateCreated">2020-03-02 16:17:52 UTC</div>
+    <div class="Assessment.dateModified">2020-08-18 15:04:36 UTC</div>
+    <div class="im_statement"><p>Two trains are traveling at constant speeds on different tracks.</p>
+
+<p>Train A:</p>
+
+<p><img class="h-max-height--8-lines" src="/image_files/27402.png" /></p>
+
+<p>Train B:</p>
+
+<p><img class="h-max-height--8-lines" src="/image_files/27403.png" /></p>
+
+<p>Which train is traveling faster? Explain your reasoning.</p>
+</div>
+    <div class="im_extension"></div>
+  </body>
+</html>

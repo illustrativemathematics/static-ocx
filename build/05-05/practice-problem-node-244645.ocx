@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:c8454e8e-765d-5079-a51f-211aec62f0f9",
+  "identifier": "im:c8454e8e-765d-5079-a51f-211aec62f0f9",
+  "name": "6.2.9.8 Lin ran 29 meters in 10 seconds. She ran at a constant speed.  1. How...",
+  "alternateName": "6.2.9.8",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:c863f86a-cd35-5c8e-ac3c-d6f99c6a965a",
+    "courseCode": "6.2.9"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102716",
+  "dateCreated": "2019-05-20 07:52:57 UTC",
+  "dateModified": "2020-05-04 20:27:14 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102716</div>
+    <div class="AssessmentProblem.type">ShortAnswerResponse</div>
+    <div class="AssessmentProblem.statement"><p>Lin ran 29 meters in 10 seconds. She ran at a constant speed.</p>
+
+<ol>
+	<li>How far did Lin run every second?<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/3.tag"></presentation-tag>
+</li>
+	<li>At this rate, how far can she run in 1 minute?</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.solution"><ol>
+	<li>2.9 meters every second, because <span class="math math-repaired" data-png-file-id="47602">\(29 \div 10=2.9\)</span>.</li>
+	<li>174 meters, because <span class="math math-repaired" data-png-file-id="47646">\((2.9) \boldcdot 60 = 174\)</span>.</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:52:57 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-05-04 20:27:14 UTC</div>
+  </body>
+</html>

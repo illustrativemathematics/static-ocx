@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:624fda45-c984-5754-8204-d43c274d99ea",
+  "identifier": "im:624fda45-c984-5754-8204-d43c274d99ea",
+  "name": "6.2.4.9 One batch of pink paint uses 2 cups of white paint and 7 cups of red...",
+  "alternateName": "6.2.4.9",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:9aafa48c-e089-5886-8530-6c3489eb91f4",
+    "courseCode": "6.2.4"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102661",
+  "dateCreated": "2019-05-20 07:52:53 UTC",
+  "dateModified": "2020-05-04 20:27:12 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102661</div>
+    <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
+    <div class="AssessmentProblem.statement"><p>One batch of pink paint uses 2 cups of red paint and 7 cups of white paint. How many batches could you make using 10 cups of red paint and 35 cups of white paint? Explain your reasoning.</p>
+</div>
+    <div class="AssessmentProblem.solution"><p>5 batches. 5 batches of pink paint will require 10 cups of red paint because there are 2 cups of&#xA0;red paint in 1 batch and that amount will need to be multiplied by 5 and <span class="math math-repaired" data-png-file-id="38706">\(5 \boldcdot 2 = 10\)</span>. It will also require 35 cups of white paint because <span class="math math-repaired" data-png-file-id="45260">\(5 \boldcdot 7 = 35\)</span>.</p>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:52:53 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-05-04 20:27:12 UTC</div>
+  </body>
+</html>

@@ -1,0 +1,86 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:1a05301e-718c-5c60-ac06-87e78e3a828b",
+  "identifier": "im:1a05301e-718c-5c60-ac06-87e78e3a828b",
+  "name": "6.1.15.5 A drama club is building a wooden stage in the shape of a trapezoidal...",
+  "alternateName": "6.2.8.6",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:a76b39ef-1119-5f14-ac65-71b821e20b18",
+    "courseCode": "6.2.8"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102588",
+  "dateCreated": "2019-05-20 07:52:48 UTC",
+  "dateModified": "2020-05-04 20:27:10 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102588</div>
+    <div class="AssessmentProblem.type">ShortAnswerResponse</div>
+    <div class="AssessmentProblem.statement"><p>A drama club is building a wooden stage in the shape of a trapezoidal prism. The height of the stage is 2 feet. Some measurements of the stage are shown here.</p>
+
+<p><img class="h-max-height--9-lines" src="/image_files/29442.png" /></p>
+
+<p>What is the area of all the faces of the stage, excluding the bottom? Show your reasoning. If you get stuck, consider drawing a net of the prism.</p>
+</div>
+    <div class="AssessmentProblem.solution"><p>292 square feet. Sample reasoning: The trapezoidal face is 180 square feet since&#xA0;<span class="math math-repaired" data-png-file-id="47528">\((12 \boldcdot 10) + 2 (\frac 12 \boldcdot 12 \boldcdot 5) = 120 + 60 =180\)</span>. The side faces are <span class="math math-repaired" data-png-file-id="47601">\(2(13 \boldcdot 2) + (10 \boldcdot 2) + (20 \boldcdot 2)\)</span> or 112 square feet.</p>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:52:48 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-05-04 20:27:10 UTC</div>
+  </body>
+</html>

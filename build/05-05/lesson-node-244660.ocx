@@ -1,0 +1,113 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:Lesson",
+  "@id": "im:d0555316-aeb8-5340-890c-5e6373f19fa8",
+  "identifier": "im:d0555316-aeb8-5340-890c-5e6373f19fa8",
+  "name": "Comparing Situations by Examining Ratios",
+  "alternateName": "6.2.10",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Section",
+    "@id": "im:b3470304-14c5-52f6-a0d4-304aabdc5f53",
+    "courseCode": "6.2."
+  },
+  "learningResourceType": [
+    "Lesson"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:Lesson",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/lessons/15523",
+  "dateCreated": "2019-05-20 07:43:20 UTC",
+  "dateModified": "2021-07-22 14:07:15 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="Lesson.identifier">15523</div>
+    <div class="Lesson.name">Comparing Situations by Examining Ratios</div>
+    <div class="Lesson.alternateName">6.2.10</div>
+    <div class="Lesson.courseCode">6</div>
+    <div class="Lesson.dateCreated">2019-05-20 07:43:20 UTC</div>
+    <div class="Lesson.dateModified">2021-07-22 14:07:15 UTC</div>
+    <div class="im_student_facing_learning_goals"><p>Let&#x2019;s use ratios to compare situations.</p>
+</div>
+    <div class="im_learning_targets">I can decide whether or not two situations are happening at the same rate.
+I can explain what it means when two situations happen at the same rate.
+I know some examples of situations where things can happen at the same rate.</div>
+    <div class="im_glossary_entries">same rate: <p>We use the words <em>same rate</em> to describe two situations that have equivalent ratios.</p>
+
+<p>For example, a sink is filling with water at a rate of 2 gallons per minute. If a tub is also filling with water at a rate of 2 gallons per minute, then the sink and the tub are filling at the same rate.</p>
+</div>
+    <div class="im_student_lesson_summary"><p>Sometimes we want to know whether two situations are described by the <strong>same rate</strong>. To do that, we can write an equivalent ratio for one or both situations&#xA0;so that one part of their ratios has&#xA0;the same value.&#xA0;Then&#xA0;we can compare the other part of the ratios.</p>
+
+<p>For example, do these two paint mixtures make the same shade of orange?</p>
+
+<ul>
+	<li>Kiran mixes 9 teaspoons of red paint with 15 teaspoons of yellow paint.</li>
+	<li>Tyler mixes 7 teaspoons of red paint with 10 teaspoons of yellow paint.</li>
+</ul>
+
+<p>Here is a double number line that represents Kiran's paint mixture. The ratio <span class="math math-repaired">\(9:15\)</span> is equivalent to the ratios <span class="math math-repaired">\(3:5\)</span> and <span class="math math-repaired">\(6:10\)</span>.</p>
+
+<p><img class="h-max-height--6-lines" src="/image_files/26769.png" /></p>
+
+<p>For 10 teaspoons of yellow paint, Kiran would mix in 6 teaspoons of red paint. This is less red paint than&#xA0;Tyler mixes with 10 teaspoons of yellow paint. The ratios <span class="math math-repaired">\(6:10\)</span> and <span class="math math-repaired">\(7:10\)</span> are not equivalent, so these two paint mixtures would not be the same shade of orange.</p>
+
+<p>When we talk about two things happening at the same rate, we mean that the ratios of the quantities in the two situations are equivalent. There is also something specific about the situation that is the same.</p>
+
+<ul>
+	<li>If two ladybugs are moving at the same rate, then they are traveling at the <em>same constant speed</em>.</li>
+	<li>If two bags of apples are selling for the same rate, then they have the <em>same unit price</em>.</li>
+	<li>If we mix two kinds of juice at the same rate, then the mixtures have the <em>same taste</em>.</li>
+	<li>If we mix two colors of paint at the same rate, then the mixtures have the <em>same shade</em>.</li>
+</ul>
+</div>
+  </body>
+</html>

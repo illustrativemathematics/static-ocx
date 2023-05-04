@@ -1,0 +1,115 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:f603c60b-9ec2-5542-929b-d0f8ea8d9215",
+  "identifier": "im:f603c60b-9ec2-5542-929b-d0f8ea8d9215",
+  "name": "6.2.6.1 Here is a representation showing the amount of red and blue paint that...",
+  "alternateName": "6.2.6.1",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:58f4690f-4556-5856-be4e-e9defd1fa8df",
+    "courseCode": "6.2.6"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102680",
+  "dateCreated": "2019-05-20 07:52:54 UTC",
+  "dateModified": "2020-05-04 20:27:13 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102680</div>
+    <div class="AssessmentProblem.type">ShortAnswerResponse</div>
+    <div class="AssessmentProblem.statement"><p>Here is a representation showing the amount of red and blue paint that make 2 batches of purple paint.</p>
+
+<div class="imgrid">
+<div class="g--row g--row-1">
+<div class="g--column g--half g--content g--col-1 g--row-1">
+<ol>
+	<li>On the double number line, label the tick marks to represent amounts of red and blue paint used to make batches of this shade of purple paint.</li>
+</ol>
+</div>
+
+<div class="g--column g--half g--content g--col-2 g--row-1">
+<p><img src="/image_files/29475.png" /></p>
+</div>
+</div>
+</div>
+
+<div class="imgrid">
+<div class="g--row g--row-1">
+<div class="g--column g--half g--content g--col-1 g--row-1">
+<ol>
+	<li>How many batches are made with 12 cups of red paint?</li>
+	<li>How many batches are made with 6 cups of blue paint?</li>
+</ol>
+</div>
+
+<div class="g--column g--half g--content g--col-2 g--row-1">
+<p><img src="/image_files/29476.png" /></p>
+</div>
+</div>
+</div>
+</div>
+    <div class="AssessmentProblem.solution"><ol>
+	<li>Red (cups): 0, 3, 6, 9, 12; Blue (cups): 0, 2, 4, 6, 8</li>
+	<li>4 batches</li>
+	<li>3 batches</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:52:54 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-05-04 20:27:13 UTC</div>
+  </body>
+</html>

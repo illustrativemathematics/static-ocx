@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:05d45cca-67ab-5006-8edf-6fa307e7d352",
+  "identifier": "im:05d45cca-67ab-5006-8edf-6fa307e7d352",
+  "name": "6.2.5.13 In a fried chicken recipe, the ratio of cups of flour to cups of...",
+  "alternateName": "6.2.5.13",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:6a59853e-9f03-5936-a717-e3d30ba2fb38",
+    "courseCode": "6.2.5"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102679",
+  "dateCreated": "2019-05-20 07:52:54 UTC",
+  "dateModified": "2020-06-25 12:15:34 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102679</div>
+    <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
+    <div class="AssessmentProblem.statement"><p>In a fried chicken recipe, the ratio of cups of flour to cups of breadcrumbs is <span class="math math-repaired" data-png-file-id="13427">\(3:2\)</span>.</p>
+
+<ol>
+	<li>How much of each ingredient is needed if the recipe is tripled?</li>
+	<li>Andre has 12 cups of breadcrumbs. If he uses all the breadcrumbs in making multiple batches of fried chicken, how much flour does he use?</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.solution"><ol>
+	<li>9 cups of flour and 6 cups of breadcrumbs</li>
+	<li>18 cups of flour, because each quantity is multiplied by 6.</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:52:54 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-06-25 12:15:34 UTC</div>
+  </body>
+</html>

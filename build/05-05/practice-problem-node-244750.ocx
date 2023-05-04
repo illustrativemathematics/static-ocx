@@ -1,0 +1,161 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:75b32132-19ff-5099-9b79-a3efa49728e3",
+  "identifier": "im:75b32132-19ff-5099-9b79-a3efa49728e3",
+  "name": "6.2.13.5 This table has the information about how many servings there are in...",
+  "alternateName": "6.2.13.5",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:292a01c3-1b2b-59f5-b145-d3f1ba9bd5c2",
+    "courseCode": "6.2.13"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102763",
+  "dateCreated": "2019-05-20 07:52:59 UTC",
+  "dateModified": "2020-05-04 20:27:16 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102763</div>
+    <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
+    <div class="AssessmentProblem.statement"><p>This table has the information about how many servings there are in bottles of juice that are all the same size.&#xA0;</p>
+
+<div class="imgrid">
+<div class="g--row g--row-1">
+<div class="g--column g--one-third g--content g--col-1 g--row-1">
+<table border="1">
+	<thead>
+		<tr>
+			<th scope="col">number&#xA0;of bottles</th>
+			<th scope="col">number&#xA0;of servings</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th>0</th>
+			<td>0</td>
+		</tr>
+		<tr>
+			<th>3</th>
+			<td>24</td>
+		</tr>
+		<tr>
+			<th>6</th>
+			<td></td>
+		</tr>
+		<tr>
+			<th>9</th>
+			<td></td>
+		</tr>
+		<tr>
+			<th>1</th>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div class="g--column g--two-third g--content g--col-2 g--row-1">
+<p>This double number line represents the same information.</p>
+
+<p><img class="h-max-height--4-lines" src="/image_files/29497.png" /></p>
+
+<ol>
+	<li>Complete the missing information in the table and double number line.</li>
+	<li>Circle the places in both representations that show the number of servings in 6 bottles.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+    <div class="AssessmentProblem.solution"><table border="1">
+	<thead>
+		<tr>
+			<th scope="col">number&#xA0;of bottles</th>
+			<th scope="col">number&#xA0;of servings</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th>0</th>
+			<td>0</td>
+		</tr>
+		<tr>
+			<th>3</th>
+			<td>24</td>
+		</tr>
+		<tr>
+			<th>6</th>
+			<td>48</td>
+		</tr>
+		<tr>
+			<th>9</th>
+			<td>72</td>
+		</tr>
+		<tr>
+			<th>1</th>
+			<td>8</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><img class="h-max-height--5-lines" src="/image_files/30692.png" /></p>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:52:59 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-05-04 20:27:16 UTC</div>
+  </body>
+</html>

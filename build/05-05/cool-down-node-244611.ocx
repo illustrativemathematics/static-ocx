@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:CoolDown",
+  "@id": "im:72e4d106-fc55-5db8-85ca-fb3b81884409",
+  "identifier": "im:72e4d106-fc55-5db8-85ca-fb3b81884409",
+  "name": "Unit Price of Rice",
+  "alternateName": "6.2.8",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Lesson",
+    "@id": "im:38dd79d4-f2eb-5d62-90c7-0d4ea958d340",
+    "courseCode": "6.2.8"
+  },
+  "learningResourceType": [
+    "Cool down"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:CoolDown",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/cool_downs/3098",
+  "dateCreated": "2020-03-02 16:17:52 UTC",
+  "dateModified": "2020-08-18 15:04:24 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="Assessment.identifier">3098</div>
+    <div class="Assessment.name">Unit Price of Rice</div>
+    <div class="Assessment.dateCreated">2020-03-02 16:17:52 UTC</div>
+    <div class="Assessment.dateModified">2020-08-18 15:04:24 UTC</div>
+    <div class="im_statement"><p>Here is a double number line showing that it costs <span>$</span>3&#xA0;to buy 2 bags of rice:</p>
+
+<p><img class="h-max-height--8-lines" src="/image_files/27398.png" /></p>
+
+<ol>
+	<li>At this rate, how many bags of rice can you buy with <span>$</span>12?<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/3.tag"></presentation-tag><presentation-tag data-tag-title="HALF INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/3.tag"></presentation-tag>
+</li>
+	<li>Find the cost per bag.<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/3.tag"></presentation-tag><presentation-tag data-tag-title="HALF INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/3.tag"></presentation-tag>
+</li>
+	<li>How much do 20 bags of rice cost?</li>
+</ol>
+</div>
+    <div class="im_extension"></div>
+  </body>
+</html>

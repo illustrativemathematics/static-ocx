@@ -1,0 +1,86 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:ec1c1f09-c571-5989-9d6a-05b7e748c799",
+  "identifier": "im:ec1c1f09-c571-5989-9d6a-05b7e748c799",
+  "name": "6.2.9.1 The double number line shows the distance traveled and the elapsed time...",
+  "alternateName": "6.2.9.3",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:5e3f49a4-e90f-500d-a3a0-03318816c6ae",
+    "courseCode": "6.2.9"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102709",
+  "dateCreated": "2019-05-20 07:52:57 UTC",
+  "dateModified": "2020-05-04 20:27:14 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102709</div>
+    <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
+    <div class="AssessmentProblem.statement"><p>A cargo ship traveled 150 nautical miles in 6 hours at a constant speed. How far did the cargo ship travel in one hour?</p>
+
+<p><img class="h-max-height--6-lines" src="/image_files/29490.png" /></p>
+</div>
+    <div class="AssessmentProblem.solution"><p>The ship travels 25 nautical miles in 1 hour. Possible strategy:</p>
+
+<p><img class="h-max-height--8-lines" src="/image_files/30686.png" /></p>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:52:57 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-05-04 20:27:14 UTC</div>
+  </body>
+</html>

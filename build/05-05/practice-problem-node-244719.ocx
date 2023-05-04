@@ -1,0 +1,122 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:a225faa2-50a3-5eb3-990e-20b5935bec60",
+  "identifier": "im:a225faa2-50a3-5eb3-990e-20b5935bec60",
+  "name": "6.2.12.4 Jada is mixing powdered soap with water to create a cleaning solution...",
+  "alternateName": "6.2.12.4",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:ce88de04-6417-51a3-b45c-c54d76bd671d",
+    "courseCode": "6.2.12"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102746",
+  "dateCreated": "2019-05-20 07:52:58 UTC",
+  "dateModified": "2020-05-04 20:27:16 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102746</div>
+    <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
+    <div class="AssessmentProblem.statement"><p>Jada is mixing powdered soap with water to create a cleaning solution for the school car wash. The instructions say to use 2 capfulls of soap for every 5 cups of water. Solve the following problems. Explain or show your reasoning. If you get stuck, consider creating a table.</p>
+
+<ol>
+	<li>If Jada uses 30 cups of water, how much soap will she use?</li>
+	<li>If Jada uses 8 capfulls of soap, how much water will she use?</li>
+	<li>If Jada uses 1 capfull of soap, how much water will she use?</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.solution"><p>Answers vary. Sample response:&#xA0;</p>
+
+<table border="1">
+	<thead>
+		<tr>
+			<th scope="col">soap (capfulls)</th>
+			<th scope="col">water (cups)</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>2</td>
+			<td>5</td>
+		</tr>
+		<tr>
+			<td>12</td>
+			<td>30</td>
+		</tr>
+		<tr>
+			<td>8</td>
+			<td>20</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td><span class="math math-repaired" data-png-file-id="3217">\(1\frac12\)</span></td>
+		</tr>
+	</tbody>
+</table>
+
+<ol>
+	<li>12 capfulls, because 5 times 6 is 30, and 2 times 6 is 12.</li>
+	<li>20 cups, because 2 times 4 is 8, and 5 times 4 is 20.</li>
+	<li>
+<span class="math math-repaired" data-png-file-id="3217">\(1\frac12\)</span> cups, because half of 2 is 1 and half of 5 is <span class="math math-repaired" data-png-file-id="3217">\(1\frac12\)</span>.</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:52:58 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-05-04 20:27:16 UTC</div>
+  </body>
+</html>

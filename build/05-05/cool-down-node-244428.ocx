@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:CoolDown",
+  "@id": "im:0ceefba7-582a-5c8c-8f3e-62762c8ff1e3",
+  "identifier": "im:0ceefba7-582a-5c8c-8f3e-62762c8ff1e3",
+  "name": "A Collection of Animals",
+  "alternateName": "6.2.1",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Lesson",
+    "@id": "im:767b74ce-ad77-5714-b180-f77f6fbc55fa",
+    "courseCode": "6.2.1"
+  },
+  "learningResourceType": [
+    "Cool down"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:CoolDown",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/cool_downs/2972",
+  "dateCreated": "2020-03-02 16:17:44 UTC",
+  "dateModified": "2020-08-18 15:01:16 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="Assessment.identifier">2972</div>
+    <div class="Assessment.name">A Collection of Animals</div>
+    <div class="Assessment.dateCreated">2020-03-02 16:17:44 UTC</div>
+    <div class="Assessment.dateModified">2020-08-18 15:01:16 UTC</div>
+    <div class="im_statement"><p>Here is a collection of dogs, mice, and cats:</p>
+
+<figure class="c-figure"><img src="/image_files/27352.png" class="h-max-height--9-lines" /></figure>
+
+<p>Write <em>two</em> sentences that describe a ratio of types of animals in this collection.</p>
+</div>
+    <div class="im_extension"></div>
+  </body>
+</html>

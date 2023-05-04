@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:Activity",
+  "@id": "im:1196c523-945e-5ef2-a1b4-9e2e885dd316",
+  "identifier": "im:1196c523-945e-5ef2-a1b4-9e2e885dd316",
+  "name": "Flower Pattern",
+  "alternateName": "6.2.3.1",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Lesson",
+    "@id": "im:44d6a29c-c79c-5131-bee3-1b341b4f98f8",
+    "courseCode": "6.2.3"
+  },
+  "learningResourceType": [
+    "Activity"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:Activity",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/activities/51840",
+  "dateCreated": "2019-05-20 07:45:08 UTC",
+  "dateModified": "2020-06-24 15:40:29 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="Activity.identifier">51840</div>
+    <div class="Activity.name">Flower Pattern</div>
+    <div class="Activity.dateCreated">2019-05-20 07:45:08 UTC</div>
+    <div class="Activity.dateModified">2020-06-24 15:40:29 UTC</div>
+    <div class="im_statement"><p>This flower is made up of yellow hexagons, red trapezoids, and green triangles.</p>
+
+<div class="imgrid">
+<div class="g--row g--row-1">
+<div class="g--column g--one-third g--content g--col-1 g--row-1">
+<p><img class="h-max-height--12-lines" src="/image_files/27361.png" /></p>
+</div>
+
+<div class="g--column g--two-third g--content g--col-2 g--row-1">
+<ol>
+	<li>Write sentences to describe the ratios of the shapes that make up this pattern.<presentation-tag data-tag-title="1 INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/4.tag"></presentation-tag><presentation-tag data-tag-title="1 INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/4.tag"></presentation-tag>
+</li>
+	<li>How many of each shape would be in two copies of this flower pattern?</li>
+</ol>
+</div>
+</div>
+</div>
+
+<p>&#xA0;<presentation-tag data-tag-title="Pagebreak after" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/2.tag"></presentation-tag><presentation-tag data-tag-title="Pagebreak after" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/2.tag"></presentation-tag></p>
+</div>
+    <div class="im_extension"></div>
+  </body>
+</html>

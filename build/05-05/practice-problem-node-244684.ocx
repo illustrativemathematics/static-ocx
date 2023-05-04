@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:23cd143b-7a3c-527e-9a82-318e798c4243",
+  "identifier": "im:23cd143b-7a3c-527e-9a82-318e798c4243",
+  "name": "6.2.7.6 In a triple batch of a spice mix, there are 6 teaspoons of garlic powder...",
+  "alternateName": "6.2.10.7",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:858a16b1-486a-596b-8d68-a3ab5ab4b1ae",
+    "courseCode": "6.2.10"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102693",
+  "dateCreated": "2019-05-20 07:52:56 UTC",
+  "dateModified": "2020-05-04 20:27:15 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102693</div>
+    <div class="AssessmentProblem.type">ShortAnswerResponse</div>
+    <div class="AssessmentProblem.statement"><p>In a triple batch of a spice mix, there are 6 teaspoons of garlic powder and 15 teaspoons of salt. Answer the following questions about the mix.&#xA0;If you get stuck, create a double number line.</p>
+
+<ol>
+	<li>How much garlic powder is used with 5 teaspoons of salt?<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/3.tag"></presentation-tag><presentation-tag data-tag-title="HALF INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/3.tag"></presentation-tag>
+</li>
+	<li>How much salt is used with 8 teaspoons of garlic powder?<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/3.tag"></presentation-tag><presentation-tag data-tag-title="HALF INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/3.tag"></presentation-tag>
+</li>
+	<li>If there are&#xA0;14 teaspoons of spice mix, how much salt is in it?<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/3.tag"></presentation-tag><presentation-tag data-tag-title="HALF INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/3.tag"></presentation-tag>
+</li>
+	<li>How much more salt is there than garlic powder if 6 teaspoons of garlic powder are used?</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.solution"><ol>
+	<li>2 teaspoons</li>
+	<li>20 teaspoons</li>
+	<li>10 teaspoons</li>
+	<li>9 teaspoons</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:52:56 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-05-04 20:27:15 UTC</div>
+  </body>
+</html>

@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:f69140fa-4f68-54c8-953e-0b04f3e84c0c",
+  "identifier": "im:f69140fa-4f68-54c8-953e-0b04f3e84c0c",
+  "name": "6.2.8.3  4 movie tickets cost \\$48. At this rate, what is the cost of  1. 5 movie...",
+  "alternateName": "6.2.8.3",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:a76b39ef-1119-5f14-ac65-71b821e20b18",
+    "courseCode": "6.2.8"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102699",
+  "dateCreated": "2019-05-20 07:52:56 UTC",
+  "dateModified": "2020-06-25 12:15:46 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102699</div>
+    <div class="AssessmentProblem.type">ShortAnswerResponse</div>
+    <div class="AssessmentProblem.statement"><p>4 movie tickets cost <span>$</span>48. At this rate, what is the cost of:</p>
+
+<ol>
+	<li>5 movie tickets?<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/3.tag"></presentation-tag><presentation-tag data-tag-title="HALF INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/3.tag"></presentation-tag>
+</li>
+	<li>11 movie tickets?<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/3.tag"></presentation-tag><presentation-tag data-tag-title="HALF INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/3.tag"></presentation-tag>
+</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.solution"><ol>
+	<li>
+<span>$</span>60&#xA0;(1 ticket costs <span>$</span>12 because <span class="math math-repaired" data-png-file-id="47597">\(48 \div 4 = 12\)</span>. 5 tickets cost <span>$</span>60 because <span class="math math-repaired" data-png-file-id="40904">\(5 \boldcdot 12 = 60\)</span>.)</li>
+	<li>
+<span>$</span>132&#xA0;(because <span class="math math-repaired" data-png-file-id="47640">\(11 \boldcdot 12 = 132\)</span>)</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:52:56 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-06-25 12:15:46 UTC</div>
+  </body>
+</html>

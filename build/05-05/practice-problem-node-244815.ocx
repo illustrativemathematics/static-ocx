@@ -1,0 +1,124 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:6e033490-bfcc-5c64-bc37-418a90a57b19",
+  "identifier": "im:6e033490-bfcc-5c64-bc37-418a90a57b19",
+  "name": "6.2.16.1 A school is planning a picnic for 90 sixth-grade&#xA0;students.",
+  "alternateName": "6.2.16.1",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:11e9464a-a14a-5075-a5dd-473d371c27d4",
+    "courseCode": "6.2.16"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102787",
+  "dateCreated": "2019-05-20 07:53:00 UTC",
+  "dateModified": "2020-05-04 20:27:18 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102787</div>
+    <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
+    <div class="AssessmentProblem.statement"><p>A school is planning a picnic for 90 sixth-grade&#xA0;students. The organizers estimated that students prefer&#xA0;hamburgers to hot dogs in a ratio of 5 to 4.</p>
+
+<p>To have one hamburger or hot dog for each student, how many of each should they order? Explain or show your reasoning. If you get stuck, consider drawing a double number line, table, or&#xA0;tape diagram.<presentation-tag data-tag-title="1 INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/4.tag"></presentation-tag></p>
+</div>
+    <div class="AssessmentProblem.solution"><p>50 hamburgers and 40 hot dogs. Possible responses:</p>
+
+<ul>
+	<li>Using a tape diagram:</li>
+</ul>
+
+<p><img class="h-max-height--4-lines" src="/image_files/30697.png" /></p>
+
+<ul>
+	<li>
+	<p>Using a table:</p>
+
+	<table border="1">
+		<thead>
+			<tr>
+				<th scope="col">number of hamburgers</th>
+				<th scope="col">number of hotdogs</th>
+				<th scope="col">total</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>5</td>
+				<td>4</td>
+				<td>9</td>
+			</tr>
+			<tr>
+				<td>50</td>
+				<td>40</td>
+				<td>90</td>
+			</tr>
+		</tbody>
+	</table>
+	</li>
+</ul>
+
+<ul>
+	<li>Using a double number line:</li>
+</ul>
+
+<p><img class="h-max-height--8-lines" src="/image_files/30698.png" /></p>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:53:00 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-05-04 20:27:18 UTC</div>
+  </body>
+</html>

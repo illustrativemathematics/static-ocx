@@ -1,0 +1,107 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:6a46d9c4-9595-5c78-abcb-90087402d14b",
+  "identifier": "im:6a46d9c4-9595-5c78-abcb-90087402d14b",
+  "name": "6.2.7.4 A pet owner has 5 cats. Each cat has 2 ears and 4 paws.  ...",
+  "alternateName": "6.2.7.4",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:9634be2d-e0ff-599a-8e82-6a0e7f429963",
+    "courseCode": "6.2.7"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102691",
+  "dateCreated": "2019-05-20 07:52:56 UTC",
+  "dateModified": "2020-05-04 20:27:14 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102691</div>
+    <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
+    <div class="AssessmentProblem.statement"><p>A pet owner has 5 cats. Each cat has 2 ears and 4 paws.</p>
+
+<div class="imgrid">
+<div class="g--row g--row-1">
+<div class="g--column g--half g--content g--col-1 g--row-1">
+<ol>
+	<li>Complete the double number line to show the numbers of ears and paws for 1, 2, 3, 4, and 5 cats.</li>
+	<li>If there are 3 cats in the room, what is the ratio of ears to paws?</li>
+</ol>
+</div>
+
+<div class="g--column g--half g--content g--col-2 g--row-1">
+<p><img class="h-max-height--5-lines" src="/image_files/29486.png" /></p>
+</div>
+</div>
+</div>
+
+<ol>
+	<li>If there are 4 cats in the room, what is the ratio of paws to ears?</li>
+	<li>If all 5 cats are in the room, how many more paws are there than ears?</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.solution"><ol>
+	<li>Ears: 2, 4, 6, 8, 10; Paws: 4, 8, 12, 16, 20</li>
+	<li><span class="math math-repaired" data-png-file-id="45280">\(6:12\)</span></li>
+	<li><span class="math math-repaired" data-png-file-id="45307">\(16:8\)</span></li>
+	<li>10</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:52:56 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-05-04 20:27:14 UTC</div>
+  </body>
+</html>

@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:6ca7e239-8585-58fb-b092-794f1c74cdd1",
+  "identifier": "im:6ca7e239-8585-58fb-b092-794f1c74cdd1",
+  "name": "6.2.9.2 Elena went 60 meters in 15 seconds. Noah went 50 meters in 10 seconds....",
+  "alternateName": "6.2.9.2",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:c863f86a-cd35-5c8e-ac3c-d6f99c6a965a",
+    "courseCode": "6.2.9"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102710",
+  "dateCreated": "2019-05-20 07:52:57 UTC",
+  "dateModified": "2020-05-04 20:27:30 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102710</div>
+    <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
+    <div class="AssessmentProblem.statement"><p>Elena went 60 meters in 15 seconds. Noah went 50 meters in 10 seconds. Elena and Noah both moved at a constant speed.</p>
+
+<ol>
+	<li>How far did Elena go in 1 second?<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/3.tag"></presentation-tag><presentation-tag data-tag-title="HALF INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/3.tag"></presentation-tag>
+</li>
+	<li>How far did Noah go in 1 second?<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/3.tag"></presentation-tag><presentation-tag data-tag-title="HALF INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/3.tag"></presentation-tag>
+</li>
+	<li>
+	<p>Who went faster? Explain or show your reasoning.<presentation-tag data-tag-title="1 INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/4.tag"></presentation-tag><presentation-tag data-tag-title="1 INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/4.tag"></presentation-tag></p>
+	</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.solution"><ol>
+	<li>Elena went 4 meters in 1 second&#xA0;because <span class="math math-repaired" data-png-file-id="45286">\(60 \div 15=4\)</span>.</li>
+	<li>Noah went 5 meters in 1 second&#xA0;because <span class="math math-repaired" data-png-file-id="16533">\(50 \div 10=5\)</span>.</li>
+	<li>Noah went faster; he ran more distance in 1 second. Once the distances traveled in 1 second are computed, they&#xA0;can be compared directly.</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:52:57 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-05-04 20:27:30 UTC</div>
+  </body>
+</html>

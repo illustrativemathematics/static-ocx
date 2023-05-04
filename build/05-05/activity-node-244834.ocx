@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:Activity",
+  "@id": "im:aa23a829-7e2d-571e-ac73-5991f41a470e",
+  "identifier": "im:aa23a829-7e2d-571e-ac73-5991f41a470e",
+  "name": "Fix It!",
+  "alternateName": "6.2.17.1",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Lesson",
+    "@id": "im:ab1f7de2-1d77-5faa-b931-e90983251edd",
+    "courseCode": "6.2.17"
+  },
+  "learningResourceType": [
+    "Activity"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:Activity",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/activities/51899",
+  "dateCreated": "2019-05-20 07:45:26 UTC",
+  "dateModified": "2020-05-04 20:27:25 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="Activity.identifier">51899</div>
+    <div class="Activity.name">Fix It!</div>
+    <div class="Activity.dateCreated">2019-05-20 07:45:26 UTC</div>
+    <div class="Activity.dateModified">2020-05-04 20:27:25 UTC</div>
+    <div class="im_statement"><p>Andre likes a hot cocoa recipe with 1 cup of milk and 3 tablespoons of cocoa. He poured 1 cup of milk&#xA0;but accidentally added 5 tablespoons of cocoa.</p>
+
+<p><img class="h-max-height--7-lines" src="/image_files/27444.png" /></p>
+
+<ol>
+	<li>How can you fix Andre&#x2019;s mistake and make his hot cocoa taste like the recipe?<presentation-tag data-tag-title="1 INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/4.tag"></presentation-tag><presentation-tag data-tag-title="1 INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/4.tag"></presentation-tag>
+</li>
+	<li>
+	<p>Explain how you know your adjustment will make Andre&#x2019;s hot cocoa taste the same as the one in the recipe.</p>
+	<presentation-tag data-tag-title="Pagebreak after" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/2.tag"></presentation-tag><presentation-tag data-tag-title="Pagebreak after" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/2.tag"></presentation-tag>
+</li>
+</ol>
+</div>
+    <div class="im_extension"></div>
+  </body>
+</html>

@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:0e43f081-efbd-50e8-8b6d-26326b8ac46b",
+  "identifier": "im:0e43f081-efbd-50e8-8b6d-26326b8ac46b",
+  "name": "6.2.15.3 Jada has some pennies and dimes. The ratio of Jada&#x2019;s pennies to dimes is...",
+  "alternateName": "6.2.15.3",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:df59bdd5-bb83-569d-a7ed-9ab97666a59b",
+    "courseCode": "6.2.15"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102779",
+  "dateCreated": "2019-05-20 07:53:00 UTC",
+  "dateModified": "2020-05-04 20:27:33 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102779</div>
+    <div class="AssessmentProblem.type">ShortAnswerResponse</div>
+    <div class="AssessmentProblem.statement"><p>Jada has some pennies and dimes. The ratio of Jada&#x2019;s pennies to dimes is 2 to 3.</p>
+
+<ol>
+	<li>From the information given, can you determine how many coins Jada has?<presentation-tag data-tag-title="1 INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/4.tag"></presentation-tag><presentation-tag data-tag-title="1 INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/4.tag"></presentation-tag>
+</li>
+	<li>If Jada has 55 coins, how many of each kind of coin does she have?<presentation-tag data-tag-title="1 INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/4.tag"></presentation-tag><presentation-tag data-tag-title="1 INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/4.tag"></presentation-tag>
+</li>
+	<li>How much are her coins worth?</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.solution"><ol>
+	<li>No, there is not enough information to determine how many pennies and how many dimes Jada has. (We only know that for every 2 pennies, there are 3 dimes.)</li>
+	<li>22 pennies and 33 dimes.&#xA0;(There are 5 coins total in each group of 2 pennies and 3 dimes. If Jada has 55 coins, that means there are 11 groups, because <span class="math math-repaired" data-png-file-id="39151">\(55 \div 5 = 11\)</span>. There are 22 pennies (<span class="math math-repaired" data-png-file-id="47631">\(11 \boldcdot 2=22\)</span>) and 33 dimes (<span class="math math-repaired" data-png-file-id="47667">\(11 \boldcdot 3=33\)</span>) in total.)</li>
+	<li>
+<span>$</span>3.52.&#xA0;(The 22 pennies are worth <span>$</span>0.22, and the 33 dimes are worth <span>$</span>3.30. <span class="math math-repaired" data-png-file-id="47696">\(0.22+3.30=3.52\)</span>.)</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:53:00 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-05-04 20:27:33 UTC</div>
+  </body>
+</html>

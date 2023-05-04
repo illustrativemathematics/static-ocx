@@ -1,0 +1,164 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:e61875c2-c6b4-52b8-b910-346de49643b7",
+  "identifier": "im:e61875c2-c6b4-52b8-b910-346de49643b7",
+  "name": "6.2.13.6 To make a garlic bread coating, mix 3 tablespoons of olive oil with 2...",
+  "alternateName": "6.2.13.6",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:292a01c3-1b2b-59f5-b145-d3f1ba9bd5c2",
+    "courseCode": "6.2.13"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102764",
+  "dateCreated": "2019-05-20 07:52:59 UTC",
+  "dateModified": "2020-05-04 20:27:16 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102764</div>
+    <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
+    <div class="AssessmentProblem.statement"><p>A bread&#xA0;recipe uses 3 tablespoons of olive oil for every 2 cloves of crushed garlic.&#xA0;</p>
+
+<div class="imgrid">
+<div class="g--row g--row-1">
+<div class="g--column g--half g--content g--col-1 g--row-1">
+<ol>
+	<li>Complete the table to show different-sized batches of bread that taste the same as the recipe.</li>
+	<li>Draw a double number line that represents the same situation.</li>
+	<li>Which representation do you think works better in this situation? Explain why.</li>
+</ol>
+</div>
+
+<div class="g--column g--half g--content g--col-2 g--row-1">
+<table border="1">
+	<thead>
+		<tr>
+			<th scope="col">olive&#xA0;oil (tablespoons)</th>
+			<th scope="col">crushed&#xA0;garlic (cloves)</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>3</td>
+			<td>2</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>5</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>10</td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+    <div class="AssessmentProblem.solution"><ol>
+	<li>
+	<table border="1">
+		<thead>
+			<tr>
+				<th scope="col">olive oil (tablespoons)</th>
+				<th scope="col">crushed garlic (cloves)</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>3</td>
+				<td>2</td>
+			</tr>
+			<tr>
+				<td>1</td>
+				<td><span class="math math-repaired" data-png-file-id="781">\(\frac23\)</span></td>
+			</tr>
+			<tr>
+				<td>2</td>
+				<td><span class="math math-repaired" data-png-file-id="3324">\(1\frac13\)</span></td>
+			</tr>
+			<tr>
+				<td>5</td>
+				<td><span class="math math-repaired" data-png-file-id="8273">\(3\frac13\)</span></td>
+			</tr>
+			<tr>
+				<td>10</td>
+				<td><span class="math math-repaired" data-png-file-id="13199">\(6\frac23\)</span></td>
+			</tr>
+		</tbody>
+	</table>
+	</li>
+	<li>
+	<p><img class="h-max-height--5-lines" src="/image_files/30693.png" /></p>
+	</li>
+	<li>Answers vary. Sample response: The table is more convenient&#xA0;because the rows of the table can be listed in any order and without worrying about placing numbers accurately on the number line.</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:52:59 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-05-04 20:27:16 UTC</div>
+  </body>
+</html>

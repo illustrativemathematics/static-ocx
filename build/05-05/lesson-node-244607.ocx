@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:Lesson",
+  "@id": "im:38dd79d4-f2eb-5d62-90c7-0d4ea958d340",
+  "identifier": "im:38dd79d4-f2eb-5d62-90c7-0d4ea958d340",
+  "name": "How Much for One?",
+  "alternateName": "6.2.8",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Section",
+    "@id": "im:b3470304-14c5-52f6-a0d4-304aabdc5f53",
+    "courseCode": "6.2."
+  },
+  "learningResourceType": [
+    "Lesson"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:Lesson",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/lessons/15521",
+  "dateCreated": "2019-05-20 07:43:19 UTC",
+  "dateModified": "2021-07-22 14:08:13 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="Lesson.identifier">15521</div>
+    <div class="Lesson.name">How Much for One?</div>
+    <div class="Lesson.alternateName">6.2.8</div>
+    <div class="Lesson.courseCode">6</div>
+    <div class="Lesson.dateCreated">2019-05-20 07:43:19 UTC</div>
+    <div class="Lesson.dateModified">2021-07-22 14:08:13 UTC</div>
+    <div class="im_student_facing_learning_goals"><p>Let&#x2019;s use ratios to describe how much things cost.</p>
+</div>
+    <div class="im_learning_targets">I can choose and create diagrams to help me reason about prices.
+I can explain what the phrase &#x201C;at this rate&#x201D; means, using prices as an example.
+If I know the price of multiple things, I can find the price per thing.</div>
+    <div class="im_glossary_entries">unit price: <p>The unit price is the cost for one item or for one unit of measure. For example, if 10 feet of chain link fencing cost <span>$</span>150, then the unit price is <span class="math math-repaired" data-png-file-id="39183">\(150 \div 10\)</span>, or <span>$</span>15 per foot.</p>
+</div>
+    <div class="im_student_lesson_summary"><p>The <strong>unit price</strong> is the price of 1 thing&#x2014;for example, the price of 1 ticket, 1 slice of pizza, or 1 kilogram of peaches.</p>
+
+<p>If 4 movie tickets cost \$28, then the unit price would be the cost <em>per</em> ticket. We can create a double number line to find the unit price.</p>
+
+<p><img class="h-max-height--8-lines" src="/image_files/26766.png" /></p>
+
+<p>This double number line shows that the cost for 1 ticket is \$7. We can also find the unit price by dividing, <span class="math math-repaired">\(28 \div 4 = 7\)</span>, or by multiplying, <span class="math math-repaired">\(28 \boldcdot \frac14 = 7\)</span>.</p>
+</div>
+  </body>
+</html>

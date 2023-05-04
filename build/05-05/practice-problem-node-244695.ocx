@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:2b0847bb-b170-5e00-a364-ca463e01aa20",
+  "identifier": "im:2b0847bb-b170-5e00-a364-ca463e01aa20",
+  "name": "6.2.11.4 A professional cyclist pedals 90 rotations per minute. Use this...",
+  "alternateName": "6.2.11.4",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:e9523c6d-3961-55a9-b8f2-e445316d41fe",
+    "courseCode": "6.2.11"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102736",
+  "dateCreated": "2019-05-20 07:52:58 UTC",
+  "dateModified": "2020-05-04 20:27:16 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102736</div>
+    <div class="AssessmentProblem.type">ShortAnswerResponse</div>
+    <div class="AssessmentProblem.statement"><p>A professional cyclist pedals 90 rotations per minute. Complete the table and show the number of pedal rotations in different time durations at this rate.</p>
+
+<div class="imgrid">
+<div class="g--row g--row-1">
+<div class="g--column g--half g--content g--col-1 g--row-1">
+<ol>
+	<li>Complete the table.
+	<table border="1">
+		<thead>
+			<tr>
+				<th scope="col">time in minutes</th>
+				<th scope="col">rotation of pedals</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>1</td>
+				<td>90</td>
+			</tr>
+			<tr>
+				<td>8</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>4,500</td>
+			</tr>
+			<tr>
+				<td>60</td>
+				<td></td>
+			</tr>
+		</tbody>
+	</table>
+	</li>
+</ol>
+</div>
+
+<div class="g--column g--half g--content g--col-2 g--row-1">
+<ol>
+	<li>How did you calculate the missing values in the second column?<presentation-tag data-tag-title="1 INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/4.tag"></presentation-tag>
+</li>
+	<li>How did you calculate the missing value in the first column?</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+    <div class="AssessmentProblem.solution"><ol>
+	<li>&#xA0;
+	<table border="1">
+		<thead>
+			<tr>
+				<th scope="col">time in minutes</th>
+				<th scope="col">rotation of pedals</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>1</td>
+				<td>90</td>
+			</tr>
+			<tr>
+				<td>8</td>
+				<td>720</td>
+			</tr>
+			<tr>
+				<td>50</td>
+				<td>4,500</td>
+			</tr>
+			<tr>
+				<td>60</td>
+				<td>5,400</td>
+			</tr>
+		</tbody>
+	</table>
+	</li>
+	<li>Answers vary. Sample response: Multiply 90 by 8 and multiply 90 by 60.</li>
+	<li>Answers vary. Sample response: 4,500 is <span class="math math-repaired" data-png-file-id="47608">\(50 \boldcdot 90\)</span>, so the value in the first column is <span class="math math-repaired" data-png-file-id="47650">\(50 \boldcdot 1\)</span>.</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:52:58 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-05-04 20:27:16 UTC</div>
+  </body>
+</html>

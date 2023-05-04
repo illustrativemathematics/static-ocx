@@ -1,0 +1,136 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:50b78afb-2e1f-5e7a-904c-c0e49a394480",
+  "identifier": "im:50b78afb-2e1f-5e7a-904c-c0e49a394480",
+  "name": "6.2.13.1 This table has information about the number of oranges needed to make...",
+  "alternateName": "6.2.13.1",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:292a01c3-1b2b-59f5-b145-d3f1ba9bd5c2",
+    "courseCode": "6.2.13"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102759",
+  "dateCreated": "2019-05-20 07:52:59 UTC",
+  "dateModified": "2020-05-04 20:27:16 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102759</div>
+    <div class="AssessmentProblem.type">ShortAnswerResponse</div>
+    <div class="AssessmentProblem.statement"><p>This double number line has some information about the number of oranges needed to make different amounts of fresh squeezed orange juice.<br />
+<img class="h-max-height--8-lines" src="/image_files/29495.png" /></p>
+
+<p>This table also has some information about orange juice.</p>
+
+<div class="imgrid">
+<div class="g--row g--row-1">
+<div class="g--column g--half g--content g--col-1 g--row-1">
+<table border="1" style="width:200px">
+	<thead>
+		<tr>
+			<th scope="col">number&#xA0;of oranges</th>
+			<th scope="col">ounces&#xA0;of orange&#xA0;juice</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th>0</th>
+			<td>0</td>
+		</tr>
+		<tr>
+			<th>10</th>
+			<td>16</td>
+		</tr>
+		<tr>
+			<th>20</th>
+			<td></td>
+		</tr>
+		<tr>
+			<th>40</th>
+			<td></td>
+		</tr>
+		<tr>
+			<th>5</th>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div class="g--column g--half g--content g--col-2 g--row-1">
+<ol>
+	<li>Complete the missing values in the table and the double number line.</li>
+	<li>Circle the places in&#xA0;the double number line and table that show the number of ounces of orange juice from&#xA0;20 oranges.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+    <div class="AssessmentProblem.solution"><ol>
+	<li>See the table and double number line.</li>
+	<li>Locations are circled.</li>
+</ol>
+
+<p><img class="h-max-height--11-lines" src="/image_files/30688.png" /></p>
+
+<p><img class="h-max-height--8-lines" src="/image_files/30689.png" /></p>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:52:59 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-05-04 20:27:16 UTC</div>
+  </body>
+</html>

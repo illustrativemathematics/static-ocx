@@ -1,0 +1,110 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:c014cbba-2fbc-5d5b-af3e-cbe8f535c61f",
+  "identifier": "im:c014cbba-2fbc-5d5b-af3e-cbe8f535c61f",
+  "name": "6.2.2.1 To make a snack mix, combine 2 cups of raisins with 4 cups of pretzels...",
+  "alternateName": "6.2.2.2",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:24253f7e-664d-56d7-943d-4af5a15ddee7",
+    "courseCode": "6.2.2"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102630",
+  "dateCreated": "2019-05-20 07:52:52 UTC",
+  "dateModified": "2020-05-04 20:27:11 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102630</div>
+    <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
+    <div class="AssessmentProblem.statement"><p>To make a snack mix, combine 2 cups of raisins with 4 cups of pretzels and 6 cups of almonds.</p>
+
+<ol>
+	<li>
+	<p>Create a diagram to represent the quantities of each ingredient in this recipe.<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/3.tag"></presentation-tag><presentation-tag data-tag-title="HALF INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/3.tag"></presentation-tag></p>
+	<presentation-tag data-tag-title="1 INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/4.tag"></presentation-tag><presentation-tag data-tag-title="1 INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/4.tag"></presentation-tag>
+</li>
+	<li>
+	<p>Use your diagram to complete each sentence.</p>
+
+	<ul>
+		<li>The ratio of __________________ to __________________ to __________________ is ________ : ________ : ________.</li>
+		<li>There are ________ cups of pretzels for every cup of raisins.</li>
+		<li>There are ________ cups of almonds for every cup of raisins.<presentation-tag data-tag-title="Pagebreak after" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/2.tag"></presentation-tag><presentation-tag data-tag-title="Pagebreak after" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/2.tag"></presentation-tag>
+</li>
+	</ul>
+	</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.solution"><ol>
+	<li>Answers vary. Sample response:
+	<p><img class="h-max-height--8-lines" src="/image_files/30669.png" /></p>
+	</li>
+	<li>Statements:
+	<ul>
+		<li>Answers vary. Sample response: cups of raisins, cups of pretzels, cups of almonds, 2,&#xA0;4,&#xA0;6</li>
+		<li>2</li>
+		<li>3</li>
+	</ul>
+	</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:52:52 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-05-04 20:27:11 UTC</div>
+  </body>
+</html>

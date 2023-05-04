@@ -1,0 +1,130 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:Activity",
+  "@id": "im:105033fd-207d-517e-a631-c5eac8108407",
+  "identifier": "im:105033fd-207d-517e-a631-c5eac8108407",
+  "name": "Moving 10 Meters",
+  "alternateName": "6.2.9.2",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Lesson",
+    "@id": "im:21f2e723-f728-51ac-8794-651785b247da",
+    "courseCode": "6.2.9"
+  },
+  "learningResourceType": [
+    "Activity"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:Activity",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/activities/51866",
+  "dateCreated": "2019-05-20 07:45:16 UTC",
+  "dateModified": "2021-07-26 15:27:31 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="Activity.identifier">51866</div>
+    <div class="Activity.name">Moving 10 Meters</div>
+    <div class="Activity.dateCreated">2019-05-20 07:45:16 UTC</div>
+    <div class="Activity.dateModified">2021-07-26 15:27:31 UTC</div>
+    <div class="im_statement"><p>Your teacher will set up a straight path with a 1-meter warm-up&#xA0;zone and a 10-meter measuring zone.&#xA0;Follow the following instructions to collect the data.</p>
+
+<p>&#x200B;<img class="h-max-height--6-lines" src="/image_files/26767.png" /></p>
+
+<ol>
+	<li>
+	<ol>
+		<li>The person with the stopwatch (the &#x201C;timer&#x201D;) stands at the finish line. The person being timed (the &#x201C;mover&#x201D;) stands at the warm-up line.</li>
+		<li>On the first round, the mover starts moving <em>at a slow, steady speed</em> along the path. When the mover reaches the start line, they say, &#x201C;Start!&#x201D; and the timer starts the stopwatch.</li>
+		<li>The mover keeps moving steadily along the path. When they reach&#xA0;the finish line, the timer stops the stopwatch and records the time, rounded to the nearest second,&#xA0;in the table.</li>
+		<li>On the second round, the mover follows the same instructions, but this time, moving <em>at a quick, steady speed</em>. The timer records the time the same way.</li>
+		<li>Repeat these steps until each person in the group has gone twice:&#xA0;once at a slow, steady speed, and once at a quick, steady speed.
+		<table border="1">
+			<thead>
+				<tr>
+					<th scope="col">your slow moving time (seconds)</th>
+					<th scope="col">your fast moving time (seconds)</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td></td>
+					<td></td>
+				</tr>
+			</tbody>
+		</table>
+		</li>
+	</ol>
+	</li>
+	<li>
+	<p>After you finish collecting the data, use the double number line diagrams to answer the questions. Use the times your partner collected while you were moving.</p>
+
+	<p>Moving slowly:</p>
+
+	<p><img class="h-max-height--6-lines" src="/image_files/27400.png" /></p>
+
+	<p>Moving quickly:</p>
+
+	<p><img class="h-max-height--6-lines" src="/image_files/27400.png" /></p>
+
+	<ol>
+		<li>Estimate the distance in meters you traveled in 1 second when moving slowly.<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/3.tag"></presentation-tag><presentation-tag data-tag-title="HALF INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/3.tag"></presentation-tag>
+</li>
+		<li>Estimate the distance in meters you traveled in 1 second when moving quickly.<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/3.tag"></presentation-tag><presentation-tag data-tag-title="HALF INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/3.tag"></presentation-tag>
+</li>
+		<li>Trade diagrams with someone who is not your partner. How is the diagram representing someone moving slowly different from the diagram representing someone moving quickly?<presentation-tag data-tag-title="1 INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/4.tag"></presentation-tag><presentation-tag data-tag-title="1 INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/4.tag"></presentation-tag>
+</li>
+	</ol>
+	</li>
+</ol>
+</div>
+    <div class="im_extension"></div>
+  </body>
+</html>

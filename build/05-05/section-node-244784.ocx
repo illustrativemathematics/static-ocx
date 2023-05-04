@@ -1,0 +1,98 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:Section",
+  "@id": "im:8855add6-c105-50b0-b3a7-dc6af18b63b8",
+  "identifier": "im:8855add6-c105-50b0-b3a7-dc6af18b63b8",
+  "name": "Part-part-whole Ratios",
+  "alternateName": "6.2.",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Unit",
+    "@id": "im:93341361-17bd-5d89-a231-a19886be45d7",
+    "courseCode": "6.2"
+  },
+  "learningResourceType": [
+    "Section"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:Section",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/sections/4226",
+  "dateCreated": "2019-05-20 07:42:56 UTC",
+  "dateModified": "2020-05-04 20:23:36 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="Unit.identifier">4226</div>
+    <div class="Unit.name">Part-part-whole Ratios</div>
+    <div class="Unit.alternateName">6.2.</div>
+    <div class="Unit.courseCode">6</div>
+    <div class="Unit.dateCreated">2019-05-20 07:42:56 UTC</div>
+    <div class="Unit.dateModified">2020-05-04 20:23:36 UTC</div>
+    <div class="Unit.cc:license">https://creativecommons.org/licenses/by-nc/4.0/</div>
+    <div class="Unit.cc:morePermissions"><p>IM 6&#x2013;8 Math was originally developed by Open Up Resources and authored by Illustrative Mathematics&#xAE;, and is copyright 2017-2019 by Open Up Resources. It is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>. OUR's 6&#x2013;8 Math Curriculum is available at <a href="https://openupresources.org/math-curriculum/">https://openupresources.org/math-curriculum/</a>.</p>
+
+<p>Adaptations and updates to IM 6&#x2013;8 Math are copyright 2019&#xA0;by <a href="https://www.illustrativemathematics.org/">Illustrative Mathematics</a>, and are licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>.</p>
+
+<p>Adaptations to add additional English language learner supports are copyright 2019 by <a href="https://openupresources.org/">Open Up Resources</a>, and are licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>.</p>
+
+<p>The second set of English assessments (marked as set "B") are copyright 2019 by <a href="https://openupresources.org/">Open Up Resources</a>, and are licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>.</p>
+
+<p>Spanish translation of the "B" assessments are copyright 2020 by&#xA0;<a href="https://www.illustrativemathematics.org/">Illustrative Mathematics</a>, and are licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>.</p>
+
+<p>The Illustrative Mathematics name and logo are not subject to the Creative Commons license and may not be used without the prior and express written consent of Illustrative Mathematics.</p>
+
+<p>This site includes public domain images or openly licensed images that are copyrighted by their respective owners. Openly licensed images remain under the terms of their respective licenses. See the image attribution section for more information.</p>
+</div>
+    <div class="Unit.cc:attributionName">Illustrative Mathematics</div>
+    <div class="Unit.cc:attributionURL">https://illustrativemathematics.org</div>
+    <div class="Unit.cc:useGuidelines">TBD</div>
+  </body>
+</html>

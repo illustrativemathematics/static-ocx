@@ -1,0 +1,111 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:37a02d1c-019a-5b72-98f1-0bda828012ec",
+  "identifier": "im:37a02d1c-019a-5b72-98f1-0bda828012ec",
+  "name": "6.2.8.8 Garbanzo beans are on sale for \\$0.40 per can. At this rate what is the...",
+  "alternateName": "6.2.8.8",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:188ddb56-9b3c-50e3-8ce6-6f1a85273ea0",
+    "courseCode": "6.2.8"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102704",
+  "dateCreated": "2019-05-20 07:52:56 UTC",
+  "dateModified": "2020-06-25 12:15:44 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102704</div>
+    <div class="AssessmentProblem.type">ShortAnswerResponse</div>
+    <div class="AssessmentProblem.statement"><p>Garbanzo beans are on sale for <span>$</span>0.40 per can. At this rate, what is the cost of:</p>
+
+<div class="imgrid">
+<div class="g--row g--row-1">
+<div class="g--column g--one-third g--content g--col-1 g--row-1">
+<ol>
+	<li>10 cans</li>
+</ol>
+</div>
+
+<div class="g--column g--one-third g--content g--col-2 g--row-1">
+<ol>
+	<li>20 cans</li>
+</ol>
+</div>
+
+<div class="g--column g--one-third g--content g--col-3 g--row-1">
+<ol>
+	<li>100 cans</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+    <div class="AssessmentProblem.solution"><ol>
+	<li>
+<span>$</span>4.00</li>
+	<li>
+<span>$</span>8.00</li>
+	<li>
+<span>$</span>40.00</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:52:56 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-06-25 12:15:44 UTC</div>
+  </body>
+</html>

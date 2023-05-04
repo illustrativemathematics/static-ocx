@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:1d895f49-b907-5f59-a1d5-b5f8547f6fc5",
+  "identifier": "im:1d895f49-b907-5f59-a1d5-b5f8547f6fc5",
+  "name": "6.2.15.7 Last month there were 4 sunny days for every rainy day. If there were 30...",
+  "alternateName": "6.2.15.3",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:a91cc31f-2772-5072-8d13-a6bbf1925e80",
+    "courseCode": "6.2.15"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102783",
+  "dateCreated": "2019-05-20 07:53:00 UTC",
+  "dateModified": "2020-05-04 20:27:17 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102783</div>
+    <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
+    <div class="AssessmentProblem.statement"><p>Last month, there were 4 sunny days for every rainy day. If there were 30 days in the month, how many days were rainy? Explain your reasoning. If you get stuck, consider using a tape diagram.</p>
+</div>
+    <div class="AssessmentProblem.solution"><p>There were 6 rainy days, because <span class="math math-repaired" data-png-file-id="45324">\(4+1=5\)</span>, so there are 5 units total. <span class="math math-repaired" data-png-file-id="45367">\(30\div5=6\)</span>, so each unit is worth 6.</p>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:53:00 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-05-04 20:27:17 UTC</div>
+  </body>
+</html>

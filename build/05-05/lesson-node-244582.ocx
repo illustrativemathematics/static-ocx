@@ -1,0 +1,100 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:Lesson",
+  "@id": "im:63072efc-1841-5656-a450-3c2b142bfbff",
+  "identifier": "im:63072efc-1841-5656-a450-3c2b142bfbff",
+  "name": "Creating Double Number Line Diagrams",
+  "alternateName": "6.2.7",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Section",
+    "@id": "im:b3470304-14c5-52f6-a0d4-304aabdc5f53",
+    "courseCode": "6.2."
+  },
+  "learningResourceType": [
+    "Lesson"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:Lesson",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/lessons/15520",
+  "dateCreated": "2019-05-20 07:43:19 UTC",
+  "dateModified": "2021-07-26 14:15:51 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="Lesson.identifier">15520</div>
+    <div class="Lesson.name">Creating Double Number Line Diagrams</div>
+    <div class="Lesson.alternateName">6.2.7</div>
+    <div class="Lesson.courseCode">6</div>
+    <div class="Lesson.dateCreated">2019-05-20 07:43:19 UTC</div>
+    <div class="Lesson.dateModified">2021-07-26 14:15:51 UTC</div>
+    <div class="im_student_facing_learning_goals"><p>Let's draw double number line diagrams like a pro.</p>
+</div>
+    <div class="im_learning_targets">I can create a double number line diagram and correctly place and label tick marks to represent equivalent ratios.
+I can explain what the word per means.</div>
+    <div class="im_glossary_entries">per: <p>The word <em>per</em> means &#x201C;for each.&#x201D; For example, if the price is&#xA0;<span>$</span>5 per ticket, that means you will pay <span>$</span>5 <em>for each</em> ticket. Buying 4 tickets would cost <span>$</span>20, because <span class="math math-repaired" data-png-file-id="24655">\(4 \boldcdot 5 = 20\)</span>.</p>
+</div>
+    <div class="im_student_lesson_summary"><p>Here are some guidelines to keep in mind when drawing a double number line diagram:</p>
+
+<ul>
+	<li>The two parallel lines should have labels that describe what the numbers represent.</li>
+	<li>The tick marks and numbers should be spaced at equal intervals.</li>
+	<li>Numbers that line up vertically make equivalent ratios.</li>
+</ul>
+
+<p>For example, the ratio of the number of eggs to cups of milk in a recipe is <span class="math math-repaired">\(4:1\)</span>. Here is a&#xA0;double number line that represents the situation:</p>
+
+<p><img class="h-max-height--7-lines" src="/image_files/26764.png" /></p>
+
+<p>We can also say that this recipe uses &#x201C;4 eggs per cup of milk&#x201D; because the word <strong>per&#xA0;</strong>means &#x201C;for each.&#x201D;</p>
+</div>
+  </body>
+</html>

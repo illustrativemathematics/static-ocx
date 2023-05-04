@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:331591fd-7693-5232-a127-553f0c4c42d6",
+  "identifier": "im:331591fd-7693-5232-a127-553f0c4c42d6",
+  "name": "6.2.5.8 Explain why $6:4$ and $18:8$ are not equivalent ratios.",
+  "alternateName": "6.2.5.8",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:6a59853e-9f03-5936-a717-e3d30ba2fb38",
+    "courseCode": "6.2.5"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102674",
+  "dateCreated": "2019-05-20 07:52:54 UTC",
+  "dateModified": "2020-06-25 12:15:59 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102674</div>
+    <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
+    <div class="AssessmentProblem.statement"><p>Explain why <span class="math math-repaired" data-png-file-id="8149">\(6:4\)</span> and <span class="math math-repaired" data-png-file-id="35352">\(18:8\)</span> are not equivalent ratios.<presentation-tag data-tag-title="1 INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/4.tag"></presentation-tag><presentation-tag data-tag-title="1 INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/4.tag"></presentation-tag></p>
+</div>
+    <div class="AssessmentProblem.solution"><p>Answers vary. Sample response: <span class="math math-repaired" data-png-file-id="8149">\(6:4\)</span> is not equivalent to <span class="math math-repaired" data-png-file-id="35348">\(18:8\)</span> because 18 is <span class="math math-repaired" data-png-file-id="27880">\(6 \boldcdot 3\)</span>, but 8 is not <span class="math math-repaired" data-png-file-id="2331">\(4 \boldcdot 3\)</span>.</p>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:52:54 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-06-25 12:15:59 UTC</div>
+  </body>
+</html>

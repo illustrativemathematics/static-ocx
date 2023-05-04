@@ -1,0 +1,98 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:ca54a649-3eee-5264-890c-0d1ed1a8e6a2",
+  "identifier": "im:ca54a649-3eee-5264-890c-0d1ed1a8e6a2",
+  "name": "6.2.1.7 Write the missing number under each tick mark on the number line: ...",
+  "alternateName": "6.2.1.7",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:8eb517bc-6b9b-5e17-963e-01da90324026",
+    "courseCode": "6.2.1"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102620",
+  "dateCreated": "2019-05-20 07:52:51 UTC",
+  "dateModified": "2020-05-04 20:27:12 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102620</div>
+    <div class="AssessmentProblem.type">ShortAnswerResponse</div>
+    <div class="AssessmentProblem.statement"><p>Write the missing number under each tick mark on the number line.</p>
+
+<div class="imgrid">
+<div class="g--row g--row-1">
+<div class="g--col-1 g--column g--content g--one-fourth g--row-1">
+<p></p>
+</div>
+
+<div class="g--col-2 g--column g--content g--half g--row-1">
+<p><img class="h-max-height--2-lines" src="/image_files/29461.png" /></p>
+</div>
+
+<div class="g--col-3 g--column g--content g--one-fourth g--row-1">
+<p></p>
+</div>
+</div>
+</div>
+</div>
+    <div class="AssessmentProblem.solution"><p>0, 3, 6, 9, 12, 15, 18 (intervals of 3)</p>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:52:51 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-05-04 20:27:12 UTC</div>
+  </body>
+</html>

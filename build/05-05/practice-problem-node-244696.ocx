@@ -1,0 +1,154 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:46177dba-1acb-59a1-843f-3bf4ea91e235",
+  "identifier": "im:46177dba-1acb-59a1-843f-3bf4ea91e235",
+  "name": "6.2.11.5 The first row of the table shows the amount of ingredients in a spice...",
+  "alternateName": "6.2.11.5",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:e9523c6d-3961-55a9-b8f2-e445316d41fe",
+    "courseCode": "6.2.11"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102737",
+  "dateCreated": "2019-05-20 07:52:58 UTC",
+  "dateModified": "2020-05-04 20:27:16 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102737</div>
+    <div class="AssessmentProblem.type">ShortAnswerResponse</div>
+    <div class="AssessmentProblem.statement"><p>The first row of the table shows the amount of ingredients in a spice mix. Complete the table for 2, 3, and 4 batches of the recipe.&#xA0;</p>
+
+<table border="1">
+	<thead>
+		<tr>
+			<th scope="col">number of batches</th>
+			<th scope="col">teaspoons of salt</th>
+			<th scope="col">teaspoons of pepper</th>
+			<th scope="col">teaspoons of oregano</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1</td>
+			<td>4</td>
+			<td>2</td>
+			<td>3</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+    <div class="AssessmentProblem.solution"><table border="1">
+	<thead>
+		<tr>
+			<th scope="col">number of batches</th>
+			<th scope="col">teaspoons of salt</th>
+			<th scope="col">teaspoons of pepper</th>
+			<th scope="col">teaspoons of oregano</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1</td>
+			<td>4</td>
+			<td>2</td>
+			<td>3</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>8</td>
+			<td>4</td>
+			<td>6</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>12</td>
+			<td>6</td>
+			<td>9</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>16</td>
+			<td>8</td>
+			<td>12</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:52:58 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-05-04 20:27:16 UTC</div>
+  </body>
+</html>

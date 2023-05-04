@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:52163c0e-b3ca-5f68-b786-b19df97656fa",
+  "identifier": "im:52163c0e-b3ca-5f68-b786-b19df97656fa",
+  "name": "6.2.14.7 Here is a flower made up of yellow hexagons, red trapezoids and green...",
+  "alternateName": "6.2.14.7",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:b438c73b-291a-5115-9a8b-4d88ba0c66ab",
+    "courseCode": "6.2.14"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102776",
+  "dateCreated": "2019-05-20 07:53:00 UTC",
+  "dateModified": "2020-05-04 20:27:18 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102776</div>
+    <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
+    <div class="AssessmentProblem.statement"><p>Here is a flower made up of yellow hexagons, red trapezoids, and green triangles.</p>
+
+<div class="imgrid">
+<div class="g--row g--row-1">
+<div class="g--column g--three-fourth g--content g--col-1 g--row-1">
+<ol>
+	<li>How many copies of this flower pattern could you build if you had 30 yellow hexagons, 50 red trapezoids, and 60 green triangles?<presentation-tag data-tag-title="1 INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/4.tag"></presentation-tag><presentation-tag data-tag-title="1 INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/4.tag"></presentation-tag>
+</li>
+	<li>Of which shape would you have the most left over?<presentation-tag data-tag-title="1 INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/4.tag"></presentation-tag><presentation-tag data-tag-title="1 INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/4.tag"></presentation-tag>
+</li>
+</ol>
+</div>
+
+<div class="g--column g--one-fourth g--content g--col-2 g--row-1">
+<p><img class="h-max-height--11-lines" src="/image_files/27361.png" /></p>
+</div>
+</div>
+</div>
+</div>
+    <div class="AssessmentProblem.solution"><p>I could build 5 copies of the flower pattern, because that would use all 30 of the yellow hexagons. I would have 40 red trapezoids left over.</p>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:53:00 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-05-04 20:27:18 UTC</div>
+  </body>
+</html>

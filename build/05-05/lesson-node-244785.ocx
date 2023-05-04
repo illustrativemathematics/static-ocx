@@ -1,0 +1,136 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:Lesson",
+  "@id": "im:d93df589-cfe8-5bc8-995b-b76c4c526c89",
+  "identifier": "im:d93df589-cfe8-5bc8-995b-b76c4c526c89",
+  "name": "Part-Part-Whole Ratios",
+  "alternateName": "6.2.15",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Section",
+    "@id": "im:8855add6-c105-50b0-b3a7-dc6af18b63b8",
+    "courseCode": "6.2."
+  },
+  "learningResourceType": [
+    "Lesson"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:Lesson",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/lessons/15528",
+  "dateCreated": "2019-05-20 07:43:21 UTC",
+  "dateModified": "2021-07-22 14:07:15 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="Lesson.identifier">15528</div>
+    <div class="Lesson.name">Part-Part-Whole Ratios</div>
+    <div class="Lesson.alternateName">6.2.15</div>
+    <div class="Lesson.courseCode">6</div>
+    <div class="Lesson.dateCreated">2019-05-20 07:43:21 UTC</div>
+    <div class="Lesson.dateModified">2021-07-22 14:07:15 UTC</div>
+    <div class="im_student_facing_learning_goals"><p>Let&#x2019;s look at situations where you can add the quantities in a ratio together.</p>
+</div>
+    <div class="im_learning_targets">I can create tape diagrams to help me reason about problems involving a ratio and a total amount.
+I can solve problems when I know a ratio and a total amount. </div>
+    <div class="im_glossary_entries">tape diagram: <p>A tape diagram is a group of rectangles put together to represent a relationship between quantities.</p>
+
+<div class="imgrid">
+<div class="g--row g--row-1">
+<div class="g--col-1 g--column g--content g--row-1 g--two-third">
+<p>For example, this tape diagram shows a ratio of 30 gallons of yellow paint to 50 gallons of blue paint.</p>
+</div>
+
+<div class="g--col-2 g--column g--content g--one-third g--row-1">
+<p><img class="h-max-height--5-lines" src="/image_files/5794.png" /></p>
+</div>
+</div>
+</div>
+
+<p>If each rectangle were labeled 5, instead of 10, then the same picture could represent the equivalent ratio of 15 gallons of yellow paint to 25 gallons of blue paint.</p>
+</div>
+    <div class="im_student_lesson_summary"><p>A <strong>tape diagram</strong> is another way to&#xA0;represent a ratio. All the parts of the diagram that are the same size have the same value.</p>
+
+<p>For example, this tape diagram represents the ratio of ducks to swans in a pond, which is <span class="math math-repaired">\(4:5\)</span>.</p>
+
+<div class="imgrid">
+<div class="g--row g--row-1">
+<div class="g--col-1 g--column g--content g--half g--row-1">
+<p><img class="h-max-height--4-lines" src="/image_files/26776.png" /></p>
+</div>
+
+<div class="g--col-2 g--column g--content g--half g--row-1">
+<p>The first tape represents the number of ducks. It has 4 parts.</p>
+
+<p>The second tape represents the number of swans. It has 5 parts.</p>
+
+<p>There are&#xA0;9 parts in all, because <span class="math math-repaired">\(4+5=9\)</span>.</p>
+</div>
+</div>
+</div>
+
+<p>Suppose we know there&#xA0;are 18 of these birds in the pond, and we want to know how many are ducks.</p>
+
+<div class="imgrid">
+<div class="g--row g--row-1">
+<div class="g--col-1 g--column g--content g--half g--row-1">
+<p><img class="h-max-height--4-lines" src="/image_files/26777.png" /></p>
+</div>
+
+<div class="g--col-2 g--column g--content g--half g--row-1">
+<p>The 9 equal parts on the diagram&#xA0;need to represent 18 birds in all. This means that each part of the tape diagram represents 2 birds, because <span class="math math-repaired">\(18\div9 = 2\)</span>.</p>
+</div>
+</div>
+</div>
+
+<p>There are 4 parts of the tape representing ducks, and <span class="math math-repaired">\(4 \boldcdot 2=8\)</span>, so there are 8 ducks in the pond.</p>
+</div>
+  </body>
+</html>

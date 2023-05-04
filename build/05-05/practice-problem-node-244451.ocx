@@ -1,0 +1,120 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:7b641093-231f-5c29-a047-8b5843669029",
+  "identifier": "im:7b641093-231f-5c29-a047-8b5843669029",
+  "name": "6.1.16.1 Find the volume and surface area of each prism.",
+  "alternateName": "6.2.1.5",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:484ed7c5-c12a-5211-a16a-d12a72339ab1",
+    "courseCode": "6.2.1"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102594",
+  "dateCreated": "2019-05-20 07:52:49 UTC",
+  "dateModified": "2021-08-02 20:30:14 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102594</div>
+    <div class="AssessmentProblem.type">ShortAnswerResponse</div>
+    <div class="AssessmentProblem.statement"><p>Find the volume and surface area of each prism.</p>
+
+<ol>
+	<li>
+	<div class="imgrid">
+	<div class="g--row g--row-1">
+	<div class="g--col-1 g--column g--content g--row-1 g--two-third">
+	<p>Prism A: 3 cm by 3 cm by 3 cm</p>
+	</div>
+
+	<div class="g--col-2 g--column g--content g--one-third g--row-1">
+	<p><img class="h-max-height--5-lines" src="/image_files/29447.png" />&#x200B;</p>
+	</div>
+	</div>
+	</div>
+	</li>
+	<li>
+	<div class="imgrid">
+	<div class="g--row g--row-1">
+	<div class="g--col-1 g--column g--content g--row-1 g--two-third">
+	<p>Prism B: 5 cm by 5 cm by 1 cm</p>
+	</div>
+
+	<div class="g--col-2 g--column g--content g--one-third g--row-1">
+	<p><img src="/image_files/29448.png" /></p>
+	</div>
+	</div>
+	</div>
+	</li>
+	<li>
+	<p>Compare the volumes of the prisms and then their surface areas. Does the prism with the greater volume also have the greater surface area?</p>
+	</li>
+</ol>
+
+<p>&#xA0;<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/3.tag"></presentation-tag></p>
+</div>
+    <div class="AssessmentProblem.solution"><ol>
+	<li>Volume:&#xA0;27 cubic centimeters, surface area: 54 square centimeters</li>
+	<li>Volume: 25 cubic centimeters, surface area: 70 square centimeters</li>
+	<li>Prism A has a greater volume, but Prism B has a greater surface area.</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:52:49 UTC</div>
+    <div class="AssessmentProblem.dateModified">2021-08-02 20:30:14 UTC</div>
+  </body>
+</html>

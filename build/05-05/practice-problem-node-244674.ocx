@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:PracticeProblem",
+  "@id": "im:47a986a3-3e19-5e52-b75c-d99f47ac68c3",
+  "identifier": "im:47a986a3-3e19-5e52-b75c-d99f47ac68c3",
+  "name": "6.2.10.9 Diego usually makes rice by combining 4 cups of water with 2 cups of...",
+  "alternateName": "6.2.10.9",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:PracticeProblemSet",
+    "@id": "im:1268db06-8d47-513c-825e-ff054c3e8291",
+    "courseCode": "6.2.10"
+  },
+  "learningResourceType": [
+    "Practice problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:PracticeProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/practice_problems/102730",
+  "dateCreated": "2019-05-20 07:52:58 UTC",
+  "dateModified": "2020-06-25 12:15:58 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">102730</div>
+    <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
+    <div class="AssessmentProblem.statement"><p>Diego usually makes rice by combining 4 cups of water with 2 cups of rice and 1 teaspoon of salt. He made rice 4 times last week, but each time using&#xA0;different amounts of the ingredients:</p>
+
+<ul>
+	<li>On Monday, he used 8 cups of water, 4 cups of rice, and 2 teaspoons of salt.</li>
+	<li>On Wednesday, he used 12 cups of water, 6 cups of rice, and 2 teaspoons of salt.</li>
+	<li>On Friday,&#xA0;he used 2 cups of water, 1 cup of rice, and <span class="math math-repaired" data-png-file-id="238">\(\frac12\)</span> teaspoon of salt.</li>
+	<li>On Sunday he used 16 cups of water, 8 cups of rice, and 5 teaspoons of salt.</li>
+</ul>
+
+<ol>
+	<li>On which day did the rice taste saltier than usual? Explain how you know.</li>
+	<li>On which day did the rice taste less salty than usual? Explain how you know.</li>
+	<li>On which day did he make exactly 2 batches of his usual recipe?</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.solution"><ol>
+	<li>The rice was saltier on Sunday, because there was&#xA0;4 times as much water, 4 times as much rice, and 5 times as much salt.</li>
+	<li>The rice was less salty on Wednesday, because there was&#xA0;3 times as much water, 3 times as much rice, but only 2 times as much salt.</li>
+	<li>Monday, because all ingredient amounts were&#xA0;doubled.</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:52:58 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-06-25 12:15:58 UTC</div>
+  </body>
+</html>
