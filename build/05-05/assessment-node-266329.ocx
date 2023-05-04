@@ -50,8 +50,12 @@
   "encoding": [
     {
       "encodingFormat": "application/msword",
-      "contentUrl": "***TODO*** what URL should we use?"
-    }
+      "contentUrl": "Grade6-2-Check-Your-Readiness-(B)-assessment.docx"
+    },
+    {
+      "encodingFormat": "application/xml",
+      "contentUrl": "Grade6.2-Check-Your-Readiness-(B)-node-266329.qti.zip"
+    }  
   ],
   "timeRequired": "15",
   "url": "https://cms-assets.illustrativemathematics.org/assessments/287",
