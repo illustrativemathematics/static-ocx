@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:AssessmentProblem",
+  "@id": "im:f9731a4c-8503-5168-a9f9-6b88b21cc7e9",
+  "identifier": "im:f9731a4c-8503-5168-a9f9-6b88b21cc7e9",
+  "name": "Which skateboarder is faster: Jada who travels 2 miles in...",
+  "alternateName": "6.2",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Assessment",
+    "@id": "im:cd634542-9ef9-55bd-a894-f6363ad978a3",
+    "courseCode": "6.2"
+  },
+  "learningResourceType": [
+    "Assessment problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:AssessmentProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/assessment_problems/2001",
+  "dateCreated": "2018-08-18 23:47:18 UTC",
+  "dateModified": "2020-05-04 20:23:36 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">2001</div>
+    <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
+    <div class="AssessmentProblem.statement"><p>Which skateboarder is faster: Jada, who travels 2 miles in 12 minutes at a constant speed, or Clare, who travels 2 miles in 10 minutes at a constant speed? Explain how you know.</p>
+</div>
+    <div class="AssessmentProblem.solution"><p>Clare is faster because she covers the same distance as Jada in less time.</p>
+</div>
+    <div class="AssessmentProblem.dateCreated">2018-08-18 23:47:18 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-05-04 20:23:36 UTC</div>
+  </body>
+</html>

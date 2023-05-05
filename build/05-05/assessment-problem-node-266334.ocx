@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:AssessmentProblem",
+  "@id": "im:498984c6-5dc4-52e6-a36b-aabd36077b74",
+  "identifier": "im:498984c6-5dc4-52e6-a36b-aabd36077b74",
+  "name": "Here is a number line:",
+  "alternateName": "6.2",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Assessment",
+    "@id": "im:cd634542-9ef9-55bd-a894-f6363ad978a3",
+    "courseCode": "6.2"
+  },
+  "learningResourceType": [
+    "Assessment problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:AssessmentProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/assessment_problems/1999",
+  "dateCreated": "2018-08-18 23:47:16 UTC",
+  "dateModified": "2020-06-24 16:36:52 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">1999</div>
+    <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
+    <div class="AssessmentProblem.statement"><p><presentation-tag data-tag-title="Pagebreak before" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/1.tag"></presentation-tag>Here is a number line:</p>
+
+<p><img src="/tikz_files/8967.svg" /></p>
+
+<ol>
+	<li>Write the number at <span class="math math-repaired" data-png-file-id="2">\(A\)</span> as a fraction.<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/3.tag"></presentation-tag><presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_AE" data-tree-node-id="24440" data-tree-ref-id="57" src="/presentation_tags/3.tag"></presentation-tag>
+</li>
+	<li>Write the number at <span class="math math-repaired" data-png-file-id="2">\(A\)</span> as an equivalent fraction.<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/3.tag"></presentation-tag><presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_AE" data-tree-node-id="24440" data-tree-ref-id="57" src="/presentation_tags/3.tag"></presentation-tag>
+</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.solution"><ol>
+	<li>
+<span class="math math-repaired" data-png-file-id="1298">\(\frac{1}{3}\)</span>&#xA0;(or equivalent)</li>
+	<li>
+<span class="math math-repaired" data-png-file-id="4167">\(\frac{2}{6}\)</span>&#xA0;(or equivalent, but different from previous answer)</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.dateCreated">2018-08-18 23:47:16 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-06-24 16:36:52 UTC</div>
+  </body>
+</html>
