@@ -9,3 +9,4 @@ This doesn't represent the final version. Known issues include:
 * We don't have .qti files for the cool downs. We still need to build that functionality into the CMS.
 * Links to images currently don't work. We're actively working on a fix.
 * The math is currently represented as LaTeX, not MathML.
+* We don't currently have hasPart fields in the metadata.
