@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:AssessmentProblem",
+  "@id": "im:e00d6d6b-8210-578d-866b-671769958979",
+  "identifier": "im:e00d6d6b-8210-578d-866b-671769958979",
+  "name": "//6.2.DPA_Image_4 alt: &#x201C;&#x201D;      1. Write a fraction for point A.  2. Now. . .",
+  "alternateName": "6.2",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Assessment",
+    "@id": "im:cd4e20cd-ef15-5a94-a95a-9ec6056135c6",
+    "courseCode": "6.2"
+  },
+  "learningResourceType": [
+    "Assessment problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:AssessmentProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/assessment_problems/14835",
+  "dateCreated": "2019-05-20 07:56:41 UTC",
+  "dateModified": "2020-06-24 16:49:08 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">14835</div>
+    <div class="AssessmentProblem.type">ShortAnswerResponse</div>
+    <div class="AssessmentProblem.statement"><p>Here is a number line:</p>
+
+<p><img class="h-max-height--6-lines" src="/image_files/30465.png" /></p>
+
+<ol>
+	<li>Write the number at <span class="math math-repaired" data-png-file-id="2">\(A\)</span> as a fraction.<presentation-tag src="/presentation_tags/3.tag" data-tree-ref-id="215" data-tree-node-id="243962" data-tree-code="MS_pi" data-tag-title="HALF INCH"></presentation-tag>
+</li>
+	<li>Write the number at <span class="math math-repaired" data-png-file-id="2">\(A\)</span> as an equivalent fraction.<presentation-tag src="/presentation_tags/3.tag" data-tree-ref-id="215" data-tree-node-id="243962" data-tree-code="MS_pi" data-tag-title="HALF INCH"></presentation-tag>
+</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.solution"><ol>
+	<li>
+<span class="math math-repaired" data-png-file-id="15">\(\frac14\)</span> (or equivalent)</li>
+	<li>
+<span class="math math-repaired" data-png-file-id="10658">\(\frac28\)</span> (or equivalent, but different from previous answer)</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:56:41 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-06-24 16:49:08 UTC</div>
+  </body>
+</html>

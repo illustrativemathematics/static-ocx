@@ -1,0 +1,121 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:AssessmentProblem",
+  "@id": "im:14fbb973-bfd0-5ad5-882a-de1b783cd595",
+  "identifier": "im:14fbb973-bfd0-5ad5-882a-de1b783cd595",
+  "name": "One batch of brownies calls for 1 box of brownie mix and the ingredients. . .",
+  "alternateName": "6.2",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Assessment",
+    "@id": "im:cd4e20cd-ef15-5a94-a95a-9ec6056135c6",
+    "courseCode": "6.2"
+  },
+  "learningResourceType": [
+    "Assessment problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:AssessmentProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/assessment_problems/14836",
+  "dateCreated": "2019-05-20 07:56:41 UTC",
+  "dateModified": "2020-06-24 16:49:09 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.identifier">14836</div>
+    <div class="AssessmentProblem.type">ShortAnswerResponse</div>
+    <div class="AssessmentProblem.statement"><p>One batch of brownies calls for 1 box of brownie mix and the ingredients shown.</p>
+
+<table border="1">
+	<thead>
+		<tr>
+			<th scope="row">type of brownie</th>
+			<th scope="col">eggs</th>
+			<th scope="col">water</th>
+			<th scope="col">oil</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>fudge-like</td>
+			<td>2 eggs</td>
+			<td>
+<span class="math math-repaired" data-png-file-id="15">\(\frac14\)</span> cup</td>
+			<td>
+<span class="math math-repaired" data-png-file-id="238">\(\frac12\)</span> cup</td>
+		</tr>
+		<tr>
+			<td>cake-like</td>
+			<td>3 eggs</td>
+			<td>
+<span class="math math-repaired" data-png-file-id="15">\(\frac14\)</span> cup</td>
+			<td>
+<span class="math math-repaired" data-png-file-id="238">\(\frac12\)</span> cup</td>
+		</tr>
+	</tbody>
+</table>
+
+<ol>
+	<li>What amounts of eggs, water, and oil would you need for 2 batches of fudge-like brownies?<presentation-tag src="/presentation_tags/3.tag" data-tree-ref-id="215" data-tree-node-id="243962" data-tree-code="MS_pi" data-tag-title="HALF INCH"></presentation-tag>
+</li>
+	<li>What amounts of eggs, water, and oil would you need for 3 batches of cake-like brownies?<presentation-tag src="/presentation_tags/4.tag" data-tree-ref-id="215" data-tree-node-id="243962" data-tree-code="MS_pi" data-tag-title="1 INCH"></presentation-tag>
+</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.solution"><ol>
+	<li>4 eggs, <span class="math math-repaired" data-png-file-id="238">\(\frac12\)</span>&#xA0;cup water, 1 cup oil (or equivalent)</li>
+	<li>9 eggs, <span class="math math-repaired" data-png-file-id="736">\(\frac34\)</span>&#xA0;cup water, <span class="math math-repaired" data-png-file-id="3217">\(1\frac12\)</span>&#xA0;cups oil&#xA0;(or equivalent)</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.dateCreated">2019-05-20 07:56:41 UTC</div>
+    <div class="AssessmentProblem.dateModified">2020-06-24 16:49:09 UTC</div>
+  </body>
+</html>
