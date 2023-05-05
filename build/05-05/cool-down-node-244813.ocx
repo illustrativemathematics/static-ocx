@@ -70,10 +70,7 @@
 }</script>
   </head>
   <body>
-    <div class="Assessment.identifier">3155</div>
     <div class="Assessment.name">Pizza-making Party</div>
-    <div class="Assessment.dateCreated">2020-03-02 16:17:55 UTC</div>
-    <div class="Assessment.dateModified">2020-08-18 15:06:20 UTC</div>
     <div class="im_statement"><p>You are having a pizza-making party for a number of people. You will need 6 ounces of dough and 4 ounces of sauce for each person at this party. If you used a total of 130 ounces of dough and sauce all together,</p>
 
 <ol>

@@ -50,7 +50,7 @@
   "encoding": [
     {
       "encodingFormat": "application/msword",
-      "contentUrl": "***TODO*** what URL should we use?"
+      "contentUrl": "***TODO*** what URL(s) should we use?"
     }
   ],
   "timeRequired": "15",
@@ -70,12 +70,7 @@
 }</script>
   </head>
   <body>
-    <div class="Lesson.identifier">15529</div>
     <div class="Lesson.name">Solving More Ratio Problems</div>
-    <div class="Lesson.alternateName">6.2.16</div>
-    <div class="Lesson.courseCode">6</div>
-    <div class="Lesson.dateCreated">2019-05-20 07:43:21 UTC</div>
-    <div class="Lesson.dateModified">2021-07-26 15:39:38 UTC</div>
     <div class="im_student_facing_learning_goals"><p>Let&#x2019;s compare all our strategies for solving ratio problems.</p>
 </div>
     <div class="im_learning_targets">I can choose and create diagrams to help think through my solution. 

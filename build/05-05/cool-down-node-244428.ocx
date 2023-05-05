@@ -70,10 +70,7 @@
 }</script>
   </head>
   <body>
-    <div class="Assessment.identifier">2972</div>
     <div class="Assessment.name">A Collection of Animals</div>
-    <div class="Assessment.dateCreated">2020-03-02 16:17:44 UTC</div>
-    <div class="Assessment.dateModified">2020-08-18 15:01:16 UTC</div>
     <div class="im_statement"><p>Here is a collection of dogs, mice, and cats:</p>
 
 <figure class="c-figure"><img src="/image_files/27352.png" class="h-max-height--9-lines" /></figure>

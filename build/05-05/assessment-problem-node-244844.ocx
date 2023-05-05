@@ -50,7 +50,7 @@
   "encoding": [
     {
       "encodingFormat": "application/msword",
-      "contentUrl": "***TODO*** what URL should we use?"
+      "contentUrl": "***TODO*** what URL(s) should we use?"
     }
   ],
   "timeRequired": "15",
@@ -70,7 +70,6 @@
 }</script>
   </head>
   <body>
-    <div class="AssessmentProblem.identifier">14836</div>
     <div class="AssessmentProblem.type">ShortAnswerResponse</div>
     <div class="AssessmentProblem.statement"><p>One batch of brownies calls for 1 box of brownie mix and the ingredients shown.</p>
 
@@ -115,7 +114,5 @@
 	<li>9 eggs, <span class="math math-repaired" data-png-file-id="736">\(\frac34\)</span>&#xA0;cup water, <span class="math math-repaired" data-png-file-id="3217">\(1\frac12\)</span>&#xA0;cups oil&#xA0;(or equivalent)</li>
 </ol>
 </div>
-    <div class="AssessmentProblem.dateCreated">2019-05-20 07:56:41 UTC</div>
-    <div class="AssessmentProblem.dateModified">2020-06-24 16:49:09 UTC</div>
   </body>
 </html>

@@ -50,7 +50,7 @@
   "encoding": [
     {
       "encodingFormat": "application/msword",
-      "contentUrl": "***TODO*** what URL should we use?"
+      "contentUrl": "***TODO*** what URL(s) should we use?"
     }
   ],
   "timeRequired": "15",
@@ -70,7 +70,6 @@
 }</script>
   </head>
   <body>
-    <div class="AssessmentProblem.identifier">14834</div>
     <div class="AssessmentProblem.type">ShortAnswerResponse</div>
     <div class="AssessmentProblem.statement"><p>Label&#xA0;each tick mark with its location&#xA0;on the number line:</p>
 
@@ -80,7 +79,5 @@
 </div>
     <div class="AssessmentProblem.solution"><p><img src="/image_files/31037.png" /></p>
 </div>
-    <div class="AssessmentProblem.dateCreated">2019-05-20 07:56:40 UTC</div>
-    <div class="AssessmentProblem.dateModified">2020-05-04 20:23:36 UTC</div>
   </body>
 </html>

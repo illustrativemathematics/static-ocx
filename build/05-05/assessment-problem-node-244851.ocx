@@ -50,7 +50,7 @@
   "encoding": [
     {
       "encodingFormat": "application/msword",
-      "contentUrl": "***TODO*** what URL should we use?"
+      "contentUrl": "***TODO*** what URL(s) should we use?"
     }
   ],
   "timeRequired": "15",
@@ -70,7 +70,6 @@
 }</script>
   </head>
   <body>
-    <div class="AssessmentProblem.identifier">14842</div>
     <div class="AssessmentProblem.type">ShortAnswerResponse</div>
     <div class="AssessmentProblem.statement"><p>Solve each of the following:</p>
 
@@ -92,7 +91,5 @@
 <span>$</span>1.65</li>
 </ol>
 </div>
-    <div class="AssessmentProblem.dateCreated">2019-05-20 07:56:41 UTC</div>
-    <div class="AssessmentProblem.dateModified">2020-06-25 11:57:56 UTC</div>
   </body>
 </html>

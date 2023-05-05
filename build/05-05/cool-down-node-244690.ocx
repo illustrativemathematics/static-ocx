@@ -70,10 +70,7 @@
 }</script>
   </head>
   <body>
-    <div class="Assessment.identifier">3122</div>
     <div class="Assessment.name">Batches of Cookies in a Table</div>
-    <div class="Assessment.dateCreated">2020-03-02 16:17:53 UTC</div>
-    <div class="Assessment.dateModified">2020-08-18 15:05:08 UTC</div>
     <div class="im_statement"><p>In previous lessons, we worked with a diagram and a double number line that represent this cookie recipe. Here is a table that represents the same situation.</p>
 
 <table border="1">

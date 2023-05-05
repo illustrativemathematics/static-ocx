@@ -50,7 +50,7 @@
   "encoding": [
     {
       "encodingFormat": "application/msword",
-      "contentUrl": "***TODO*** what URL should we use?"
+      "contentUrl": "***TODO*** what URL(s) should we use?"
     }
   ],
   "timeRequired": "15",
@@ -70,7 +70,6 @@
 }</script>
   </head>
   <body>
-    <div class="AssessmentProblem.identifier">1998</div>
     <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
     <div class="AssessmentProblem.statement"><p>Label each tick mark with its location on the number line:</p>
 
@@ -78,7 +77,5 @@
 </div>
     <div class="AssessmentProblem.solution"><p>Each tick mark should be labeled with a multiple of 3 (3, 6, 9, 12, etc.).</p>
 </div>
-    <div class="AssessmentProblem.dateCreated">2018-08-18 23:47:15 UTC</div>
-    <div class="AssessmentProblem.dateModified">2020-05-04 20:23:36 UTC</div>
   </body>
 </html>

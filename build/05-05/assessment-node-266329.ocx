@@ -55,7 +55,7 @@
     {
       "encodingFormat": "application/xml",
       "contentUrl": "Grade6.2-Check-Your-Readiness-(B)-node-266329.qti.zip"
-    }  
+    }
   ],
   "timeRequired": "15",
   "url": "https://cms-assets.illustrativemathematics.org/assessments/287",
@@ -74,11 +74,7 @@
 }</script>
   </head>
   <body>
-    <div class="Assessment.identifier">287</div>
     <div class="Assessment.name">Check Your Readiness (B)</div>
-    <div class="Assessment.alternateName">6.2</div>
-    <div class="Assessment.dateCreated">2018-06-12 20:06:49 UTC</div>
-    <div class="Assessment.dateModified">2020-05-04 20:23:36 UTC</div>
     <div class="Assessment.ocx:totalPoints">0</div>
   </body>
 </html>

@@ -50,7 +50,7 @@
   "encoding": [
     {
       "encodingFormat": "application/msword",
-      "contentUrl": "***TODO*** what URL should we use?"
+      "contentUrl": "***TODO*** what URL(s) should we use?"
     }
   ],
   "timeRequired": "15",
@@ -70,14 +70,11 @@
 }</script>
   </head>
   <body>
-    <div class="AssessmentProblem.identifier">14840</div>
     <div class="AssessmentProblem.type">MultipleChoiceResponse</div>
     <div class="AssessmentProblem.statement"><p>A mixture of purple paint contains 6 teaspoons of red paint and 15 teaspoons of blue paint. To make the same shade of purple paint using 35 teaspoons of blue paint, how much red paint would you need? Use the double number line diagram to help if needed.</p>
 
 <p><img class="h-max-height--9-lines" src="/image_files/30467.png" /></p>
 </div>
     <div class="AssessmentProblem.solution">1</div>
-    <div class="AssessmentProblem.dateCreated">2019-05-20 07:56:41 UTC</div>
-    <div class="AssessmentProblem.dateModified">2020-05-04 20:27:25 UTC</div>
   </body>
 </html>

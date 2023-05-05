@@ -50,7 +50,7 @@
   "encoding": [
     {
       "encodingFormat": "application/msword",
-      "contentUrl": "***TODO*** what URL should we use?"
+      "contentUrl": "***TODO*** what URL(s) should we use?"
     }
   ],
   "timeRequired": "15",
@@ -70,12 +70,7 @@
 }</script>
   </head>
   <body>
-    <div class="Lesson.identifier">15520</div>
     <div class="Lesson.name">Creating Double Number Line Diagrams</div>
-    <div class="Lesson.alternateName">6.2.7</div>
-    <div class="Lesson.courseCode">6</div>
-    <div class="Lesson.dateCreated">2019-05-20 07:43:19 UTC</div>
-    <div class="Lesson.dateModified">2021-07-26 14:15:51 UTC</div>
     <div class="im_student_facing_learning_goals"><p>Let's draw double number line diagrams like a pro.</p>
 </div>
     <div class="im_learning_targets">I can create a double number line diagram and correctly place and label tick marks to represent equivalent ratios.

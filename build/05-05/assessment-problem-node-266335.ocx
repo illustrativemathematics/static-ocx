@@ -50,7 +50,7 @@
   "encoding": [
     {
       "encodingFormat": "application/msword",
-      "contentUrl": "***TODO*** what URL should we use?"
+      "contentUrl": "***TODO*** what URL(s) should we use?"
     }
   ],
   "timeRequired": "15",
@@ -70,7 +70,6 @@
 }</script>
   </head>
   <body>
-    <div class="AssessmentProblem.identifier">2000</div>
     <div class="AssessmentProblem.type">ShortAnswerResponse</div>
     <div class="AssessmentProblem.statement"><p>One batch of cookies calls for 1 bag of mix and the ingredients shown in the table.</p>
 
@@ -113,7 +112,5 @@
 	<li>6 eggs, <span class="math math-repaired" data-png-file-id="396">\(\frac{3}{8}\)</span> cup water, 1 cup oil (or equivalent)</li>
 </ol>
 </div>
-    <div class="AssessmentProblem.dateCreated">2018-08-18 23:47:17 UTC</div>
-    <div class="AssessmentProblem.dateModified">2020-06-24 16:36:51 UTC</div>
   </body>
 </html>

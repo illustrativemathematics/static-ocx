@@ -50,7 +50,7 @@
   "encoding": [
     {
       "encodingFormat": "application/msword",
-      "contentUrl": "***TODO*** what URL should we use?"
+      "contentUrl": "***TODO*** what URL(s) should we use?"
     }
   ],
   "timeRequired": "15",
@@ -70,12 +70,9 @@
 }</script>
   </head>
   <body>
-    <div class="AssessmentProblem.identifier">14839</div>
     <div class="AssessmentProblem.type">MultipleSelectResponse</div>
     <div class="AssessmentProblem.statement"><p>Select <strong>all</strong> the ratios that are equivalent to <span class="math math-repaired" data-png-file-id="8152">\(8:6\)</span></p>
 </div>
     <div class="AssessmentProblem.solution">["A", "C"]</div>
-    <div class="AssessmentProblem.dateCreated">2019-05-20 07:56:41 UTC</div>
-    <div class="AssessmentProblem.dateModified">2020-06-24 16:49:10 UTC</div>
   </body>
 </html>

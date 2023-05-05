@@ -50,7 +50,7 @@
   "encoding": [
     {
       "encodingFormat": "application/msword",
-      "contentUrl": "***TODO*** what URL should we use?"
+      "contentUrl": "***TODO*** what URL(s) should we use?"
     }
   ],
   "timeRequired": "15",
@@ -70,7 +70,6 @@
 }</script>
   </head>
   <body>
-    <div class="AssessmentProblem.identifier">1999</div>
     <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
     <div class="AssessmentProblem.statement"><p><presentation-tag data-tag-title="Pagebreak before" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/1.tag"></presentation-tag>Here is a number line:</p>
 
@@ -90,7 +89,5 @@
 <span class="math math-repaired" data-png-file-id="4167">\(\frac{2}{6}\)</span>&#xA0;(or equivalent, but different from previous answer)</li>
 </ol>
 </div>
-    <div class="AssessmentProblem.dateCreated">2018-08-18 23:47:16 UTC</div>
-    <div class="AssessmentProblem.dateModified">2020-06-24 16:36:52 UTC</div>
   </body>
 </html>

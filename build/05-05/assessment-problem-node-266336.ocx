@@ -50,7 +50,7 @@
   "encoding": [
     {
       "encodingFormat": "application/msword",
-      "contentUrl": "***TODO*** what URL should we use?"
+      "contentUrl": "***TODO*** what URL(s) should we use?"
     }
   ],
   "timeRequired": "15",
@@ -70,13 +70,10 @@
 }</script>
   </head>
   <body>
-    <div class="AssessmentProblem.identifier">2001</div>
     <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
     <div class="AssessmentProblem.statement"><p>Which skateboarder is faster: Jada, who travels 2 miles in 12 minutes at a constant speed, or Clare, who travels 2 miles in 10 minutes at a constant speed? Explain how you know.</p>
 </div>
     <div class="AssessmentProblem.solution"><p>Clare is faster because she covers the same distance as Jada in less time.</p>
 </div>
-    <div class="AssessmentProblem.dateCreated">2018-08-18 23:47:18 UTC</div>
-    <div class="AssessmentProblem.dateModified">2020-05-04 20:23:36 UTC</div>
   </body>
 </html>

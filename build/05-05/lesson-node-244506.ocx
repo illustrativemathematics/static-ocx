@@ -50,7 +50,7 @@
   "encoding": [
     {
       "encodingFormat": "application/msword",
-      "contentUrl": "***TODO*** what URL should we use?"
+      "contentUrl": "***TODO*** what URL(s) should we use?"
     }
   ],
   "timeRequired": "15",
@@ -70,12 +70,7 @@
 }</script>
   </head>
   <body>
-    <div class="Lesson.identifier">15517</div>
     <div class="Lesson.name">Color Mixtures</div>
-    <div class="Lesson.alternateName">6.2.4</div>
-    <div class="Lesson.courseCode">6</div>
-    <div class="Lesson.dateCreated">2019-05-20 07:43:19 UTC</div>
-    <div class="Lesson.dateModified">2021-07-26 14:08:13 UTC</div>
     <div class="im_student_facing_learning_goals"><p>Let&#x2019;s see what color-mixing has to do with ratios.</p>
 </div>
     <div class="im_learning_targets">I can explain the meaning of equivalent ratios using a color mixture as an example.
