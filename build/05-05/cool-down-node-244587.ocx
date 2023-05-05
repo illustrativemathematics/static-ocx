@@ -70,10 +70,7 @@
 }</script>
   </head>
   <body>
-    <div class="Assessment.identifier">3075</div>
     <div class="Assessment.name">Revisiting Paws, Ears, and Tails</div>
-    <div class="Assessment.dateCreated">2020-03-02 16:17:50 UTC</div>
-    <div class="Assessment.dateModified">2020-08-18 15:03:50 UTC</div>
     <div class="im_statement"><p>Each of these cats has 2 ears, 4 paws, and 1 tail.</p>
 
 <p><img class="h-max-height--6-lines" src="/image_files/27359.png" /></p>

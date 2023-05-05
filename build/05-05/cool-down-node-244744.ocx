@@ -70,10 +70,7 @@
 }</script>
   </head>
   <body>
-    <div class="Assessment.identifier">3136</div>
     <div class="Assessment.name">Bicycle Sprint</div>
-    <div class="Assessment.dateCreated">2020-03-02 16:17:54 UTC</div>
-    <div class="Assessment.dateModified">2020-08-18 15:05:33 UTC</div>
     <div class="im_statement"><p>In a sprint to the finish, a professional cyclist travels 380 meters in 20 seconds. At that rate, how far does the cyclist travel in 3 seconds?</p>
 </div>
     <div class="im_extension"></div>

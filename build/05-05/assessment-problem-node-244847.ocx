@@ -50,7 +50,7 @@
   "encoding": [
     {
       "encodingFormat": "application/msword",
-      "contentUrl": "***TODO*** what URL should we use?"
+      "contentUrl": "***TODO*** what URL(s) should we use?"
     }
   ],
   "timeRequired": "15",
@@ -70,14 +70,11 @@
 }</script>
   </head>
   <body>
-    <div class="AssessmentProblem.identifier">14838</div>
     <div class="AssessmentProblem.type">MultipleSelectResponse</div>
     <div class="AssessmentProblem.statement"><p>Select <strong>all</strong> the true statements.</p>
 
 <p><img class="h-max-height--7-lines" src="/image_files/30466.png" /></p>
 </div>
     <div class="AssessmentProblem.solution">["A", "D", "F"]</div>
-    <div class="AssessmentProblem.dateCreated">2019-05-20 07:56:41 UTC</div>
-    <div class="AssessmentProblem.dateModified">2020-06-24 16:49:11 UTC</div>
   </body>
 </html>

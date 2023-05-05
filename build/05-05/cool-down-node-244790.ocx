@@ -70,10 +70,7 @@
 }</script>
   </head>
   <body>
-    <div class="Assessment.identifier">3154</div>
     <div class="Assessment.name">Room Sizes</div>
-    <div class="Assessment.dateCreated">2020-03-02 16:17:55 UTC</div>
-    <div class="Assessment.dateModified">2020-08-18 15:06:07 UTC</div>
     <div class="im_statement"><p>The first floor of a house consists of a kitchen, playroom, and dining room. The areas of the kitchen, playroom, and dining room are in the ratio <span class="math math-repaired" data-png-file-id="44911">\(4 : 3 : 2\)</span>. The combined area of these three rooms is 189 square feet. What is the area of each room?</p>
 </div>
     <div class="im_extension"></div>

@@ -50,7 +50,7 @@
   "encoding": [
     {
       "encodingFormat": "application/msword",
-      "contentUrl": "***TODO*** what URL should we use?"
+      "contentUrl": "***TODO*** what URL(s) should we use?"
     }
   ],
   "timeRequired": "15",
@@ -70,7 +70,6 @@
 }</script>
   </head>
   <body>
-    <div class="AssessmentProblem.identifier">2005</div>
     <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
     <div class="AssessmentProblem.statement"><p>Elena rode her bike 2 miles in 10 minutes. She rode at a constant speed. Complete the table to show the time it took her to travel different distances at this speed.&#xA0;</p>
 
@@ -121,7 +120,5 @@
 	</tbody>
 </table>
 </div>
-    <div class="AssessmentProblem.dateCreated">2018-08-19 00:12:00 UTC</div>
-    <div class="AssessmentProblem.dateModified">2020-05-06 16:34:51 UTC</div>
   </body>
 </html>

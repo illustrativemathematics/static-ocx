@@ -70,10 +70,7 @@
 }</script>
   </head>
   <body>
-    <div class="Assessment.identifier">3098</div>
     <div class="Assessment.name">Unit Price of Rice</div>
-    <div class="Assessment.dateCreated">2020-03-02 16:17:52 UTC</div>
-    <div class="Assessment.dateModified">2020-08-18 15:04:24 UTC</div>
     <div class="im_statement"><p>Here is a double number line showing that it costs <span>$</span>3&#xA0;to buy 2 bags of rice:</p>
 
 <p><img class="h-max-height--8-lines" src="/image_files/27398.png" /></p>

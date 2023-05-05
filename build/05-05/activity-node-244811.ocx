@@ -70,10 +70,7 @@
 }</script>
   </head>
   <body>
-    <div class="Activity.identifier">51896</div>
     <div class="Activity.name">A Trip to the Aquarium</div>
-    <div class="Activity.dateCreated">2019-05-20 07:45:25 UTC</div>
-    <div class="Activity.dateModified">2020-06-24 15:41:07 UTC</div>
     <div class="im_statement"><p>Consider the problem: A teacher is planning a class trip to the aquarium. The aquarium requires 2 chaperones for every 15 students. The teacher plans accordingly and orders a total of 85 tickets. How many tickets are for chaperones, and how many are for students?</p>
 
 <ol>

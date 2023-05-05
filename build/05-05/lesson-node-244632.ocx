@@ -50,7 +50,7 @@
   "encoding": [
     {
       "encodingFormat": "application/msword",
-      "contentUrl": "***TODO*** what URL should we use?"
+      "contentUrl": "***TODO*** what URL(s) should we use?"
     }
   ],
   "timeRequired": "15",
@@ -70,12 +70,7 @@
 }</script>
   </head>
   <body>
-    <div class="Lesson.identifier">15522</div>
     <div class="Lesson.name">Constant Speed</div>
-    <div class="Lesson.alternateName">6.2.9</div>
-    <div class="Lesson.courseCode">6</div>
-    <div class="Lesson.dateCreated">2019-05-20 07:43:20 UTC</div>
-    <div class="Lesson.dateModified">2021-07-26 15:28:04 UTC</div>
     <div class="im_student_facing_learning_goals"><p>Let&#x2019;s use ratios to work with how fast things move.</p>
 </div>
     <div class="im_learning_targets">I can choose and create diagrams to help me reason about constant speed.

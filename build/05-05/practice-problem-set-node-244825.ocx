@@ -50,7 +50,7 @@
   "encoding": [
     {
       "encodingFormat": "application/msword",
-      "contentUrl": "Grade6-2-16-Lesson-curated-practice-problem-set.docx"
+      "contentUrl": "***TODO*** what URL(s) should we use?"
     }
   ],
   "timeRequired": "15",
@@ -70,10 +70,6 @@
 }</script>
   </head>
   <body>
-    <div class="Assessment.identifier">25562</div>
     <div class="Assessment.name">Cumulative PP Set for Solving More Ratio Problems</div>
-    <div class="Assessment.alternateName">6.2.16</div>
-    <div class="Assessment.dateCreated">2019-05-20 07:52:20 UTC</div>
-    <div class="Assessment.dateModified">2020-05-04 20:27:18 UTC</div>
   </body>
 </html>

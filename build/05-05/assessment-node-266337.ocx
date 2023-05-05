@@ -55,7 +55,7 @@
     {
       "encodingFormat": "application/xml",
       "contentUrl": "Grade6.2-End-of-Unit-Assessment-(B)-node-266337.qti.zip"
-    }  
+    }
   ],
   "timeRequired": "15",
   "url": "https://cms-assets.illustrativemathematics.org/assessments/318",
@@ -74,11 +74,7 @@
 }</script>
   </head>
   <body>
-    <div class="Assessment.identifier">318</div>
     <div class="Assessment.name">End-of-Unit Assessment (B)</div>
-    <div class="Assessment.alternateName">6.2</div>
-    <div class="Assessment.dateCreated">2018-06-13 17:32:41 UTC</div>
-    <div class="Assessment.dateModified">2020-05-05 13:50:04 UTC</div>
     <div class="Assessment.ocx:totalPoints">0</div>
   </body>
 </html>

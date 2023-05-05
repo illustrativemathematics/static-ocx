@@ -50,7 +50,7 @@
   "encoding": [
     {
       "encodingFormat": "application/msword",
-      "contentUrl": "***TODO*** what URL should we use?"
+      "contentUrl": "***TODO*** what URL(s) should we use?"
     }
   ],
   "timeRequired": "15",
@@ -70,7 +70,6 @@
 }</script>
   </head>
   <body>
-    <div class="AssessmentProblem.identifier">2006</div>
     <div class="AssessmentProblem.type">ShortAnswerResponse</div>
     <div class="AssessmentProblem.statement"><ol>
 	<li>
@@ -94,7 +93,5 @@
 <span>$</span>2.25</li>
 </ol>
 </div>
-    <div class="AssessmentProblem.dateCreated">2018-08-19 00:12:01 UTC</div>
-    <div class="AssessmentProblem.dateModified">2020-06-25 11:57:57 UTC</div>
   </body>
 </html>

@@ -70,10 +70,7 @@
 }</script>
   </head>
   <body>
-    <div class="Activity.identifier">51899</div>
     <div class="Activity.name">Fix It!</div>
-    <div class="Activity.dateCreated">2019-05-20 07:45:26 UTC</div>
-    <div class="Activity.dateModified">2020-05-04 20:27:25 UTC</div>
     <div class="im_statement"><p>Andre likes a hot cocoa recipe with 1 cup of milk and 3 tablespoons of cocoa. He poured 1 cup of milk&#xA0;but accidentally added 5 tablespoons of cocoa.</p>
 
 <p><img class="h-max-height--7-lines" src="/image_files/27444.png" /></p>

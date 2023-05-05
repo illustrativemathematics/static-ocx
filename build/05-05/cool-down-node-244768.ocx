@@ -70,10 +70,7 @@
 }</script>
   </head>
   <body>
-    <div class="Assessment.identifier">3137</div>
     <div class="Assessment.name">Water Faucet</div>
-    <div class="Assessment.dateCreated">2020-03-02 16:17:54 UTC</div>
-    <div class="Assessment.dateModified">2020-08-18 15:05:47 UTC</div>
     <div class="im_statement"><p>Jada wants to know how fast the water comes out of her faucet. What information would she need to know to be able to determine that?</p>
 </div>
     <div class="im_extension"></div>

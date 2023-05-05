@@ -70,10 +70,7 @@
 }</script>
   </head>
   <body>
-    <div class="Activity.identifier">51869</div>
     <div class="Activity.name">Treadmills</div>
-    <div class="Activity.dateCreated">2019-05-20 07:45:17 UTC</div>
-    <div class="Activity.dateModified">2020-05-04 20:27:15 UTC</div>
     <div class="im_statement"><p>Mai and Jada each ran on a treadmill. The treadmill display&#xA0;shows&#xA0;the distance, in miles, each person ran&#xA0;and the amount of time it took them, in minutes and seconds.</p>
 
 <div class="imgrid">

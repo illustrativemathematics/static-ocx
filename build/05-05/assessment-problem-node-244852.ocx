@@ -50,7 +50,7 @@
   "encoding": [
     {
       "encodingFormat": "application/msword",
-      "contentUrl": "***TODO*** what URL should we use?"
+      "contentUrl": "***TODO*** what URL(s) should we use?"
     }
   ],
   "timeRequired": "15",
@@ -70,7 +70,6 @@
 }</script>
   </head>
   <body>
-    <div class="AssessmentProblem.identifier">14843</div>
     <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
     <div class="AssessmentProblem.statement"><p>A bag contains 120 marbles. Some are red and the rest are black. There are 19 red marbles for every black marble. How many red marbles are in the bag? Explain your reasoning.<presentation-tag data-tag-title="Pagebreak after" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/2.tag"></presentation-tag></p>
 </div>
@@ -97,7 +96,5 @@
 	<li>Sample errors: Work does not show evidence of an understanding of equivalent ratios; incorrect answer with no work shown.</li>
 </ul>
 </div>
-    <div class="AssessmentProblem.dateCreated">2019-05-20 07:56:41 UTC</div>
-    <div class="AssessmentProblem.dateModified">2020-05-04 20:27:26 UTC</div>
   </body>
 </html>

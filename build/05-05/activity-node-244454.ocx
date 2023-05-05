@@ -70,10 +70,7 @@
 }</script>
   </head>
   <body>
-    <div class="Activity.identifier">51835</div>
     <div class="Activity.name">Number Talk: Dividing by 4 and Multiplying by $\frac14$</div>
-    <div class="Activity.dateCreated">2019-05-20 07:45:07 UTC</div>
-    <div class="Activity.dateModified">2020-05-04 20:27:11 UTC</div>
     <div class="im_statement"><p>Find the value of each expression mentally.</p>
 
 <p><span class="math math-repaired" data-png-file-id="42757">\(24\div 4\)</span></p>

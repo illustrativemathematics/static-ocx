@@ -70,10 +70,7 @@
 }</script>
   </head>
   <body>
-    <div class="Assessment.identifier">3118</div>
     <div class="Assessment.name">Comparing Runs</div>
-    <div class="Assessment.dateCreated">2020-03-02 16:17:53 UTC</div>
-    <div class="Assessment.dateModified">2020-08-18 15:04:50 UTC</div>
     <div class="im_statement"><p>Andre ran 2 kilometers in 15 minutes, and Jada ran 3 kilometers in 20 minutes. Both ran at a constant speed.</p>
 
 <p>Did they run at the <em>same</em> speed? Explain your reasoning.</p>

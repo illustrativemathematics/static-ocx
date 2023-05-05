@@ -50,7 +50,7 @@
   "encoding": [
     {
       "encodingFormat": "application/msword",
-      "contentUrl": "***TODO*** what URL should we use?"
+      "contentUrl": "***TODO*** what URL(s) should we use?"
     }
   ],
   "timeRequired": "15",
@@ -70,12 +70,7 @@
 }</script>
   </head>
   <body>
-    <div class="Lesson.identifier">15528</div>
     <div class="Lesson.name">Part-Part-Whole Ratios</div>
-    <div class="Lesson.alternateName">6.2.15</div>
-    <div class="Lesson.courseCode">6</div>
-    <div class="Lesson.dateCreated">2019-05-20 07:43:21 UTC</div>
-    <div class="Lesson.dateModified">2021-07-22 14:07:15 UTC</div>
     <div class="im_student_facing_learning_goals"><p>Let&#x2019;s look at situations where you can add the quantities in a ratio together.</p>
 </div>
     <div class="im_learning_targets">I can create tape diagrams to help me reason about problems involving a ratio and a total amount.

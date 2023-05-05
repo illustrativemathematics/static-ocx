@@ -70,10 +70,7 @@
 }</script>
   </head>
   <body>
-    <div class="Assessment.identifier">3049</div>
     <div class="Assessment.name">Batches of Cookies on a Double Number Line</div>
-    <div class="Assessment.dateCreated">2020-03-02 16:17:49 UTC</div>
-    <div class="Assessment.dateModified">2020-08-18 15:03:31 UTC</div>
     <div class="im_statement"><p>A recipe for one batch of cookies uses 5 cups of flour and 2 teaspoons of vanilla.</p>
 
 <ol>

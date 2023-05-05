@@ -50,7 +50,7 @@
   "encoding": [
     {
       "encodingFormat": "application/msword",
-      "contentUrl": "***TODO*** what URL should we use?"
+      "contentUrl": "***TODO*** what URL(s) should we use?"
     }
   ],
   "timeRequired": "15",
@@ -70,7 +70,6 @@
 }</script>
   </head>
   <body>
-    <div class="AssessmentProblem.identifier">14832</div>
     <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
     <div class="AssessmentProblem.statement"><p>Here are three fractions: <span class="math math-repaired" data-png-file-id="781">\(\frac23\)</span>, <span class="math math-repaired" data-png-file-id="2293">\(\frac45\)</span>, <span class="math math-repaired" data-png-file-id="8150">\(\frac69\)</span>. Two of these fractions are equivalent to each other. Which two? Explain or show your reasoning.<presentation-tag src="/presentation_tags/5.tag" data-tree-ref-id="215" data-tree-node-id="243962" data-tree-code="MS_pi" data-tag-title="2 INCH"></presentation-tag></p>
 </div>
@@ -83,7 +82,5 @@
 	</li>
 </ul>
 </div>
-    <div class="AssessmentProblem.dateCreated">2019-05-20 07:56:40 UTC</div>
-    <div class="AssessmentProblem.dateModified">2020-06-24 16:49:08 UTC</div>
   </body>
 </html>

@@ -70,10 +70,7 @@
 }</script>
   </head>
   <body>
-    <div class="Assessment.identifier">3110</div>
     <div class="Assessment.name">Train Speeds</div>
-    <div class="Assessment.dateCreated">2020-03-02 16:17:52 UTC</div>
-    <div class="Assessment.dateModified">2020-08-18 15:04:36 UTC</div>
     <div class="im_statement"><p>Two trains are traveling at constant speeds on different tracks.</p>
 
 <p>Train A:</p>
