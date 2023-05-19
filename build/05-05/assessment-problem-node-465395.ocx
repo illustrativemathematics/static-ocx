@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:AssessmentProblem",
+  "@id": "im:c80e9184-6384-575e-b6df-b8a12954bd1f",
+  "identifier": "im:c80e9184-6384-575e-b6df-b8a12954bd1f",
+  "name": "42 is 6 times what number?4 is 28 times...",
+  "alternateName": "6.2",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Assessment",
+    "@id": "im:bca9e530-b72f-563b-8e3e-f0628ae77214",
+    "courseCode": "6.2"
+  },
+  "learningResourceType": [
+    "Assessment problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:AssessmentProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL(s) should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/assessment_problems/27178",
+  "dateCreated": "2022-09-30 09:17:07 UTC",
+  "dateModified": "2022-09-30 10:03:43 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
+    <div class="AssessmentProblem.statement"><ol>
+	<li>42 is 6 times what number?<presentation-tag src="/presentation_tags/3.tag"></presentation-tag><presentation-tag src="/presentation_tags/3.tag"></presentation-tag>
+</li>
+	<li>4 is 28 times what number?<presentation-tag src="/presentation_tags/3.tag"></presentation-tag><presentation-tag src="/presentation_tags/3.tag"></presentation-tag>
+</li>
+	<li>700 is 7 times what number?<presentation-tag src="/presentation_tags/3.tag"></presentation-tag><presentation-tag src="/presentation_tags/3.tag"></presentation-tag>
+</li>
+	<li>Choose one part and explain how you know your answer is correct.<presentation-tag src="/presentation_tags/4.tag"></presentation-tag><presentation-tag src="/presentation_tags/4.tag"></presentation-tag>
+</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.solution"><ol>
+	<li>7</li>
+	<li><span class="math math-repaired" data-png-file-id="1335">\(\frac{1}{7}\)</span></li>
+	<li>100</li>
+	<li>Explanations vary.</li>
+</ol>
+</div>
+  </body>
+</html>

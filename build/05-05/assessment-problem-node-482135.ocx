@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:AssessmentProblem",
+  "@id": "im:344893df-8bee-5dbf-bf4f-b11d166a097e",
+  "identifier": "im:344893df-8bee-5dbf-bf4f-b11d166a097e",
+  "name": "Diego and Priya each rode their bicycle at a constant speed.",
+  "alternateName": "6.2",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Assessment",
+    "@id": "im:19628c38-eb70-5a66-817d-3ed076d560b8",
+    "courseCode": "6.2"
+  },
+  "learningResourceType": [
+    "Assessment problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:AssessmentProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL(s) should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/assessment_problems/27791",
+  "dateCreated": "2022-10-14 19:17:08 UTC",
+  "dateModified": "2022-10-14 19:17:30 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
+    <div class="AssessmentProblem.statement"><p>Diego and Priya each rode their bicycle at a constant speed. Diego traveled 7 kilometers in 60 minutes. Priya traveled 2 kilometers in 15 minutes.</p>
+
+<p>Did they travel at the same rate? Explain your reasoning.</p>
+</div>
+    <div class="AssessmentProblem.solution"><p>No, they did not travel at the same rate. Priya traveled faster. Sample reasoning:</p>
+
+<ul>
+	<li>There are four 15 minutes in 60 minutes, so Priya would travel <span class="math math-repaired">\(4 \boldcdot 2\)</span> or 8 kilometers in 60 minutes, 1 kilometer more than Diego traveled in that amount of time.</li>
+	<li>
+	<p>Using a double number line, we can see that Priya would ride 8 kilometers in 60 minutes, while Diego rode 7 kilometers in 60 minutes.</p>
+
+	<p><img src="/tikz_files/205233.svg" /></p>
+	</li>
+	<li>Diego biked <span class="math math-repaired">\(\frac{7}{4}\)</span> or 1.75 kilometers in 15 minutes, which is a shorter distance than Priya traveled in 15 minutes.</li>
+</ul>
+</div>
+  </body>
+</html>

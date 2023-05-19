@@ -71,7 +71,22 @@
   </head>
   <body>
     <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
-    <div class="AssessmentProblem.statement"><p>Here are three fractions: <span class="math math-repaired" data-png-file-id="781">\(\frac23\)</span>, <span class="math math-repaired" data-png-file-id="2293">\(\frac45\)</span>, <span class="math math-repaired" data-png-file-id="8150">\(\frac69\)</span>. Two of these fractions are equivalent to each other. Which two? Explain or show your reasoning.<presentation-tag src="/presentation_tags/5.tag" data-tree-ref-id="215" data-tree-node-id="243962" data-tree-code="MS_pi" data-tag-title="2 INCH"></presentation-tag></p>
+    <div class="AssessmentProblem.statement"><p>Here are three fractions: <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mn>2</mn>
+    <mn>3</mn>
+  </mfrac>
+</math></span><annotation description="\(\frac23\)"></annotation></span>, <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mn>4</mn>
+    <mn>5</mn>
+  </mfrac>
+</math></span><annotation description="\(\frac45\)"></annotation></span>, <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mn>6</mn>
+    <mn>9</mn>
+  </mfrac>
+</math></span><annotation description="\(\frac69\)"></annotation></span>. Two of these fractions are equivalent to each other. Which two? Explain or show your reasoning.<presentation-tag src="/presentation_tags/5.tag"></presentation-tag></p>
 </div>
     <div class="AssessmentProblem.solution"><p><span class="math math-repaired" data-png-file-id="781">\(\frac23\)</span> and <span class="math math-repaired" data-png-file-id="8150">\(\frac69\)</span> are equivalent to each other. Possible strategies:</p>
 

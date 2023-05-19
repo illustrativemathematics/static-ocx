@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:Activity",
+  "@id": "im:9ee74387-b478-5fd8-a3ba-2fbb91982de8",
+  "identifier": "im:9ee74387-b478-5fd8-a3ba-2fbb91982de8",
+  "name": "Seasoning, Sneakers, and Concrete",
+  "alternateName": "6.2.15.3",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Lesson",
+    "@id": "im:6367bbe6-bf61-503c-a561-8aa5c9c2b573",
+    "courseCode": "6.2.15"
+  },
+  "learningResourceType": [
+    "Activity"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:Activity",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "Grade6-2-15-3-Activity-student-task-statements.docx"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/activities/95169",
+  "dateCreated": "2022-09-30 09:04:07 UTC",
+  "dateModified": "2023-02-13 21:40:04 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="Activity.name">Seasoning, Sneakers, and Concrete</div>
+    <div class="im_statement"><p>Solve each of the following problems and show your thinking. If you get stuck, consider drawing a <strong>tape diagram</strong> to represent the situation.</p>
+
+<ol>
+	<li>
+	<div class="imgrid">
+	<div class="g--row g--row-1">
+	<div class="g--col-1 g--column g--content g--row-1 g--three-fourth">
+	<p>Elena makes taco seasoning using 4 parts chili powder, 1 part garlic powder, and 2 parts ground cumin. If Elena uses 20 teaspoons of ground cumin, how much taco seasoning will she have?</p>
+	</div>
+
+	<div class="g--col-2 g--column g--content g--one-fourth g--row-1">
+	<p><img class="h-max-height--5-lines" src="/image_files/80205.jpg" /></p>
+	</div>
+	</div>
+	</div>
+	</li>
+	<li>The ratio of students wearing sneakers to those wearing boots is 5 to 6. If there are 33 students in the class, and all of them are wearing either sneakers or boots, how many of them are wearing sneakers?<presentation-tag data-duplicated-from-tree-node-id="376770" data-tag-title="1 INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/4.tag"></presentation-tag> <presentation-tag data-tag-title="1 INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/4.tag"></presentation-tag>
+</li>
+	<li>A recipe for concrete says, &#x201C;Mix 3 parts gravel with 2 parts sand and 1 part cement.&#x201D; If a project needs 42 gallons of concrete in all, how much of each ingredient is needed?<presentation-tag data-tag-title="1 INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/4.tag"></presentation-tag>
+</li>
+</ol>
+</div>
+    <div class="im_extension"><p>Using the recipe from earlier, how much taco seasoning can you make if you have 32 teaspoons of chili powder, 9 teaspoons of garlic powder, and 15 teaspoons of cumin? Explain or show your reasoning.<presentation-tag data-duplicated-from-tree-node-id="376770" data-tag-title="1 INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/4.tag"></presentation-tag><presentation-tag data-tag-title="1 INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/4.tag"></presentation-tag></p>
+</div>
+  </body>
+</html>

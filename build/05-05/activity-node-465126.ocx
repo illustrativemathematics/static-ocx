@@ -1,0 +1,100 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:Activity",
+  "@id": "im:16a91d15-98c5-5989-86dd-5b60dba793a7",
+  "identifier": "im:16a91d15-98c5-5989-86dd-5b60dba793a7",
+  "name": "Revisiting Radish Cake",
+  "alternateName": "6.2.7.4",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Lesson",
+    "@id": "im:98caa80e-5f46-5906-a5bf-e7fe1d93441e",
+    "courseCode": "6.2.7"
+  },
+  "learningResourceType": [
+    "Activity"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:Activity",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "Grade6-2-7-4-Activity-student-task-statements.docx"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/activities/95144",
+  "dateCreated": "2022-09-30 09:03:59 UTC",
+  "dateModified": "2022-10-18 22:24:46 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="Activity.name">Revisiting Radish Cake</div>
+    <div class="im_statement"><div class="imgrid">
+<div class="g--row g--row-1">
+<div class="g--col-1 g--column g--content g--row-1 g--three-fourth">
+<p>A recipe for radish cake calls for 20 ounces of radish for every 6 ounces of rice flour.</p>
+</div>
+
+<div class="g--col-2 g--column g--content g--one-fourth g--row-1">
+<p><img src="/image_files/73393.jpg" /></p>
+</div>
+</div>
+</div>
+
+<ol>
+	<li>Draw a double number line diagram that represents the amounts of radish and rice flour in different-size&#xA0;batches of this recipe.</li>
+	<li>If you made a large amount of radish cake by mixing 80 ounces of radish with 30 ounces of rice flour, would it taste the same as the original recipe? Explain or show your reasoning.</li>
+	<li>The original recipe calls for 3 tablespoons of chopped green onions for every 6 ounces of rice flour.
+	<p>Add a line to your diagram to represent the amount of green onions in different batches of radish cake.</p>
+	</li>
+	<li>
+	<p><span>How many tablespoons of green onions should you mix with 60 ounces of radish to make a radish cake that tastes the same as the original recipe?</span><br />
+	<presentation-tag data-tag-title="Pagebreak after" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/2.tag"></presentation-tag></p>
+	</li>
+</ol>
+</div>
+    <div class="im_extension"></div>
+  </body>
+</html>

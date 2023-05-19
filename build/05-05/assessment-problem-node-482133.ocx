@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:AssessmentProblem",
+  "@id": "im:a16afe4d-e896-5c24-96ce-137f6251b474",
+  "identifier": "im:a16afe4d-e896-5c24-96ce-137f6251b474",
+  "name": "A painter mixes 3 cups of black paint and 20 cups of white paint to make a batch of gray paint.",
+  "alternateName": "6.2",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Assessment",
+    "@id": "im:19628c38-eb70-5a66-817d-3ed076d560b8",
+    "courseCode": "6.2"
+  },
+  "learningResourceType": [
+    "Assessment problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:AssessmentProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL(s) should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/assessment_problems/27789",
+  "dateCreated": "2022-10-14 19:09:01 UTC",
+  "dateModified": "2022-10-14 19:09:01 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.type">ShortAnswerResponse</div>
+    <div class="AssessmentProblem.statement"><p>A painter mixes 3 cups of black paint and 20 cups of white paint to make a batch of gray paint.</p>&#xD;
+&#xD;
+<ol>&#xD;
+	<li>&#xD;
+	<p>Complete the double number line diagram to show the amount of each color needed to make 5 batches of the gray paint.</p>&#xD;
+&#xD;
+	<p><img src="https://staging-cms-assets.illustrativemathematics.org/uscw2e622cq61430f96wcculn13q" /></p>&#xD;
+	</li>&#xD;
+	<li>If the painter has 18 cups of black paint, how many cups of white paint are needed to make the same shade of gray?</li>&#xD;
+</ol>&#xD;
+</div>
+    <div class="AssessmentProblem.solution"><ol>&#xD;
+	<li>&#xD;
+	<p>15 cups of black paint and 100 cups of white paint for 5 batches</p>&#xD;
+&#xD;
+	<p><img src="/tikz_files/205232.svg" /></p>&#xD;
+	</li>&#xD;
+	<li>120 cups of black paint</li>&#xD;
+</ol>&#xD;
+</div>
+  </body>
+</html>

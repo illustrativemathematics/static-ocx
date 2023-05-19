@@ -1,0 +1,193 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:Lesson",
+  "@id": "im:c0be9a83-068f-52c8-8c96-bbf84fa22b3d",
+  "identifier": "im:c0be9a83-068f-52c8-8c96-bbf84fa22b3d",
+  "name": "Defining Equivalent Ratios",
+  "alternateName": "6.2.5",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Section",
+    "@id": "im:48137b4f-667b-5e31-b167-e51918a7b503",
+    "courseCode": "6.2."
+  },
+  "learningResourceType": [
+    "Lesson"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:Lesson",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL(s) should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/lessons/29376",
+  "dateCreated": "2022-09-30 09:03:21 UTC",
+  "dateModified": "2023-02-15 04:15:56 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="Lesson.name">Defining Equivalent Ratios</div>
+    <div class="im_student_facing_learning_goals"><p>Let&#x2019;s investigate equivalent ratios some more.</p>
+</div>
+    <div class="im_learning_targets">If I have a ratio, I can create a new ratio that is equivalent to it.
+If I have two ratios, I can decide whether they are equivalent to each other.</div>
+    <div class="im_glossary_entries">equivalent ratios: <p>Two ratios are equivalent if you can multiply each of the numbers in the first ratio by the same factor to get the numbers in the second ratio. For example, <span class="math math-repaired">\(8:6\)</span> is equivalent to <span class="math math-repaired">\(4:3\)</span>, because <span class="math math-repaired">\(8\boldcdot\frac12 = 4\)</span> and <span class="math math-repaired">\(6\boldcdot\frac12 = 3\)</span>.</p>
+
+<div class="imgrid">
+<div class="g--row g--row-1">
+<div class="g--col-1 g--column g--content g--half g--row-1">
+<p>A recipe for lemonade says to use&#xA0;8 cups of water and 6 lemons. If we use 4 cups of water and 3 lemons, it will make half as much lemonade. Both recipes taste the same, because <span class="math math-repaired">\(8:6\)</span> and <span class="math math-repaired">\(4:3\)</span> are equivalent ratios.</p>
+</div>
+
+<div class="g--col-2 g--column g--content g--half g--row-1">
+<table border="1">
+	<thead>
+		<tr>
+			<th scope="col">cups of water</th>
+			<th scope="col">number of lemons</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>8</td>
+			<td>6</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>3</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+</div>
+</div>
+
+<p><presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/3.tag"></presentation-tag></p>
+</div>
+    <div class="im_student_lesson_summary"><p>All ratios that are <strong>equivalent</strong> to <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>a</mi>
+  <mo>:</mo>
+  <mi>b</mi>
+</math></span><annotation description="\(a:b\)"></annotation></span> can be made by multiplying both <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>a</mi>
+</math></span><annotation description="\(a\)"></annotation></span> and <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>b</mi>
+</math></span><annotation description="\(b\)"></annotation></span> by the same number.</p>
+
+<div>
+<div>
+<div>
+<p>For example, the ratio <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>18</mn>
+  <mo>:</mo>
+  <mn>12</mn>
+</math></span><annotation description="\(18:12\)"></annotation></span> is equivalent to <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>9</mn>
+  <mo>:</mo>
+  <mn>6</mn>
+</math></span><annotation description="\(9:6\)"></annotation></span> because both 9 and 6 are multiplied by the same number: 2.<presentation-tag src="/presentation_tags/3.tag"></presentation-tag></p>
+</div>
+
+<div>
+<p><img src="https://staging-cms-assets.illustrativemathematics.org/e0w8bi9xgmxkc45kru0h2trg6n1w" /></p>
+</div>
+</div>
+
+<div>
+<div>
+<p><span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>3</mn>
+  <mo>:</mo>
+  <mn>2</mn>
+</math></span><annotation description="\(3:2\)"></annotation></span> is also equivalent to <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>9</mn>
+  <mo>:</mo>
+  <mn>6</mn>
+</math></span><annotation description="\(9:6\)"></annotation></span>, because both 9 and 6 are multiplied by the same number: <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mn>1</mn>
+    <mn>3</mn>
+  </mfrac>
+</math></span><annotation description="\(\frac13\)"></annotation></span>.<presentation-tag src="/presentation_tags/3.tag"></presentation-tag></p>
+</div>
+
+<div>
+<p><img src="https://staging-cms-assets.illustrativemathematics.org/dajrkuh29vdveqddcnyc70vu4fyh" /></p>
+</div>
+</div>
+
+<div>
+<div>
+<p>Is <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>18</mn>
+  <mo>:</mo>
+  <mn>15</mn>
+</math></span><annotation description="\(18:15\)"></annotation></span> equivalent to <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>9</mn>
+  <mo>:</mo>
+  <mn>6</mn>
+</math></span><annotation description="\(9:6\)"></annotation></span>?</p>
+
+<p>No, because 18 is <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>9</mn>
+  <mtext mathcolor="red">\boldcdot</mtext>
+  <mn>2</mn>
+</math></span><annotation description="\(9 \boldcdot 2\)"></annotation></span>, but 15 is <em>not </em><span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>6</mn>
+  <mtext mathcolor="red">\boldcdot</mtext>
+  <mn>2</mn>
+</math></span><annotation description="\(6 \boldcdot 2\)"></annotation></span>.</p>
+</div>
+
+<div>
+<p><img src="https://staging-cms-assets.illustrativemathematics.org/aedsaaxfouwd74kp69u562iot823" /></p>
+</div>
+</div>
+</div>
+</div>
+  </body>
+</html>

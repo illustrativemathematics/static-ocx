@@ -80,28 +80,32 @@ I know how to say words and numbers in the correct order to accurately describe 
 <div class="imgrid">
 <div class="g--row g--row-1">
 <div class="g--col-1 g--column g--content g--row-1 g--seven-twelfth">
-<p>For example, the ratio <span class="math math-repaired" data-png-file-id="13427">\(3:2\)</span> could describe a recipe that uses 3 cups of flour for every 2 eggs, or a boat that moves 3 meters every 2 seconds. One way to represent the ratio <span class="math math-repaired" data-png-file-id="13427">\(3:2\)</span> is with a diagram that has 3 blue squares for every 2 green squares.</p>
+<p>For example, the ratio <span class="math math-repaired">\(3:2\)</span> could describe a recipe that uses 3 cups of flour for every 2 eggs, or a boat that moves 3 meters every 2 seconds. One way to represent the ratio <span class="math math-repaired">\(3:2\)</span> is with a diagram that has 3 blue squares for every 2 green squares.</p>
 </div>
 
 <div class="g--col-2 g--column g--content g--five-twelfth g--row-1">
-<p><img class="h-max-height--4-lines" src="/image_files/22339.png" /></p>
+<p><img src="/tikz_files/236139.svg" /></p>
 </div>
 </div>
 </div>
 </div>
     <div class="im_student_lesson_summary"><p>A <strong>ratio</strong> is an association between two or more quantities. There are many ways to describe a situation in terms of ratios. For example, look at this collection:</p>
 
-<div class="imgrid">
-<div class="g--row g--row-1">
-<div class="g--col-1 g--column g--content g--half g--row-1">
-<p><img class="h-max-height--4-lines" src="/image_files/26753.png" /></p>
+<div>
+<div>
+<div>
+<p><img src="https://staging-cms-assets.illustrativemathematics.org/39LcBfhTCGnta6YuE6UDHZjL" /></p>
 </div>
 
-<div class="g--col-2 g--column g--content g--half g--row-1">
+<div>
 <p>Here are some correct ways to describe the collection:</p>
 
 <ul>
-	<li>The ratio of squares to circles is <span class="math math-repaired">\(6:3\)</span>.</li>
+	<li>The ratio of squares to circles is <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>6</mn>
+  <mo>:</mo>
+  <mn>3</mn>
+</math></span><annotation description="\(6:3\)"></annotation></span>.</li>
 	<li>The ratio of circles to squares is 3 to 6.</li>
 </ul>
 </div>
@@ -110,13 +114,13 @@ I know how to say words and numbers in the correct order to accurately describe 
 
 <p>Notice that the shapes can be arranged in equal groups, which allow us to describe the shapes using other numbers.</p>
 
-<div class="imgrid">
-<div class="g--row g--row-1">
-<div class="g--col-1 g--column g--content g--half g--row-1">
-<p><img class="h-max-height--4-lines" src="/image_files/26754.png" /></p>
+<div>
+<div>
+<div>
+<p><img src="https://staging-cms-assets.illustrativemathematics.org/wiqz6NhWWxWYiuJSyYJ12apx" /></p>
 </div>
 
-<div class="g--col-2 g--column g--content g--half g--row-1">
+<div>
 <ul>
 	<li>There are 2 squares for every 1 circle.</li>
 	<li>There is 1 circle for every 2 squares.</li>

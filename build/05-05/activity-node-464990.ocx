@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:Activity",
+  "@id": "im:0d43f37a-5038-5157-9bb8-d562ee107ffc",
+  "identifier": "im:0d43f37a-5038-5157-9bb8-d562ee107ffc",
+  "name": "Which Three Go Together: Representations",
+  "alternateName": "6.2.2.1",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Lesson",
+    "@id": "im:2c05b503-614c-5590-a9fc-5fc687a8f9f8",
+    "courseCode": "6.2.2"
+  },
+  "learningResourceType": [
+    "Activity"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:Activity",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "Grade6-2-2-1-Activity-student-task-statements.docx"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/activities/95125",
+  "dateCreated": "2022-09-30 09:03:53 UTC",
+  "dateModified": "2022-11-01 00:19:38 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="Activity.name">Which Three Go Together: Representations</div>
+    <div class="im_statement"><p>Which three go together? Why do they go together?</p>
+
+<div class="imgrid">
+<div class="g--row g--row-1">
+<div class="g--col-1 g--column g--content g--half g--row-1">
+<p>A</p>
+
+<p><img class="h-max-height--3-lines" src="/image_files/73385.png" /></p>
+</div>
+
+<div class="g--col-2 g--column g--content g--half g--row-1">
+<p>B</p>
+
+<p><img src="/tikz_files/205147.svg" /></p>
+</div>
+</div>
+
+<div class="g--row g--row-2">
+<div class="g--col-1 g--column g--content g--half g--row-2">
+<p>C</p>
+
+<p><img src="/tikz_files/205148.svg" /></p>
+</div>
+
+<div class="g--col-2 g--column g--content g--half g--row-2">
+<p>D</p>
+
+<p style="text-align:center">2 green objects</p>
+</div>
+</div>
+</div>
+</div>
+    <div class="im_extension">&#xA0;</div>
+  </body>
+</html>

@@ -83,9 +83,21 @@ I know what it means to double or triple a recipe. </div>
 
 <p>This diagram&#xA0;shows a single&#xA0;batch of the recipe, a double batch, and a triple batch:</p>
 
-<p><img class="h-max-height--7-lines" src="/image_files/26759.png" /></p>
+<p><img src="https://staging-cms-assets.illustrativemathematics.org/pAc6mUN2vNQxtE5MGRDpXNfN" /></p>
 
-<p>We say that the ratios <span class="math math-repaired">\(5 : 2\)</span>, <span class="math math-repaired">\(10 : 4\)</span>, and <span class="math math-repaired">\(15 : 6\)</span> are <strong>equivalent</strong>. Even though the amounts of each ingredient within a single, double, or triple batch are not the same, they would make fizzy juice that tastes the same.</p>
+<p>We say that the ratios <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>5</mn>
+  <mo>:</mo>
+  <mn>2</mn>
+</math></span><annotation description="\(5 : 2\)"></annotation></span>, <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>10</mn>
+  <mo>:</mo>
+  <mn>4</mn>
+</math></span><annotation description="\(10 : 4\)"></annotation></span>, and <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>15</mn>
+  <mo>:</mo>
+  <mn>6</mn>
+</math></span><annotation description="\(15 : 6\)"></annotation></span> are <strong>equivalent</strong>. Even though the amounts of each ingredient within a single, double, or triple batch are not the same, they would make fizzy juice that tastes the same.</p>
 </div>
   </body>
 </html>

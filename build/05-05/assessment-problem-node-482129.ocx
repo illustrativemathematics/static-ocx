@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:AssessmentProblem",
+  "@id": "im:0a08039c-423b-5763-a5e2-55b0927c8c16",
+  "identifier": "im:0a08039c-423b-5763-a5e2-55b0927c8c16",
+  "name": "Noah and Jada are making hot cocoa using their own recipes.",
+  "alternateName": "6.2",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Assessment",
+    "@id": "im:0b89d2c9-8240-5062-8ea3-8f3420de0cb6",
+    "courseCode": "6.2"
+  },
+  "learningResourceType": [
+    "Assessment problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:AssessmentProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL(s) should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/assessment_problems/27787",
+  "dateCreated": "2022-10-14 18:56:16 UTC",
+  "dateModified": "2022-10-14 19:04:37 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
+    <div class="AssessmentProblem.statement"><p>Noah and Jada are making hot cocoa using their own recipes.</p>
+
+<ol>
+	<li>
+	<p>Noah mixes 12 tablespoons of cocoa powder and 3 cups of milk.</p>
+
+	<p>Draw a diagram to represent the ratio of tablespoon of cocoa powder and cups of milk in his recipe.</p>
+	</li>
+	<li>
+	<p>This diagram represents Jada&#x2019;s recipe:</p>
+
+	<p><img src="https://staging-cms-assets.illustrativemathematics.org/oslspxgpodaxe0vf6nlnjc1cp8su" /></p>
+
+	<p>Write two sentences to describe the ratio of tablespoons of chocolate syrup and cups of milk in her recipe.</p>
+	</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.solution"><ol>
+	<li>Sample response:
+	<p><img src="/tikz_files/205229.svg" /></p>
+	</li>
+	<li>Sample responses:
+	<ul>
+		<li>The ratio of teaspoons of chocolate syrup to cups of milk is 6 to 2.</li>
+		<li>For every 3 teaspoons of chocolate syrup, 1 cup of milk is needed.</li>
+	</ul>
+	</li>
+</ol>
+</div>
+  </body>
+</html>

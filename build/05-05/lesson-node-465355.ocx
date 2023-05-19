@@ -1,0 +1,139 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:Lesson",
+  "@id": "im:71ae831b-257c-5ac3-816b-4dfa5ea49adb",
+  "identifier": "im:71ae831b-257c-5ac3-816b-4dfa5ea49adb",
+  "name": "Solving More Ratio Problems",
+  "alternateName": "6.2.16",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Section",
+    "@id": "im:7b6cfffb-7a40-5d6f-a0b5-9426ee560227",
+    "courseCode": "6.2."
+  },
+  "learningResourceType": [
+    "Lesson"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:Lesson",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL(s) should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/lessons/29360",
+  "dateCreated": "2022-09-30 09:03:14 UTC",
+  "dateModified": "2023-02-15 05:01:58 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="Lesson.name">Solving More Ratio Problems</div>
+    <div class="im_student_facing_learning_goals"><p>Let&#x2019;s compare all our strategies for solving ratio problems.</p>
+</div>
+    <div class="im_learning_targets">I can choose and create diagrams to help think through my solution. 
+I can solve all kinds of problems about equivalent ratios. 
+I can use diagrams to help someone else understand why my solution makes sense.</div>
+    <div class="im_glossary_entries"></div>
+    <div class="im_student_lesson_summary"><p>When solving a problem involving equivalent ratios, it is often helpful to use a diagram. Any diagram is fine&#xA0;as long as it correctly shows the mathematics and you can explain it.</p>
+
+<p>Let&#x2019;s compare three different ways to solve the same problem: The ratio of adults to kids in a school is <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>2</mn>
+  <mo>:</mo>
+  <mn>7</mn>
+</math></span><annotation description="\(2:7\)"></annotation></span>. If there is a total of 180 people, how many of them are adults?</p>
+
+<ul>
+	<li>
+	<p><em>Tape diagrams</em> are especially useful for this type of problem because both parts of the ratio have the same units (&#x201C;number of people")&#xA0;and we can see the total number of parts.</p>
+
+	<p><img src="https://staging-cms-assets.illustrativemathematics.org/h2mh9yyj9yg8scltmvu7w0ntn6m7" /></p>
+
+	<p>This tape diagram has 9 equal parts, and they need&#xA0;to represent 180 people total. That means each part represents <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>180</mn>
+  <mo>&#xF7;<!-- ÷ --></mo>
+  <mn>9</mn>
+</math></span><annotation description="\(180 \div 9\)"></annotation></span>, or 20 people.</p>
+
+	<p><img src="https://staging-cms-assets.illustrativemathematics.org/exr1lrr7u068us4c0lw0277k2lgp" /></p>
+
+	<p>Two parts of the tape diagram represent adults. There are 40 adults in the school because <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>2</mn>
+  <mtext mathcolor="red">\boldcdot</mtext>
+  <mn>20</mn>
+  <mo>=</mo>
+  <mn>40</mn>
+</math></span><annotation description="\(2\boldcdot 20 = 40\)"></annotation></span>.</p>
+	</li>
+	<li>
+	<p><em>Double or triple number lines</em> are useful when we want to see how far apart the numbers are from one another. They are harder to use with very big or very small numbers, but they could support our reasoning.</p>
+
+	<p><img src="https://staging-cms-assets.illustrativemathematics.org/549hgvrcu81pd8fptzx9ygzfjofb" /></p>
+	<presentation-tag src="/presentation_tags/2.tag"></presentation-tag>
+</li>
+	<li>
+	<p><em>Tables</em> are especially useful when the problem has very large or very small numbers.</p>
+
+	<p><img src="https://staging-cms-assets.illustrativemathematics.org/8qy8521b8jaj2x59ncopvojdv1m2" /></p>
+
+	<p>We ask ourselves, &#x201C;9 times what is 180?&#x201D; The answer is 20. Next, we multiply 2 by 20 to get the total number of adults in the school.</p>
+	</li>
+</ul>
+
+<p>Another reason to make diagrams is to communicate our thinking to others. Here are some good habits when making diagrams:</p>
+
+<ul>
+	<li>Label each part of the diagram with what it represents.</li>
+	<li>Label important amounts.</li>
+	<li>Make sure you read what the question is asking and answer it.</li>
+	<li>Make sure you make the answer easy to find.</li>
+	<li>Include units in your answer. For example, write &#x201C;4 cups&#x201D; instead of just &#x201C;4.&#x201D;</li>
+	<li>
+	<p>Double check that your ratio language is correct and matches your diagram.</p>
+	</li>
+</ul>
+</div>
+  </body>
+</html>

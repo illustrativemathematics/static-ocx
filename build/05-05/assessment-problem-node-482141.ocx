@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:AssessmentProblem",
+  "@id": "im:717645b3-d4b1-553d-9337-8c82db393855",
+  "identifier": "im:717645b3-d4b1-553d-9337-8c82db393855",
+  "name": "In a school, the ratio of teachers who wear glasses to those who don&#x2019;t is 7 to 2.",
+  "alternateName": "6.2",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Assessment",
+    "@id": "im:049a0239-6c24-5c64-8cb2-a6d65d034b76",
+    "courseCode": "6.2"
+  },
+  "learningResourceType": [
+    "Assessment problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:AssessmentProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL(s) should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/assessment_problems/27795",
+  "dateCreated": "2022-10-14 20:26:28 UTC",
+  "dateModified": "2022-10-14 20:29:42 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
+    <div class="AssessmentProblem.statement"><p>In a school, the ratio of teachers who wear glasses to those who don&#x2019;t is 7 to 2.</p>
+
+<ol>
+	<li>If there are 10 teachers who don&#x2019;t wear glasses, how many total teachers are at the school?</li>
+	<li>Explain why you chose the strategy you did to solve the problem.</li>
+</ol>
+</div>
+    <div class="AssessmentProblem.solution"><ol>
+	<li>
+	<p>45 teachers. Sample reasoning:</p>
+
+	<p><img src="/tikz_files/205236.svg" /></p>
+	</li>
+	<li>Sample response: With a tape diagram I can see the parts in the ratio (7 and 2) and the total number of parts (9). If the 2 parts for teachers who don&#x2019;t wear glasses represent 10 teachers, each part represents 5 teachers and 9 parts represent <span class="math math-repaired">\(9 \boldcdot 5\)</span> or 45 teachers.</li>
+</ol>
+</div>
+  </body>
+</html>

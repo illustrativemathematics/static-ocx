@@ -73,14 +73,14 @@
     <div class="AssessmentProblem.type">ShortAnswerResponse</div>
     <div class="AssessmentProblem.statement"><ol>
 	<li>
-	<p>Three concert tickets cost <span>$</span>45. At this rate, what is the cost per ticket?<presentation-tag data-tag-title="1 INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/4.tag"></presentation-tag><presentation-tag data-tag-title="1 INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/4.tag"></presentation-tag></p>
-	<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_AE" data-tree-node-id="24440" data-tree-ref-id="57" src="/presentation_tags/3.tag"></presentation-tag>
+	<p>Three concert tickets cost <span>$</span>45. At this rate, what is the cost per ticket?<presentation-tag src="/presentation_tags/4.tag"></presentation-tag><presentation-tag src="/presentation_tags/4.tag"></presentation-tag></p>
+	<presentation-tag src="/presentation_tags/3.tag"></presentation-tag>
 </li>
 	<li>
-	<p>Three milkshakes cost <span>$</span>9.75. At this rate, how much do 2 milkshakes cost?<presentation-tag data-tag-title="1 INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/4.tag"></presentation-tag><presentation-tag data-tag-title="1 INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/4.tag"></presentation-tag></p>
-	<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_AE" data-tree-node-id="24440" data-tree-ref-id="57" src="/presentation_tags/3.tag"></presentation-tag>
+	<p>Three milkshakes cost <span>$</span>9.75. At this rate, how much do 2 milkshakes cost?<presentation-tag src="/presentation_tags/4.tag"></presentation-tag><presentation-tag src="/presentation_tags/4.tag"></presentation-tag></p>
+	<presentation-tag src="/presentation_tags/3.tag"></presentation-tag>
 </li>
-	<li>Three oranges cost <span>$</span>1.35. At this rate, how much do 5 oranges cost?<presentation-tag data-tag-title="Pagebreak after" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/2.tag"></presentation-tag><presentation-tag data-tag-title="Pagebreak after" data-tree-code="MS_AE" data-tree-node-id="24440" data-tree-ref-id="57" src="/presentation_tags/2.tag"></presentation-tag><presentation-tag data-tag-title="Pagebreak after" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/2.tag"></presentation-tag>
+	<li>Three oranges cost <span>$</span>1.35. At this rate, how much do 5 oranges cost?<presentation-tag src="/presentation_tags/2.tag"></presentation-tag><presentation-tag src="/presentation_tags/2.tag"></presentation-tag><presentation-tag src="/presentation_tags/2.tag"></presentation-tag>
 </li>
 </ol>
 </div>

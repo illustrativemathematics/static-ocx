@@ -82,9 +82,24 @@ If I know the price of multiple things, I can find the price per thing.</div>
 
 <p>If 4 movie tickets cost \$28, then the unit price would be the cost <em>per</em> ticket. We can create a double number line to find the unit price.</p>
 
-<p><img class="h-max-height--8-lines" src="/image_files/26766.png" /></p>
+<p><img src="https://staging-cms-assets.illustrativemathematics.org/GD6oCkfXEQxoXmgEqUVTgtxk" /></p>
 
-<p>This double number line shows that the cost for 1 ticket is \$7. We can also find the unit price by dividing, <span class="math math-repaired">\(28 \div 4 = 7\)</span>, or by multiplying, <span class="math math-repaired">\(28 \boldcdot \frac14 = 7\)</span>.</p>
+<p>This double number line shows that the cost for 1 ticket is \$7. We can also find the unit price by dividing, <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>28</mn>
+  <mo>&#xF7;<!-- ÷ --></mo>
+  <mn>4</mn>
+  <mo>=</mo>
+  <mn>7</mn>
+</math></span><annotation description="\(28 \div 4 = 7\)"></annotation></span>, or by multiplying, <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>28</mn>
+  <mtext mathcolor="red">\boldcdot</mtext>
+  <mfrac>
+    <mn>1</mn>
+    <mn>4</mn>
+  </mfrac>
+  <mo>=</mo>
+  <mn>7</mn>
+</math></span><annotation description="\(28 \boldcdot \frac14 = 7\)"></annotation></span>.</p>
 </div>
   </body>
 </html>

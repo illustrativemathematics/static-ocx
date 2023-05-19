@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:Lesson",
+  "@id": "im:2c05b503-614c-5590-a9fc-5fc687a8f9f8",
+  "identifier": "im:2c05b503-614c-5590-a9fc-5fc687a8f9f8",
+  "name": "Representing Ratios with Diagrams",
+  "alternateName": "6.2.2",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Section",
+    "@id": "im:b285f334-e4c0-52d1-b287-c6ef6e794a92",
+    "courseCode": "6.2."
+  },
+  "learningResourceType": [
+    "Lesson"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:Lesson",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL(s) should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/lessons/29110",
+  "dateCreated": "2022-09-30 09:02:21 UTC",
+  "dateModified": "2023-02-15 03:54:49 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="Lesson.name">Representing Ratios with Diagrams</div>
+    <div class="im_student_facing_learning_goals"><p>Let&#x2019;s use diagrams to represent ratios.</p>
+</div>
+    <div class="im_learning_targets">I can draw a diagram that represents a ratio and explain what the diagram means.
+I include labels when I draw a diagram representing a ratio, so that the meaning of the diagram is clear.</div>
+    <div class="im_glossary_entries"></div>
+    <div class="im_student_lesson_summary"><p>Ratios can be represented using diagrams. The diagrams do not need to include realistic details. For example, there are 2 pairs of scissors and 6 glue sticks in a bin. Instead of this:</p>
+<!--<p><img class="h-max-height--8-lines" src="/image_files/66141.png" /></p>-->
+
+<p><img src="https://staging-cms-assets.illustrativemathematics.org/mrhqkmwdpw93kmf44yni28f727uw" /></p>
+
+<p>We can draw something like this:</p>
+
+<p><img src="https://staging-cms-assets.illustrativemathematics.org/4vthlguimq5svvu6t4abxusp6xsx" /></p>
+
+<p>This diagram shows that the ratio of glue sticks to pairs of scissors is 6 to 2. We can also see that for every pair of scissors, there are 3 glue sticks.</p>
+</div>
+  </body>
+</html>

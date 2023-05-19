@@ -71,14 +71,18 @@
   </head>
   <body>
     <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
-    <div class="AssessmentProblem.statement"><p><presentation-tag data-tag-title="Pagebreak before" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/1.tag"></presentation-tag>Here is a number line:</p>
+    <div class="AssessmentProblem.statement"><p><presentation-tag src="/presentation_tags/1.tag"></presentation-tag>Here is a number line:</p>
 
-<p><img src="/tikz_files/8967.svg" /></p>
+<p><img src="https://staging-cms-assets.illustrativemathematics.org/YYcujC3sZ3i1JASXVuEw3x5L" /></p>
 
 <ol>
-	<li>Write the number at <span class="math math-repaired" data-png-file-id="2">\(A\)</span> as a fraction.<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/3.tag"></presentation-tag><presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_AE" data-tree-node-id="24440" data-tree-ref-id="57" src="/presentation_tags/3.tag"></presentation-tag>
+	<li>Write the number at <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>A</mi>
+</math></span><annotation description="\(A\)"></annotation></span> as a fraction.<presentation-tag src="/presentation_tags/3.tag"></presentation-tag><presentation-tag src="/presentation_tags/3.tag"></presentation-tag>
 </li>
-	<li>Write the number at <span class="math math-repaired" data-png-file-id="2">\(A\)</span> as an equivalent fraction.<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/3.tag"></presentation-tag><presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_AE" data-tree-node-id="24440" data-tree-ref-id="57" src="/presentation_tags/3.tag"></presentation-tag>
+	<li>Write the number at <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>A</mi>
+</math></span><annotation description="\(A\)"></annotation></span> as an equivalent fraction.<presentation-tag src="/presentation_tags/3.tag"></presentation-tag><presentation-tag src="/presentation_tags/3.tag"></presentation-tag>
 </li>
 </ol>
 </div>

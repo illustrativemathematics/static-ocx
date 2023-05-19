@@ -1,0 +1,101 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:Lesson",
+  "@id": "im:0ae2b945-d0b5-5b95-b949-e5d42c83491a",
+  "identifier": "im:0ae2b945-d0b5-5b95-b949-e5d42c83491a",
+  "name": "Introducing Double Number Line Diagrams",
+  "alternateName": "6.2.6",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Section",
+    "@id": "im:b7364ef3-7557-55aa-8ae3-fda91957ae7c",
+    "courseCode": "6.2."
+  },
+  "learningResourceType": [
+    "Lesson"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:Lesson",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL(s) should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/lessons/29242",
+  "dateCreated": "2022-09-30 09:02:53 UTC",
+  "dateModified": "2023-02-15 03:05:58 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="Lesson.name">Introducing Double Number Line Diagrams</div>
+    <div class="im_student_facing_learning_goals"><p>Let&#x2019;s use number lines to represent equivalent ratios.</p>
+</div>
+    <div class="im_learning_targets">I can label a double number line diagram to represent batches of a recipe or color mixture.
+When I have a double number line that represents a situation, I can explain what it means.</div>
+    <div class="im_glossary_entries">double number line diagram: <p>A double number line diagram uses a pair of parallel number lines to represent equivalent ratios. The locations of the tick marks match on both number lines. The tick marks labeled 0 line up, but the other numbers are usually different.</p>
+
+<p><img src="/tikz_files/236231.svg" /></p>
+</div>
+    <div class="im_student_lesson_summary"><p>You can use a <strong>double number line diagram</strong> to find many equivalent ratios. For example, a recipe for fizzy juice says, &#x201C;Mix 5 cups of cranberry juice with 2 cups of soda water.&#x201D; The ratio of cranberry juice to soda water is <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>5</mn>
+  <mo>:</mo>
+  <mn>2</mn>
+</math></span><annotation description="\(5:2\)"></annotation></span>. Multiplying both ingredients by the same number creates equivalent ratios.</p>
+
+<p><img src="https://staging-cms-assets.illustrativemathematics.org/0mfadz28cruvyop4fcijmwf5ep8v" /></p>
+
+<p>This double number line shows that the ratio <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>20</mn>
+  <mo>:</mo>
+  <mn>8</mn>
+</math></span><annotation description="\(20:8\)"></annotation></span> is equivalent to <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>5</mn>
+  <mo>:</mo>
+  <mn>2</mn>
+</math></span><annotation description="\(5:2\)"></annotation></span>. If you mix 20 cups of cranberry juice with 8 cups of soda water, it makes 4 times as much fizzy juice that tastes the same as the original recipe.</p>
+</div>
+  </body>
+</html>

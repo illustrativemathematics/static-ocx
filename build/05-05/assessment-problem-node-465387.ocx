@@ -1,0 +1,101 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:AssessmentProblem",
+  "@id": "im:ec5869ff-5433-5574-a7ca-ab4bc2335c8a",
+  "identifier": "im:ec5869ff-5433-5574-a7ca-ab4bc2335c8a",
+  "name": "Consider these fractions: $\\frac23$, $\\frac45$, $\\frac69$. Two of these. . .",
+  "alternateName": "6.2",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Assessment",
+    "@id": "im:37894f2c-a1f4-5882-8ddc-f07dc2af0616",
+    "courseCode": "6.2"
+  },
+  "learningResourceType": [
+    "Assessment problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:AssessmentProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL(s) should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/assessment_problems/27041",
+  "dateCreated": "2022-09-30 09:16:55 UTC",
+  "dateModified": "2023-01-31 21:29:55 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
+    <div class="AssessmentProblem.statement"><p>Here are three fractions: <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mn>2</mn>
+    <mn>3</mn>
+  </mfrac>
+</math></span><annotation description="\(\frac23\)"></annotation></span>, <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mn>4</mn>
+    <mn>5</mn>
+  </mfrac>
+</math></span><annotation description="\(\frac45\)"></annotation></span>, <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mn>6</mn>
+    <mn>9</mn>
+  </mfrac>
+</math></span><annotation description="\(\frac69\)"></annotation></span>. Two of these fractions are equivalent to each other. Which two? Explain or show your reasoning.<presentation-tag src="/presentation_tags/5.tag"></presentation-tag></p>
+</div>
+    <div class="AssessmentProblem.solution"><p><span class="math math-repaired">\(\frac23\)</span> and <span class="math math-repaired">\(\frac69\)</span> are equivalent to each other. Sample reasoning:</p>
+
+<ul>
+	<li>2 and 3 can be multiplied by 3 to get 6 and 9.</li>
+	<li>Here is a diagram:
+	<p><img src="/tikz_files/235984.svg" /> <!--<img class="h-max-height--4-lines" src="/image_files/70375.png" /></p>--></p>
+	</li>
+</ul>
+</div>
+  </body>
+</html>

@@ -88,9 +88,21 @@ I know what it means to double or triple a color mixture. </div>
 
 <p>Here is a diagram that represents 1, 2, and 3 batches of this recipe.</p>
 
-<p><img class="h-max-height--10-lines" src="/image_files/26760.png" /></p>
+<p><img src="https://staging-cms-assets.illustrativemathematics.org/e42Kesdpeg8AXgzeUpddbHTM" /></p>
 
-<p>We say that the ratios <span class="math math-repaired">\(4:2\)</span>, <span class="math math-repaired">\(8:4\)</span>, and <span class="math math-repaired">\(12:6\)</span> are <em>equivalent</em> because they describe&#xA0;the same color mixture in&#xA0;different numbers of batches, and they make the same shade of orange.</p>
+<p>We say that the ratios <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>4</mn>
+  <mo>:</mo>
+  <mn>2</mn>
+</math></span><annotation description="\(4:2\)"></annotation></span>, <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>8</mn>
+  <mo>:</mo>
+  <mn>4</mn>
+</math></span><annotation description="\(8:4\)"></annotation></span>, and <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>12</mn>
+  <mo>:</mo>
+  <mn>6</mn>
+</math></span><annotation description="\(12:6\)"></annotation></span> are <em>equivalent</em> because they describe&#xA0;the same color mixture in&#xA0;different numbers of batches, and they make the same shade of orange.</p>
 </div>
   </body>
 </html>

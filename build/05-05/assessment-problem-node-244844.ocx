@@ -87,25 +87,45 @@
 			<td>fudge-like</td>
 			<td>2 eggs</td>
 			<td>
-<span class="math math-repaired" data-png-file-id="15">\(\frac14\)</span> cup</td>
+<span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mn>1</mn>
+    <mn>4</mn>
+  </mfrac>
+</math></span><annotation description="\(\frac14\)"></annotation></span> cup</td>
 			<td>
-<span class="math math-repaired" data-png-file-id="238">\(\frac12\)</span> cup</td>
+<span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mn>1</mn>
+    <mn>2</mn>
+  </mfrac>
+</math></span><annotation description="\(\frac12\)"></annotation></span> cup</td>
 		</tr>
 		<tr>
 			<td>cake-like</td>
 			<td>3 eggs</td>
 			<td>
-<span class="math math-repaired" data-png-file-id="15">\(\frac14\)</span> cup</td>
+<span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mn>1</mn>
+    <mn>4</mn>
+  </mfrac>
+</math></span><annotation description="\(\frac14\)"></annotation></span> cup</td>
 			<td>
-<span class="math math-repaired" data-png-file-id="238">\(\frac12\)</span> cup</td>
+<span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mn>1</mn>
+    <mn>2</mn>
+  </mfrac>
+</math></span><annotation description="\(\frac12\)"></annotation></span> cup</td>
 		</tr>
 	</tbody>
 </table>
 
 <ol>
-	<li>What amounts of eggs, water, and oil would you need for 2 batches of fudge-like brownies?<presentation-tag src="/presentation_tags/3.tag" data-tree-ref-id="215" data-tree-node-id="243962" data-tree-code="MS_pi" data-tag-title="HALF INCH"></presentation-tag>
+	<li>What amounts of eggs, water, and oil would you need for 2 batches of fudge-like brownies?<presentation-tag src="/presentation_tags/3.tag"></presentation-tag>
 </li>
-	<li>What amounts of eggs, water, and oil would you need for 3 batches of cake-like brownies?<presentation-tag src="/presentation_tags/4.tag" data-tree-ref-id="215" data-tree-node-id="243962" data-tree-code="MS_pi" data-tag-title="1 INCH"></presentation-tag>
+	<li>What amounts of eggs, water, and oil would you need for 3 batches of cake-like brownies?<presentation-tag src="/presentation_tags/4.tag"></presentation-tag>
 </li>
 </ol>
 </div>

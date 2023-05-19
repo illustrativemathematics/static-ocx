@@ -71,7 +71,22 @@
   </head>
   <body>
     <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
-    <div class="AssessmentProblem.statement"><p>Here are three fractions: <span class="math math-repaired" data-png-file-id="452">\(\frac{3}{4}\)</span>, <span class="math math-repaired" data-png-file-id="405">\(\frac{5}{6}\)</span>, <span class="math math-repaired" data-png-file-id="4190">\(\frac{6}{8}\)</span>. Two of these fractions are equivalent to each other. Which two? Explain or show your reasoning.<presentation-tag data-tag-title="2 INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/5.tag"></presentation-tag><presentation-tag data-tag-title="1 INCH" data-tree-code="MS_AE" data-tree-node-id="24440" data-tree-ref-id="57" src="/presentation_tags/4.tag"></presentation-tag></p>
+    <div class="AssessmentProblem.statement"><p>Here are three fractions: <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mn>3</mn>
+    <mn>4</mn>
+  </mfrac>
+</math></span><annotation description="\(\frac{3}{4}\)"></annotation></span>, <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mn>5</mn>
+    <mn>6</mn>
+  </mfrac>
+</math></span><annotation description="\(\frac{5}{6}\)"></annotation></span>, <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mn>6</mn>
+    <mn>8</mn>
+  </mfrac>
+</math></span><annotation description="\(\frac{6}{8}\)"></annotation></span>. Two of these fractions are equivalent to each other. Which two? Explain or show your reasoning.<presentation-tag src="/presentation_tags/5.tag"></presentation-tag><presentation-tag src="/presentation_tags/4.tag"></presentation-tag></p>
 </div>
     <div class="AssessmentProblem.solution"><p><span class="math math-repaired" data-png-file-id="452">\(\frac{3}{4}\)</span> and <span class="math math-repaired" data-png-file-id="4190">\(\frac{6}{8}\)</span> are equivalent to each other. Possible strategies:</p>
 

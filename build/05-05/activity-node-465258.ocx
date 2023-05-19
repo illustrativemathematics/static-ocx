@@ -1,0 +1,155 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:Activity",
+  "@id": "im:1cb8aa73-e1b7-5e49-9d2e-486b4f39d567",
+  "identifier": "im:1cb8aa73-e1b7-5e49-9d2e-486b4f39d567",
+  "name": "Memory Card",
+  "alternateName": "6.2.12.4",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Lesson",
+    "@id": "im:dea13d44-1165-5456-98a2-93e5180ad158",
+    "courseCode": "6.2.12"
+  },
+  "learningResourceType": [
+    "Activity"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:Activity",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "Grade6-2-12-4-Activity-student-task-statements.docx"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/activities/95160",
+  "dateCreated": "2022-09-30 09:04:04 UTC",
+  "dateModified": "2022-10-21 00:49:11 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="Activity.name">Memory Card</div>
+    <div class="im_statement"><p>In 2022, 128 gigabytes (GB) of portable computer memory cost \$16.</p>
+
+<ol>
+	<li>
+	<p>Here is a double number line diagram that represents the situation.</p>
+
+	<p><img src="/tikz_files/205190.svg" /></p>
+
+	<p>One set of tick marks has already been drawn to show the result of multiplying 128 and 16 each by <span class="math math-repaired">\(\frac12\)</span>. Label the amount of memory and the cost for these tick marks.</p>
+
+	<p>Next, keep multiplying by <span class="math math-repaired">\(\frac12\)</span> and drawing and labeling new tick marks, until you can no longer clearly label each new tick mark with a number.</p>
+	</li>
+	<li>
+	<div class="imgrid">
+	<div class="g--row g--row-1">
+	<div class="g--col-1 g--column g--content g--row-1 g--three-fourth">
+	<p>Here is a table that represents the situation. Find the cost of 1 gigabyte. You can use as many rows as you need.</p>
+
+	<table border="1">
+		<thead>
+			<tr>
+				<th scope="col">memory (gigabytes)</th>
+				<th scope="col">cost (dollars)</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>128</td>
+				<td>16</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td></td>
+			</tr>
+		</tbody>
+	</table>
+	</div>
+
+	<div class="g--col-2 g--column g--content g--one-fourth g--row-1"><img src="/image_files/73392.png" /></div>
+	</div>
+	</div>
+	</li>
+	<li>Did you prefer the double number line or the table for solving this problem? Why?<presentation-tag data-tag-title="Pagebreak after" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/2.tag"></presentation-tag>
+</li>
+</ol>
+</div>
+    <div class="im_extension"><p>Here is another question about finding half of something repeatedly. A question like this was originally posed by Zeno of Elea, a Greek philosopher who lived around 490&#x2013;430 BCE.</p>
+
+<p>Suppose you stand in the middle of the classroom and move toward the door to exit. Every time you make a move toward the door, you travel only half the distance between you and the door.&#xA0;</p>
+
+<ol>
+	<li>Can you reach the door and get out? Make a prediction and be prepared to explain your reasoning.</li>
+	<li>Compare your prediction with those of your classmates. Do you all agree one way or the other? If it seems helpful, consider using objects to demonstrate your thinking.&#xA0;</li>
+	<li>Going halfway toward a destination is one of Zeno&#x2019;s paradoxes. A paradox is a situation that both cannot be true and must be true at the same time. How would you explain that it is both possible and impossible to get out of the room?</li>
+</ol>
+</div>
+  </body>
+</html>

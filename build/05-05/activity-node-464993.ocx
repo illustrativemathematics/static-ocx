@@ -1,0 +1,122 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:Activity",
+  "@id": "im:be6eb25c-20d5-5cf4-836a-ada548186a25",
+  "identifier": "im:be6eb25c-20d5-5cf4-836a-ada548186a25",
+  "name": "Card Sort: Pencil Cases",
+  "alternateName": "6.2.2.3",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Lesson",
+    "@id": "im:2c05b503-614c-5590-a9fc-5fc687a8f9f8",
+    "courseCode": "6.2.2"
+  },
+  "learningResourceType": [
+    "Activity"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:Activity",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "Grade6-2-2-3-Activity-student-task-statements.docx"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/activities/95128",
+  "dateCreated": "2022-09-30 09:03:54 UTC",
+  "dateModified": "2023-01-24 20:50:15 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="Activity.name">Card Sort: Pencil Cases</div>
+    <div class="im_statement"><div class="imgrid">
+<div class="g--row g--row-1">
+<div class="g--col-1 g--column g--content g--row-1 g--two-third">
+<p>Your teacher will give you cards showing diagrams or sentences that describe the items in different pencil cases. In the diagrams:</p>
+
+<ul class="list--compressed">
+	<li>A circle represents a pencil.</li>
+	<li>A square represents an eraser.</li>
+	<li>A triangle represents a paper clip.</li>
+</ul>
+</div>
+
+<div class="g--col-2 g--column g--content g--one-third g--row-1"><!--<p><img class="h-max-height--7-lines" src="/image_files/66651.png" /></p>--></div>
+</div>
+</div>
+
+<ol>
+	<li>
+	<p>Take turns with your partner to match a sentence with a diagram.</p>
+
+	<ol>
+		<li>For each match that you find, explain to your partner how you know it&#x2019;s a match.</li>
+		<li>For each match that your partner finds, listen carefully to their explanation. If you disagree, discuss your thinking and work to reach an agreement.</li>
+	</ol>
+	</li>
+	<li>After you and your partner have agreed&#xA0;on all of the matches, check your answers with the answer key. If there are any errors, discuss why and revise your matches.</li>
+	<li>
+	<p>There were two diagrams that each matched with two different sentences. Which were they?</p>
+
+	<ul>
+		<li>Diagram _______ matched with both sentences ______ and ______.</li>
+		<li>Diagram _______ matched with both sentences ______ and ______.</li>
+	</ul>
+	</li>
+	<li>Select one of the other diagrams and invent another sentence that could describe the ratio shown in the diagram.<presentation-tag data-duplicated-from-tree-node-id="376770" data-tag-title="HALF INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/3.tag"></presentation-tag><presentation-tag data-tag-title="HALF INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/3.tag"></presentation-tag>
+</li>
+</ol>
+</div>
+    <div class="im_extension"><p>Andre has markers, pens, and rulers in his drawer. There are 2 markers for every ruler. There are 3 pens for every marker.&#xA0;</p>
+
+<ol>
+	<li>What is the ratio of pens to markers to rulers? Draw a diagram to show your reasoning.</li>
+	<li>Could there be 9 pens in Andre&#x2019;s drawer? Explain your reasoning.</li>
+</ol>
+
+<p><presentation-tag data-duplicated-from-tree-node-id="376770" data-tag-title="2 INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/5.tag"></presentation-tag><presentation-tag data-tag-title="2 INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/5.tag"></presentation-tag></p>
+</div>
+  </body>
+</html>

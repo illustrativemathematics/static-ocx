@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:Activity",
+  "@id": "im:2f6edabc-d8fd-566b-8f4c-47bfe12f84eb",
+  "identifier": "im:2f6edabc-d8fd-566b-8f4c-47bfe12f84eb",
+  "name": "Problems to Ponder",
+  "alternateName": "6.2.17.1",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Lesson",
+    "@id": "im:b2a597e3-0cb8-590b-aa99-f26eed658159",
+    "courseCode": "6.2.17"
+  },
+  "learningResourceType": [
+    "Activity"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:Activity",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "Grade6-2-17-1-Activity-student-task-statements.docx"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/activities/97763",
+  "dateCreated": "2022-10-23 22:36:21 UTC",
+  "dateModified": "2022-10-23 22:43:51 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="Activity.name">Problems to Ponder</div>
+    <div class="im_statement"><p>Here are some questions.</p>
+
+<ul class="list--compressed">
+	<li>How many times does your heart beat in a month?</li>
+	<li>How many hours of television do you watch in a year?</li>
+	<li>How many tubes of toothpaste would you need in a lifetime?</li>
+	<li>Is one month enough time to read the dictionary out loud?</li>
+	<li>Is one gallon of hand sanitizer enough to sanitize the hands of everyone in the school over a school day?</li>
+	<li>How long would it take to paddle across the Pacific Ocean?</li>
+	<li>How long would it take to give every dog in America a bath?<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/3.tag"></presentation-tag>
+</li>
+</ul>
+
+<p>Which question do you find most interesting? Which question do you find the least interesting? Be prepared to explain your reasoning.<presentation-tag data-tag-title="Pagebreak after" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/2.tag"></presentation-tag></p>
+</div>
+    <div class="im_extension"></div>
+  </body>
+</html>

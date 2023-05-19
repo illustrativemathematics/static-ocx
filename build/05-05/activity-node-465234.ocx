@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:Activity",
+  "@id": "im:6eb37884-c0d0-5975-bb33-2fc493f2dede",
+  "identifier": "im:6eb37884-c0d0-5975-bb33-2fc493f2dede",
+  "name": "Batches of Nihaizu Sauce",
+  "alternateName": "6.2.11.3",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Lesson",
+    "@id": "im:93b95c27-6eb0-5fdf-8fa4-056bba948421",
+    "courseCode": "6.2.11"
+  },
+  "learningResourceType": [
+    "Activity"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:Activity",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "Grade6-2-11-3-Activity-student-task-statements.docx"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/activities/95156",
+  "dateCreated": "2022-09-30 09:04:04 UTC",
+  "dateModified": "2022-10-20 22:19:49 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="Activity.name">Batches of Nihaizu Sauce</div>
+    <div class="im_statement"><p><em>Nihaizu</em> is a sauce used with seafood or vegetables in Japanese cooking. A recipe for nihaizu uses 7 fluid ounces of vinegar and 5 fluid ounces of soy sauce.</p>
+
+<div class="imgrid">
+<div class="g--row g--row-1">
+<div class="g--col-1 g--column g--content g--row-1 g--two-third">
+<p>The <strong>table</strong> shows amounts of vinegar and soy sauce that would be in different-sized batches of the recipe.</p>
+
+<ol>
+	<li>
+	<p>Complete the table so that ratios represented by each row are equivalent. Explain or show your reasoning.</p>
+	</li>
+	<li>How do you know that each row shows a ratio that is equivalent to&#xA0;<span class="math math-repaired">\(7:5\)</span>? Explain your reasoning.</li>
+</ol>
+</div>
+
+<div class="g--col-2 g--column g--content g--one-third g--row-1">
+<table border="1">
+	<thead>
+		<tr>
+			<th scope="col">vinegar<br />
+			(fl oz)</th>
+			<th scope="col">soy sauce<br />
+			(fl oz)</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>7</td>
+			<td>5</td>
+		</tr>
+		<tr>
+			<td>28</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td>10</td>
+		</tr>
+		<tr>
+			<td>3.5</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td>250</td>
+		</tr>
+		<tr>
+			<td>56</td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+    <div class="im_extension"><p><em>Ponzu</em> is another Japanese sauce. It uses rice wine and lemon juice in addition to soy sauce. In a ponzu recipe, the ratio of rice wine to lemon juice is <span class="math math-repaired">\(2 : 5\)</span>.</p>
+
+<p>Create a table in which the values in each row represent amounts of rice wine to lemon juice that might be used to make different amounts of ponzu.</p>
+
+<ul>
+	<li>One row should use less than 25 fluid ounces of lemon juice.</li>
+	<li>One row should use between 20 and 30 fluid ounces of rice wine.</li>
+	<li>One row should use more than 500 fluid ounces of lemon juice.</li>
+</ul>
+</div>
+  </body>
+</html>

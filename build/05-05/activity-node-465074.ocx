@@ -1,0 +1,138 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:Activity",
+  "@id": "im:c4f99bc1-58f3-51da-bc69-b7fe64acc00d",
+  "identifier": "im:c4f99bc1-58f3-51da-bc69-b7fe64acc00d",
+  "name": "Radish Cake",
+  "alternateName": "6.2.5.2",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Lesson",
+    "@id": "im:c0be9a83-068f-52c8-8c96-bbf84fa22b3d",
+    "courseCode": "6.2.5"
+  },
+  "learningResourceType": [
+    "Activity"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:Activity",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "Grade6-2-5-2-Activity-student-task-statements.docx"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/activities/95136",
+  "dateCreated": "2022-09-30 09:03:57 UTC",
+  "dateModified": "2022-10-18 02:33:40 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="Activity.name">Radish Cake</div>
+    <div class="im_statement"><p>Here is a recipe for <em>luo bo gao</em> or radish cake. It is also called <em>lo bak go</em> or Chinese turnip cake.</p>
+
+<hr />&#xA0;
+<div class="imgrid">
+<div class="g--row g--row-1">
+<div class="g--col-1 g--column g--content g--five-twelfth g--row-1">
+<!--<p><img class="h-max-height--9-lines" src="/image_files/66669.png" /></p>-->
+<p><img class="h-max-height--6-lines" src="/image_files/73388.jpeg" /></p>
+
+<p>INGREDIENTS</p>
+
+<ul class="list--compressed">
+	<li>20 ounces of radish</li>
+	<li>6 ounces of rice flour</li>
+	<li>5 small shiitake mushrooms</li>
+	<li>3 tablespoons of chopped green onions</li>
+	<li>1 tablespoon of dried shrimp</li>
+	<li>2 tablespoons of vegetable oil</li>
+	<li>
+<span class="math math-repaired">\(1\frac{1}{2}\)</span> cups of water</li>
+</ul>
+</div>
+
+<div class="g--col-2 g--column g--content g--half g--row-1">
+<p>INSTRUCTIONS</p>
+
+<ul>
+	<li>Peel and shred the radish. Soak the dried shrimp and mushrooms until soft and then chop.&#xA0;</li>
+	<li>Pan fry the radish, shrimp, mushrooms, green onions, and oil for 5 minutes. Sprinkle salt and white pepper.</li>
+	<li>Mix the rice flour and water and combine with the other ingredients. Pour the batter in a pan. Steam for 50 minutes.&#xA0;</li>
+	<li>When the cake cools, cut it into <span class="math math-repaired">\(\frac{3}{4}\)</span>-inch slices and pan fry until slightly brown on both sides.</li>
+</ul>
+</div>
+</div>
+</div>
+
+<hr />&#xA0;
+<ol>
+	<li>What is the ratio of the ounces of radish to the ounces of rice flour to the tablespoons of dried shrimp in one batch of radish cake?</li>
+	<li>
+	<p>How much of each of these 3 ingredients would be needed to make:</p>
+
+	<ol class="list--compressed">
+		<li>twice the amount of radish cake?</li>
+		<li>half the amount of radish cake?</li>
+		<li>five times the amount of radish cake?</li>
+		<li>one-fourth the amount of radish cake?</li>
+	</ol>
+	</li>
+	<li>What is the ratio of ounces of rice flour to tablespoons of chopped green onions in one batch of radish cake?<presentation-tag data-duplicated-from-tree-node-id="376770" data-tag-title="HALF INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/3.tag"></presentation-tag><presentation-tag data-tag-title="HALF INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/3.tag"></presentation-tag>
+</li>
+	<li>
+	<p>How many batches of radish cake would you make if you used the following amounts of ingredients?</p>
+
+	<ol class="list--compressed">
+		<li>18 ounces of rice flour and 9 tablespoons of green onions</li>
+		<li>36 ounces of rice flour and 18 tablespoons of green onions</li>
+		<li>2 ounces of rice flour and 1 tablespoon of green onions</li>
+	</ol>
+	</li>
+</ol>
+</div>
+    <div class="im_extension"></div>
+  </body>
+</html>

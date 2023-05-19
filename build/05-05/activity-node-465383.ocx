@@ -1,0 +1,182 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:Activity",
+  "@id": "im:7165a29c-6c69-5e0a-800f-778703ed8d3f",
+  "identifier": "im:7165a29c-6c69-5e0a-800f-778703ed8d3f",
+  "name": "Researching Your Own Fermi Problem",
+  "alternateName": "6.2.17.3",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Lesson",
+    "@id": "im:b2a597e3-0cb8-590b-aa99-f26eed658159",
+    "courseCode": "6.2.17"
+  },
+  "learningResourceType": [
+    "Activity"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:Activity",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "Grade6-2-17-3-Activity-student-task-statements.docx"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/activities/95176",
+  "dateCreated": "2022-09-30 09:04:10 UTC",
+  "dateModified": "2022-11-18 02:54:07 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="Activity.name">Researching Your Own Fermi Problem</div>
+    <div class="im_statement"><ol>
+	<li>
+	<p>Brainstorm at least five Fermi problems that you want to research and solve. If you get stuck, consider using these starters:</p>
+
+	<ul class="list--compressed">
+		<li>How much (or how many) . . . would it take to . . . ?</li>
+		<li>How long would it take to . . . ?</li>
+		<li>Would . . . be enough to . . . ?</li>
+	</ul>
+
+	<p>Discuss your ideas with your teacher and then select one problem.</p>
+	<presentation-tag data-tag-title="Pagebreak after" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/2.tag"></presentation-tag>
+</li>
+	<li>
+	<p>What are some smaller questions or sub-questions to figure out before solving the chosen Fermi problem? Record the Fermi problem and the sub-questions here.</p>
+
+	<p><img src="/tikz_files/205214.svg" /></p>
+	</li>
+	<li>
+	<p>Let&#x2019;s start answering the sub-questions! Use the given organizer.</p>
+
+	<ul class="list--compressed">
+		<li>Write your sub-questions in order.</li>
+		<li>Find the information you need to answer each sub-question. Research, measure, estimate, and perform any necessary calculations.</li>
+		<li>Record any fact you find and any assumption you make.</li>
+	</ul>
+
+	<div class="imgrid">
+	<div class="g--row g--row-1">
+	<div class="g--col-1 g--column g--content g--full g--row-1">
+	<p>Fermi Problem:</p>
+
+	<p><presentation-tag data-tag-title="One Line" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/8.tag"></presentation-tag></p>
+	</div>
+	</div>
+
+	<div class="g--row g--row-2">
+	<div class="g--col-1 g--column g--content g--half g--row-2">
+	<p>Sub-question 1:<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/3.tag"></presentation-tag></p>
+
+	<p>Facts or assumptions:<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/3.tag"></presentation-tag></p>
+
+	<p>Answer:<presentation-tag data-tag-title="1 INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/4.tag"></presentation-tag></p>
+
+	<p><presentation-tag data-tag-title="One Line" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/8.tag"></presentation-tag></p>
+	</div>
+
+	<div class="g--col-2 g--column g--content g--half g--row-2">
+	<p>Sub-question 2:<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/3.tag"></presentation-tag></p>
+
+	<p>Facts or assumptions:<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/3.tag"></presentation-tag></p>
+
+	<p>Answer:<presentation-tag data-tag-title="1 INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/4.tag"></presentation-tag></p>
+
+	<p><presentation-tag data-tag-title="One Line" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/8.tag"></presentation-tag></p>
+	</div>
+	</div>
+
+	<div class="g--row g--row-3">
+	<div class="g--col-1 g--column g--content g--half g--row-3">
+	<p>Sub-question 3:<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/3.tag"></presentation-tag></p>
+
+	<p>Facts or assumptions:<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/3.tag"></presentation-tag></p>
+
+	<p>Answer:<presentation-tag data-tag-title="1 INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/4.tag"></presentation-tag></p>
+
+	<p><presentation-tag data-tag-title="One Line" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/8.tag"></presentation-tag></p>
+	</div>
+
+	<div class="g--col-2 g--column g--content g--half g--row-3">
+	<p>Sub-question 4:<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/3.tag"></presentation-tag></p>
+
+	<p>Facts or assumptions:<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/3.tag"></presentation-tag></p>
+
+	<p>Answer:<presentation-tag data-tag-title="1 INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/4.tag"></presentation-tag></p>
+
+	<p><presentation-tag data-tag-title="One Line" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/8.tag"></presentation-tag></p>
+	</div>
+	</div>
+
+	<div class="g--row g--row-4">
+	<div class="g--col-1 g--column g--content g--half g--row-4">
+	<p>Sub-question 5:<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/3.tag"></presentation-tag></p>
+
+	<p>Facts or assumptions:<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/3.tag"></presentation-tag></p>
+
+	<p>Answer:<presentation-tag data-tag-title="1 INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/4.tag"></presentation-tag></p>
+
+	<p><presentation-tag data-tag-title="One Line" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/8.tag"></presentation-tag></p>
+	</div>
+
+	<div class="g--col-2 g--column g--content g--half g--row-4">
+	<p>Sub-question 6:<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/3.tag"></presentation-tag></p>
+
+	<p>Facts or assumptions:<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/3.tag"></presentation-tag></p>
+
+	<p>Answer:<presentation-tag data-tag-title="1 INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/4.tag"></presentation-tag></p>
+
+	<p><presentation-tag data-tag-title="One Line" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/8.tag"></presentation-tag></p>
+	</div>
+	</div>
+	</div>
+	</li>
+	<li>What is your answer to the Fermi problem? Explain or show your reasoning.</li>
+</ol>
+</div>
+    <div class="im_extension"></div>
+  </body>
+</html>

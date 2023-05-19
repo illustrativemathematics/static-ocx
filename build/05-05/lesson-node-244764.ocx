@@ -87,17 +87,25 @@ I can explain my reasoning using diagrams that I choose.</div>
 	</li>
 </ul>
 
-<p>Suppose we are making a large batch of fizzy juice and the recipe says, &#x201C;Mix 5 cups of cranberry juice with 2 cups of soda water.&#x201D; We know that the ratio of cranberry juice to soda water is <span class="math math-repaired">\(5:2\)</span>, and&#xA0;that we need 2.5 cups of cranberry juice per cup of soda water.</p>
+<p>Suppose we are making a large batch of fizzy juice and the recipe says, &#x201C;Mix 5 cups of cranberry juice with 2 cups of soda water.&#x201D; We know that the ratio of cranberry juice to soda water is <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>5</mn>
+  <mo>:</mo>
+  <mn>2</mn>
+</math></span><annotation description="\(5:2\)"></annotation></span>, and&#xA0;that we need 2.5 cups of cranberry juice per cup of soda water.</p>
 
-<div class="imgrid">
-<div class="g--row g--row-1">
-<div class="g--col-1 g--column g--content g--row-1 g--two-third">
-<p>We still need to know something about the size of the large batch. If we use 16 cups of soda water, what number goes with 16 to make a ratio that is equivalent to <span class="math math-repaired">\(5:2\)</span>?</p>
+<div>
+<div>
+<div>
+<p>We still need to know something about the size of the large batch. If we use 16 cups of soda water, what number goes with 16 to make a ratio that is equivalent to <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>5</mn>
+  <mo>:</mo>
+  <mn>2</mn>
+</math></span><annotation description="\(5:2\)"></annotation></span>?</p>
 
 <p>To make this large batch taste the same as the original recipe, we would need to use&#xA0;40 cups of cranberry juice.</p>
 </div>
 
-<div class="g--col-2 g--column g--content g--one-third g--row-1">
+<div>
 <table border="1" style="width:210px">
 	<thead>
 		<tr>

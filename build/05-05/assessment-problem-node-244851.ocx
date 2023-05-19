@@ -74,11 +74,11 @@
     <div class="AssessmentProblem.statement"><p>Solve each of the following:</p>
 
 <ol>
-	<li>3 movie tickets cost <span>$</span>36. At this rate, what is the cost per ticket?<presentation-tag data-tag-title="1 INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/4.tag"></presentation-tag><presentation-tag data-tag-title="1 INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/4.tag"></presentation-tag>
+	<li>3 movie tickets cost <span>$</span>36. At this rate, what is the cost per ticket?<presentation-tag src="/presentation_tags/4.tag"></presentation-tag><presentation-tag src="/presentation_tags/4.tag"></presentation-tag>
 </li>
-	<li>3 ice cream cones cost <span>$</span>8.25. At this rate, how much do 2 ice cream cones cost?<presentation-tag data-tag-title="1 INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/4.tag"></presentation-tag><presentation-tag data-tag-title="1 INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/4.tag"></presentation-tag>
+	<li>3 ice cream cones cost <span>$</span>8.25. At this rate, how much do 2 ice cream cones cost?<presentation-tag src="/presentation_tags/4.tag"></presentation-tag><presentation-tag src="/presentation_tags/4.tag"></presentation-tag>
 </li>
-	<li>3 bananas cost <span>$</span>0.99. At this rate, how much do 5 bananas cost?<presentation-tag data-tag-title="1 INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/4.tag"></presentation-tag><presentation-tag data-tag-title="1 INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/4.tag"></presentation-tag>
+	<li>3 bananas cost <span>$</span>0.99. At this rate, how much do 5 bananas cost?<presentation-tag src="/presentation_tags/4.tag"></presentation-tag><presentation-tag src="/presentation_tags/4.tag"></presentation-tag>
 </li>
 </ol>
 </div>

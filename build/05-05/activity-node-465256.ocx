@@ -1,0 +1,124 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:Activity",
+  "@id": "im:358bfe9d-0f8a-5c47-aab6-adb8fa4cf073",
+  "identifier": "im:358bfe9d-0f8a-5c47-aab6-adb8fa4cf073",
+  "name": "Comparing Taco Prices",
+  "alternateName": "6.2.12.2",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Lesson",
+    "@id": "im:dea13d44-1165-5456-98a2-93e5180ad158",
+    "courseCode": "6.2.12"
+  },
+  "learningResourceType": [
+    "Activity"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:Activity",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "Grade6-2-12-2-Activity-student-task-statements.docx"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/activities/95158",
+  "dateCreated": "2022-09-30 09:04:04 UTC",
+  "dateModified": "2022-11-09 15:00:09 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="Activity.name">Comparing Taco Prices</div>
+    <div class="im_statement"><div class="imgrid">
+<div class="g--row g--row-1">
+<div class="g--col-1 g--column g--content g--one-third g--row-1">
+<table border="1">
+	<thead>
+		<tr>
+			<th scope="col">number&#xA0;of tacos</th>
+			<th scope="col">price&#xA0;in dollars</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div class="g--col-2 g--column g--content g--row-1 g--two-third">
+<p>Use the table to help you solve these problems. Explain or show your reasoning.</p>
+
+<ol>
+	<li>Noah bought 4 tacos and paid \$6. At this rate, how many tacos could he buy for \$15?</li>
+	<li>Jada&#x2019;s family bought 50 tacos for a party and paid \$72. Were Jada&#x2019;s tacos the same price as Noah&#x2019;s tacos?</li>
+</ol>
+</div>
+</div>
+</div>
+
+<p><presentation-tag data-duplicated-from-tree-node-id="376770" data-tag-title="Pagebreak after" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/2.tag"></presentation-tag><presentation-tag data-tag-title="Pagebreak after" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/2.tag"></presentation-tag></p>
+</div>
+    <div class="im_extension"></div>
+  </body>
+</html>

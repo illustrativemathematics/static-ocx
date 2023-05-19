@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:Activity",
+  "@id": "im:e8bef97f-cddc-59a2-a7d7-dfc30ed001f0",
+  "identifier": "im:e8bef97f-cddc-59a2-a7d7-dfc30ed001f0",
+  "name": "Drink Mix on a Double Number Line",
+  "alternateName": "6.2.6.2",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Lesson",
+    "@id": "im:0ae2b945-d0b5-5b95-b949-e5d42c83491a",
+    "courseCode": "6.2.6"
+  },
+  "learningResourceType": [
+    "Activity"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:Activity",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "Grade6-2-6-2-Activity-student-task-statements.docx"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/activities/95139",
+  "dateCreated": "2022-09-30 09:03:58 UTC",
+  "dateModified": "2022-10-18 14:41:55 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="Activity.name">Drink Mix on a Double Number Line</div>
+    <div class="im_statement"><p>A drink recipe says to mix&#xA0;4 teaspoons of powdered drink mix for every cup of water. Here are two ways to represent multiple batches of this recipe:</p>
+<!--<p><img class="h-max-height--5-lines" src="/image_files/66670.png" /></p>-->
+
+<p><img src="/tikz_files/205237.svg" /></p>
+
+<p><img src="/tikz_files/205158.svg" /></p>
+
+<ol>
+	<li>How can we tell that <span class="math math-repaired">\(4:1\)</span> and <span class="math math-repaired">\(12:3\)</span> are equivalent ratios?<presentation-tag data-duplicated-from-tree-node-id="376770" data-tag-title="1 INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/4.tag"></presentation-tag><presentation-tag data-tag-title="1 INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/4.tag"></presentation-tag>
+</li>
+	<li>How are these representations the same?&#xA0;How are these representations different?<presentation-tag data-duplicated-from-tree-node-id="376770" data-tag-title="1 INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/4.tag"></presentation-tag><presentation-tag data-tag-title="1 INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/4.tag"></presentation-tag>
+</li>
+	<li>How many teaspoons of drink mix should be used with 3 cups of water?<presentation-tag data-duplicated-from-tree-node-id="376770" data-tag-title="HALF INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/3.tag"></presentation-tag><presentation-tag data-tag-title="HALF INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/3.tag"></presentation-tag>
+</li>
+	<li>How many cups of water should be used with 16 teaspoons of drink mix?<presentation-tag data-duplicated-from-tree-node-id="376770" data-tag-title="HALF INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/3.tag"></presentation-tag><presentation-tag data-tag-title="HALF INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/3.tag"></presentation-tag>
+</li>
+	<li>What numbers should go in the empty boxes on the <strong>double number line diagram</strong>? What do these numbers mean?<presentation-tag data-duplicated-from-tree-node-id="376770" data-tag-title="HALF INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/3.tag"></presentation-tag><presentation-tag data-tag-title="HALF INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/3.tag"></presentation-tag>
+</li>
+</ol>
+</div>
+    <div class="im_extension"><p>Recall that a&#xA0;<em>perfect square</em> is a number of objects that can be arranged into a square. For example, 9 is a perfect square because 9 objects can be arranged into 3 rows of 3. 16 is also a perfect square, because 16 objects can be arranged into 4 rows of 4. In contrast, 12 is not a perfect square because you can&#x2019;t arrange 12 objects into a square.</p>
+
+<ol>
+	<li>How many whole numbers starting with 1 and ending with 100&#xA0;are perfect squares?&#xA0;<presentation-tag data-duplicated-from-tree-node-id="376770" data-tag-title="HALF INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/3.tag"></presentation-tag><presentation-tag data-tag-title="HALF INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/3.tag"></presentation-tag>
+</li>
+	<li>What about whole numbers starting with 1 and ending with 1,000?<presentation-tag data-duplicated-from-tree-node-id="376770" data-tag-title="Pagebreak after" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/2.tag"></presentation-tag><presentation-tag data-tag-title="Pagebreak after" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/2.tag"></presentation-tag>
+</li>
+</ol>
+</div>
+  </body>
+</html>

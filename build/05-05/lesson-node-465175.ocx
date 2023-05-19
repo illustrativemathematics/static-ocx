@@ -1,0 +1,107 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:Lesson",
+  "@id": "im:722db973-c964-58da-80d3-1df4d686da03",
+  "identifier": "im:722db973-c964-58da-80d3-1df4d686da03",
+  "name": "Constant Speed",
+  "alternateName": "6.2.9",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Section",
+    "@id": "im:b7364ef3-7557-55aa-8ae3-fda91957ae7c",
+    "courseCode": "6.2."
+  },
+  "learningResourceType": [
+    "Lesson"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:Lesson",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL(s) should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/lessons/29180",
+  "dateCreated": "2022-09-30 09:02:38 UTC",
+  "dateModified": "2023-02-15 03:02:24 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="Lesson.name">Constant Speed</div>
+    <div class="im_student_facing_learning_goals"><p>Let&#x2019;s use ratios to work with how fast things move.</p>
+</div>
+    <div class="im_learning_targets">I can choose and create diagrams to help me reason about constant speed.
+If I know an object is moving at a constant speed, and I know two of these things: the distance it travels, the amount of time it takes, and its speed, I can find the other thing.</div>
+    <div class="im_glossary_entries">constant speed: <p>When an object moves at a <em>constant speed</em>, it moves at the same speed at all times. It does not move faster or slower at any time. &#xA0;</p>
+
+<p>The ratios of distance traveled to elapsed time (such as meters to seconds or miles to hours) are equivalent the entire time an object is traveling at a constant speed.</p>
+</div>
+    <div class="im_student_lesson_summary"><p>Suppose a train traveled 100 meters in 5 seconds at a <strong>constant speed</strong>&#xA0;or<strong>&#xA0;</strong>at the same speed at all times.</p>
+
+<p>To find its speed in meters per second<strong>,</strong> we can create a double number line:</p>
+
+<p><img src="https://staging-cms-assets.illustrativemathematics.org/t2jwt0fk5zh1fdizrwmr94g2t1yg" /></p>
+
+<p>The double number line shows that the train&#x2019;s speed was 20 meters per second.</p>
+
+<p>We can also find the speed by dividing: <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>100</mn>
+  <mo>&#xF7;<!-- ÷ --></mo>
+  <mn>5</mn>
+  <mo>=</mo>
+  <mn>20</mn>
+</math></span><annotation description="\(100 \div 5 = 20\)"></annotation></span>.</p>
+
+<p>Once we know the speed in meters per second, many questions about the situation become simpler to answer because we can multiply the amount of time an object travels by the speed to get the distance. For example, at this rate, how far would the train go in 30 seconds? Since <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>20</mn>
+  <mtext mathcolor="red">\boldcdot</mtext>
+  <mn>30</mn>
+  <mo>=</mo>
+  <mn>600</mn>
+</math></span><annotation description="\(20 \boldcdot 30 = 600\)"></annotation></span>, the train would go 600 meters in 30 seconds.</p>
+</div>
+  </body>
+</html>

@@ -86,24 +86,44 @@
 		<tr>
 			<th scope="row">regular</th>
 			<td>1 egg</td>
-			<td><span class="math math-repaired" data-png-file-id="2240">\(\frac18\)</span></td>
-			<td><span class="math math-repaired" data-png-file-id="14">\(\frac13\)</span></td>
+			<td><span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mn>1</mn>
+    <mn>8</mn>
+  </mfrac>
+</math></span><annotation description="\(\frac18\)"></annotation></span></td>
+			<td><span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mn>1</mn>
+    <mn>3</mn>
+  </mfrac>
+</math></span><annotation description="\(\frac13\)"></annotation></span></td>
 		</tr>
 		<tr>
 			<th scope="row">cake-like</th>
 			<td>2 eggs</td>
-			<td><span class="math math-repaired" data-png-file-id="2240">\(\frac18\)</span></td>
-			<td><span class="math math-repaired" data-png-file-id="14">\(\frac13\)</span></td>
+			<td><span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mn>1</mn>
+    <mn>8</mn>
+  </mfrac>
+</math></span><annotation description="\(\frac18\)"></annotation></span></td>
+			<td><span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mn>1</mn>
+    <mn>3</mn>
+  </mfrac>
+</math></span><annotation description="\(\frac13\)"></annotation></span></td>
 		</tr>
 	</tbody>
 </table>
 
 <ol>
 	<li>
-	<p>What amounts of eggs, water, and oil would you need for 2 batches of regular cookies?<presentation-tag data-tag-title="1 INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/4.tag"></presentation-tag><presentation-tag data-tag-title="1 INCH" data-tree-code="MS_AE" data-tree-node-id="24440" data-tree-ref-id="57" src="/presentation_tags/4.tag"></presentation-tag></p>
+	<p>What amounts of eggs, water, and oil would you need for 2 batches of regular cookies?<presentation-tag src="/presentation_tags/4.tag"></presentation-tag><presentation-tag src="/presentation_tags/4.tag"></presentation-tag></p>
 	</li>
 	<li>
-	<p>What amounts of eggs, water, and oil would you need for 3 batches of cake-like cookies?<presentation-tag data-tag-title="1 INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/4.tag"></presentation-tag><presentation-tag data-tag-title="1 INCH" data-tree-code="MS_AE" data-tree-node-id="24440" data-tree-ref-id="57" src="/presentation_tags/4.tag"></presentation-tag></p>
+	<p>What amounts of eggs, water, and oil would you need for 3 batches of cake-like cookies?<presentation-tag src="/presentation_tags/4.tag"></presentation-tag><presentation-tag src="/presentation_tags/4.tag"></presentation-tag></p>
 	</li>
 </ol>
 </div>

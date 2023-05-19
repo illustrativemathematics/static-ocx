@@ -1,0 +1,133 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:Lesson",
+  "@id": "im:14abe312-06be-51f6-94ba-37ee8530197b",
+  "identifier": "im:14abe312-06be-51f6-94ba-37ee8530197b",
+  "name": "Introducing Ratios and Ratio Language",
+  "alternateName": "6.2.1",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Section",
+    "@id": "im:b285f334-e4c0-52d1-b287-c6ef6e794a92",
+    "courseCode": "6.2."
+  },
+  "learningResourceType": [
+    "Lesson"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:Lesson",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL(s) should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/lessons/29108",
+  "dateCreated": "2022-09-30 09:02:21 UTC",
+  "dateModified": "2023-02-15 04:07:58 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="Lesson.name">Introducing Ratios and Ratio Language</div>
+    <div class="im_student_facing_learning_goals"><p>Let&#x2019;s describe&#xA0;two quantities at the same time.</p>
+</div>
+    <div class="im_learning_targets">I can write or say a sentence that describes a ratio.
+I know how to say words and numbers in the correct order to accurately describe the ratio.</div>
+    <div class="im_glossary_entries">ratio: <p>A ratio is an association between two or more quantities.</p>
+
+<div class="imgrid">
+<div class="g--row g--row-1">
+<div class="g--col-1 g--column g--content g--row-1 g--seven-twelfth">
+<p>For example, the ratio <span class="math math-repaired">\(3:2\)</span> could describe a recipe that uses 3 cups of flour for every 2 eggs, or a boat that moves 3 meters every 2 seconds. One way to represent the ratio <span class="math math-repaired">\(3:2\)</span> is with a diagram that has 3 blue squares for every 2 green squares.</p>
+</div>
+
+<div class="g--col-2 g--column g--content g--five-twelfth g--row-1">
+<p><img src="/tikz_files/236139.svg" /></p>
+</div>
+</div>
+</div>
+</div>
+    <div class="im_student_lesson_summary"><p>A <strong>ratio</strong> is an association between two or more quantities. There are many ways to describe a situation in terms of ratios. For example, look at this collection:</p>
+
+<div>
+<div>
+<div>
+<p><img src="https://staging-cms-assets.illustrativemathematics.org/tu79g1cnfdufu34k1zkacdx7hgoe" /></p>
+</div>
+
+<div>
+<p>Here are some correct ways to describe the collection:</p>
+
+<ul>
+	<li>The ratio of squares to circles is <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>6</mn>
+  <mo>:</mo>
+  <mn>3</mn>
+</math></span><annotation description="\(6:3\)"></annotation></span>.</li>
+	<li>The ratio of circles to squares is 3 to 6.</li>
+</ul>
+</div>
+</div>
+</div>
+
+<p>Notice that the shapes can be arranged in equal groups, which allow us to describe the shapes using other numbers.</p>
+
+<div>
+<div>
+<div>
+<p><img src="https://staging-cms-assets.illustrativemathematics.org/s2qmtpgc7h3tluejczxt6kjy3n13" /></p>
+</div>
+
+<div>
+<ul>
+	<li>There are 2 squares for every 1 circle.</li>
+	<li>There is 1 circle for every 2 squares.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+  </body>
+</html>

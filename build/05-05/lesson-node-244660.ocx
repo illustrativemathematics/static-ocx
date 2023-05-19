@@ -89,11 +89,31 @@ I know some examples of situations where things can happen at the same rate.</di
 	<li>Tyler mixes 7 teaspoons of red paint with 10 teaspoons of yellow paint.</li>
 </ul>
 
-<p>Here is a double number line that represents Kiran's paint mixture. The ratio <span class="math math-repaired">\(9:15\)</span> is equivalent to the ratios <span class="math math-repaired">\(3:5\)</span> and <span class="math math-repaired">\(6:10\)</span>.</p>
+<p>Here is a double number line that represents Kiran's paint mixture. The ratio <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>9</mn>
+  <mo>:</mo>
+  <mn>15</mn>
+</math></span><annotation description="\(9:15\)"></annotation></span> is equivalent to the ratios <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>3</mn>
+  <mo>:</mo>
+  <mn>5</mn>
+</math></span><annotation description="\(3:5\)"></annotation></span> and <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>6</mn>
+  <mo>:</mo>
+  <mn>10</mn>
+</math></span><annotation description="\(6:10\)"></annotation></span>.</p>
 
-<p><img class="h-max-height--6-lines" src="/image_files/26769.png" /></p>
+<p><img src="https://staging-cms-assets.illustrativemathematics.org/HkMi6eY4JJjCpNT3XHSR9sJZ" /></p>
 
-<p>For 10 teaspoons of yellow paint, Kiran would mix in 6 teaspoons of red paint. This is less red paint than&#xA0;Tyler mixes with 10 teaspoons of yellow paint. The ratios <span class="math math-repaired">\(6:10\)</span> and <span class="math math-repaired">\(7:10\)</span> are not equivalent, so these two paint mixtures would not be the same shade of orange.</p>
+<p>For 10 teaspoons of yellow paint, Kiran would mix in 6 teaspoons of red paint. This is less red paint than&#xA0;Tyler mixes with 10 teaspoons of yellow paint. The ratios <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>6</mn>
+  <mo>:</mo>
+  <mn>10</mn>
+</math></span><annotation description="\(6:10\)"></annotation></span> and <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>7</mn>
+  <mo>:</mo>
+  <mn>10</mn>
+</math></span><annotation description="\(7:10\)"></annotation></span> are not equivalent, so these two paint mixtures would not be the same shade of orange.</p>
 
 <p>When we talk about two things happening at the same rate, we mean that the ratios of the quantities in the two situations are equivalent. There is also something specific about the situation that is the same.</p>
 

@@ -108,38 +108,83 @@ If I have two ratios, I can decide whether they are equivalent to each other.</d
 
 <p><presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/3.tag"></presentation-tag></p>
 </div>
-    <div class="im_student_lesson_summary"><p>All ratios that are <strong>equivalent</strong> to <span class="math math-repaired">\(a:b\)</span> can be made by multiplying both <span class="math math-repaired">\(a\)</span> and <span class="math math-repaired">\(b\)</span> by the same number.</p>
+    <div class="im_student_lesson_summary"><p>All ratios that are <strong>equivalent</strong> to <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>a</mi>
+  <mo>:</mo>
+  <mi>b</mi>
+</math></span><annotation description="\(a:b\)"></annotation></span> can be made by multiplying both <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>a</mi>
+</math></span><annotation description="\(a\)"></annotation></span> and <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>b</mi>
+</math></span><annotation description="\(b\)"></annotation></span> by the same number.</p>
 
-<div class="imgrid">
-<div class="g--row g--row-1">
-<div class="g--col-1 g--column g--content g--half g--row-1">
-<p>For example, the ratio <span class="math math-repaired">\(18:12\)</span> is equivalent to <span class="math math-repaired">\(9:6\)</span> because both 9 and 6 are multiplied by the same number: 2.<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/3.tag"></presentation-tag></p>
+<div>
+<div>
+<div>
+<p>For example, the ratio <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>18</mn>
+  <mo>:</mo>
+  <mn>12</mn>
+</math></span><annotation description="\(18:12\)"></annotation></span> is equivalent to <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>9</mn>
+  <mo>:</mo>
+  <mn>6</mn>
+</math></span><annotation description="\(9:6\)"></annotation></span> because both 9 and 6 are multiplied by the same number: 2.<presentation-tag src="/presentation_tags/3.tag"></presentation-tag></p>
 </div>
 
-<div class="g--col-2 g--column g--content g--half g--row-1">
-<p><img class="h-max-height--4-lines" src="/image_files/26761.png" /></p>
+<div>
+<p><img src="https://staging-cms-assets.illustrativemathematics.org/J7EDfX5KMs5wj6pfxzYxhQmC" /></p>
 </div>
 </div>
 
-<div class="g--row g--row-2">
-<div class="g--col-1 g--column g--content g--half g--row-2">
-<p><span class="math math-repaired">\(3:2\)</span> is also equivalent to <span class="math math-repaired">\(9:6\)</span>, because both 9 and 6 are multiplied by the same number: <span class="math math-repaired">\(\frac13\)</span>.<presentation-tag data-tag-title="HALF INCH" data-tree-code="MS_pi" data-tree-node-id="243962" data-tree-ref-id="215" src="/presentation_tags/3.tag"></presentation-tag></p>
+<div>
+<div>
+<p><span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>3</mn>
+  <mo>:</mo>
+  <mn>2</mn>
+</math></span><annotation description="\(3:2\)"></annotation></span> is also equivalent to <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>9</mn>
+  <mo>:</mo>
+  <mn>6</mn>
+</math></span><annotation description="\(9:6\)"></annotation></span>, because both 9 and 6 are multiplied by the same number: <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mn>1</mn>
+    <mn>3</mn>
+  </mfrac>
+</math></span><annotation description="\(\frac13\)"></annotation></span>.<presentation-tag src="/presentation_tags/3.tag"></presentation-tag></p>
 </div>
 
-<div class="g--col-2 g--column g--content g--half g--row-2">
-<p><img class="h-max-height--4-lines" src="/image_files/26762.png" /></p>
+<div>
+<p><img src="https://staging-cms-assets.illustrativemathematics.org/pN7oveqVLFaTVEqxnHRg2kyX" /></p>
 </div>
 </div>
 
-<div class="g--row g--row-3">
-<div class="g--col-1 g--column g--content g--half g--row-3">
-<p>Is <span class="math math-repaired">\(18:15\)</span> equivalent to <span class="math math-repaired">\(9:6\)</span>?</p>
+<div>
+<div>
+<p>Is <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>18</mn>
+  <mo>:</mo>
+  <mn>15</mn>
+</math></span><annotation description="\(18:15\)"></annotation></span> equivalent to <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>9</mn>
+  <mo>:</mo>
+  <mn>6</mn>
+</math></span><annotation description="\(9:6\)"></annotation></span>?</p>
 
-<p>No, because 18 is <span class="math math-repaired">\(9 \boldcdot 2\)</span>, but 15 is <em>not </em><span class="math math-repaired">\(6 \boldcdot 2\)</span>.</p>
+<p>No, because 18 is <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>9</mn>
+  <mtext mathcolor="red">\boldcdot</mtext>
+  <mn>2</mn>
+</math></span><annotation description="\(9 \boldcdot 2\)"></annotation></span>, but 15 is <em>not </em><span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>6</mn>
+  <mtext mathcolor="red">\boldcdot</mtext>
+  <mn>2</mn>
+</math></span><annotation description="\(6 \boldcdot 2\)"></annotation></span>.</p>
 </div>
 
-<div class="g--col-2 g--column g--content g--half g--row-3">
-<p><img class="h-max-height--4-lines" src="/image_files/26763.png" /></p>
+<div>
+<p><img src="https://staging-cms-assets.illustrativemathematics.org/paFPGgUz7CkCTYp7RuBuWmNm" /></p>
 </div>
 </div>
 </div>

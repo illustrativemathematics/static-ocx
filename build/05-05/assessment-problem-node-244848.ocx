@@ -71,7 +71,11 @@
   </head>
   <body>
     <div class="AssessmentProblem.type">MultipleSelectResponse</div>
-    <div class="AssessmentProblem.statement"><p>Select <strong>all</strong> the ratios that are equivalent to <span class="math math-repaired" data-png-file-id="8152">\(8:6\)</span></p>
+    <div class="AssessmentProblem.statement"><p>Select <strong>all</strong> the ratios that are equivalent to <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mn>8</mn>
+  <mo>:</mo>
+  <mn>6</mn>
+</math></span><annotation description="\(8:6\)"></annotation></span></p>
 </div>
     <div class="AssessmentProblem.solution">["A", "C"]</div>
   </body>

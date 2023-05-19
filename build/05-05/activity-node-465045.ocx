@@ -1,0 +1,86 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:Activity",
+  "@id": "im:5547d81f-a295-53a6-9ebb-957344f546d8",
+  "identifier": "im:5547d81f-a295-53a6-9ebb-957344f546d8",
+  "name": "Two Containers",
+  "alternateName": "6.2.4.1",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Lesson",
+    "@id": "im:d2f24593-afd9-5d2e-9b23-a7d44c9ad7f4",
+    "courseCode": "6.2.4"
+  },
+  "learningResourceType": [
+    "Activity"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:Activity",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "Grade6-2-4-1-Activity-student-task-statements.docx"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/activities/95132",
+  "dateCreated": "2022-09-30 09:03:55 UTC",
+  "dateModified": "2022-10-18 00:22:21 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="Activity.name">Two Containers</div>
+    <div class="im_statement"><p>Here is a picture of two containers of colored water.</p>
+
+<p>[<strong>IMAGE NEEDED</strong>: Picture showing two graduated cylinders&#x2014;one with 5 ml of blue water and one with 15 ml of yellow water&#x2014;and a label below each container]</p>
+
+<ol>
+	<li>What do you notice about the colored water? Make 1&#x2013;2 observations.</li>
+	<li>What would happen if we mix the blue water and yellow water together?</li>
+	<li>What would happen if we mix more blue water with the same amount of yellow water?</li>
+</ol>
+</div>
+    <div class="im_extension">&#xA0;</div>
+  </body>
+</html>

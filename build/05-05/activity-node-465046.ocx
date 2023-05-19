@@ -1,0 +1,122 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:Activity",
+  "@id": "im:e3e6a9ed-bc66-5a4d-a5c7-d59c90173b8e",
+  "identifier": "im:e3e6a9ed-bc66-5a4d-a5c7-d59c90173b8e",
+  "name": "Turning Green",
+  "alternateName": "6.2.4.2",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Lesson",
+    "@id": "im:d2f24593-afd9-5d2e-9b23-a7d44c9ad7f4",
+    "courseCode": "6.2.4"
+  },
+  "learningResourceType": [
+    "Activity"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:Activity",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "Grade6-2-4-2-Activity-student-task-statements.docx"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/activities/95133",
+  "dateCreated": "2022-09-30 09:03:55 UTC",
+  "dateModified": "2022-10-18 00:25:45 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="Activity.name">Turning Green</div>
+    <div class="im_statement"><p>A recipe for green water says to mix milliliters of blue water and milliliters of yellow water in the ratio <span class="math math-repaired">\(5:15\)</span>.</p>
+
+<p>Perform the following experiments. For each experiment, complete the steps in parts a to d.</p>
+
+<ol>
+	<li>
+	<p>Doubling the original recipe:</p>
+
+	<ol>
+		<li>Draw a diagram to represent the amount of each color in the doubled recipe.<presentation-tag data-duplicated-from-tree-node-id="376770" data-tag-title="2 INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/5.tag"></presentation-tag><presentation-tag data-tag-title="2 INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/5.tag"></presentation-tag>
+</li>
+		<li>Label an empty cup with the ratio of blue water to yellow water.</li>
+		<li>Predict how the shade of this mixture will compare to the original mixture. Then, check your prediction by measuring these amounts and mixing them in a cup.</li>
+		<li>Is the ratio of blue water to yellow water in your mixture equivalent to the ratio in the original recipe?&#xA0;Explain your reasoning.<presentation-tag data-duplicated-from-tree-node-id="376770" data-tag-title="1 INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/4.tag"></presentation-tag><presentation-tag data-tag-title="1 INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/4.tag"></presentation-tag>
+</li>
+	</ol>
+	</li>
+	<li>
+	<p>Tripling the original recipe:</p>
+
+	<ol>
+		<li>Draw a diagram to represent the amount of each color in the tripled recipe.&#xA0;</li>
+		<li>Label an empty cup with the ratio of blue water to yellow water.</li>
+		<li>Predict how the shade of this mixture will compare to the original mixture. Then, check your prediction by measuring these amounts and mixing them in a cup.</li>
+		<li>Is the ratio of blue water to yellow water in your mixture equivalent to the ratio in the original recipe?&#xA0;Explain your reasoning.<br />
+		<presentation-tag data-duplicated-from-tree-node-id="376770" data-tag-title="1 INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/4.tag"></presentation-tag>
+</li>
+	</ol>
+	</li>
+	<li>
+	<p>Inventing your own recipe for a <em>bluer</em> shade of green water.</p>
+
+	<ol>
+		<li>Draw a diagram to represent the amount of each color in your recipe.<br />
+		<presentation-tag data-duplicated-from-tree-node-id="376770" data-tag-title="2 INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/5.tag"></presentation-tag><presentation-tag data-tag-title="2 INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/5.tag"></presentation-tag>
+</li>
+		<li>Label an empty cup with the ratio of blue water to yellow water.</li>
+		<li>Check if your recipe makes a bluer shade by mixing one batch in a cup.</li>
+		<li>Is the ratio of blue water to yellow water in your mixture equivalent to the ratio in the original recipe?&#xA0;Explain your reasoning<br />
+		<presentation-tag data-duplicated-from-tree-node-id="376770" data-tag-title="1 INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/4.tag"></presentation-tag>
+</li>
+	</ol>
+	</li>
+</ol>
+</div>
+    <div class="im_extension"><p>Someone has made a shade of green by using 17 ml&#xA0;of blue and 13 ml of yellow. They are sure it cannot be turned into the original shade of green by adding more blue or yellow. Either explain how more can be added to create the original green shade, or explain why this is impossible.<presentation-tag data-duplicated-from-tree-node-id="376770" data-tag-title="1 INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/4.tag"></presentation-tag><presentation-tag data-tag-title="1 INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/4.tag"></presentation-tag></p>
+</div>
+  </body>
+</html>

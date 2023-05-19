@@ -1,0 +1,131 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:Activity",
+  "@id": "im:65d2120f-6776-5b46-a0b6-c85619590781",
+  "identifier": "im:65d2120f-6776-5b46-a0b6-c85619590781",
+  "name": "The Student&#x2019;s Collection",
+  "alternateName": "6.2.1.3",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Lesson",
+    "@id": "im:14abe312-06be-51f6-94ba-37ee8530197b",
+    "courseCode": "6.2.1"
+  },
+  "learningResourceType": [
+    "Activity"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:Activity",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "Grade6-2-1-3-Activity-student-task-statements.docx"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/activities/95124",
+  "dateCreated": "2022-09-30 09:03:52 UTC",
+  "dateModified": "2022-10-17 18:30:09 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="Activity.name">The Student&#x2019;s Collection</div>
+    <div class="im_statement"><ol>
+	<li>
+	<p>Sort your collection into three categories. You can experiment with different ways of arranging these categories. Then, count the items in each category, and record the information in the table.</p>
+
+	<table border="1">
+		<tbody>
+			<tr>
+				<th scope="col">category name</th>
+				<td scope="col" style="width:140px"></td>
+				<td scope="col" style="width:140px"></td>
+				<td scope="col" style="width:140px"></td>
+			</tr>
+			<tr>
+				<th scope="col">category&#xA0;amount</th>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+		</tbody>
+	</table>
+	</li>
+	<li>
+	<p>Write at least two sentences that describe <strong>ratios</strong>&#xA0;in the collection. Remember, there are many ways to write a ratio:</p>
+
+	<ul>
+		<li>The ratio of <em>one category</em>&#xA0;to <em>another category</em>&#xA0;is ________ to ________.</li>
+		<li>The ratio of <em>one category</em>&#xA0;to <em>another category</em>&#xA0;is ________ : ________.</li>
+		<li>
+		<p>There are _______ of <em>one category</em>&#xA0;for every _______ of <em>another category</em>.</p>
+		</li>
+	</ul>
+
+	<p>Pause here so your teacher can review your sentences.</p>
+	</li>
+	<li>Make a visual display of your items that clearly shows one of your statements. Be prepared to share your display with the class.<presentation-tag data-duplicated-from-tree-node-id="376770" data-tag-title="HALF INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/3.tag"></presentation-tag>
+</li>
+</ol>
+</div>
+    <div class="im_extension"><div class="imgrid">
+<div class="g--row g--row-1">
+<div class="g--col-1 g--column g--content g--row-1 g--two-third">
+<ol>
+	<li>Use two colors to shade the rectangle so there are 2&#xA0;square units of one color for every 1&#xA0;square unit of the other color.</li>
+	<li>
+	<p>The rectangle you just colored has an area of 24 square units. Draw a different shape that does <em>not</em> have an area of 24 square units, but that can also be shaded with two colors in a <span class="math math-repaired">\(2:1\)</span> ratio. Shade your new shape using two colors.</p>
+	<presentation-tag data-duplicated-from-tree-node-id="376770" data-tag-title="HALF INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/3.tag"></presentation-tag>
+</li>
+</ol>
+</div>
+
+<div class="g--col-2 g--column g--content g--one-third g--row-1">
+<p><img src="/tikz_files/205256.svg" /></p>
+</div>
+</div>
+</div>
+</div>
+  </body>
+</html>

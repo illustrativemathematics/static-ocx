@@ -84,18 +84,23 @@ I can use a table of equivalent ratios to solve problems about unit price.</div>
 	<li>
 	<p>Less efficient</p>
 
-	<p><img class="h-max-height--8-lines" src="/image_files/26773.png" /></p>
+	<p><img src="https://staging-cms-assets.illustrativemathematics.org/LjnGdGe1JkMeJDzssXgNzb6r" /></p>
 	</li>
 	<li>
 	<p>More efficient</p>
 
-	<p><img class="h-max-height--6-lines" src="/image_files/26774.png" /></p>
+	<p><img src="https://staging-cms-assets.illustrativemathematics.org/JAu1Ewq3xjSGGM16nno4UpGi" /></p>
 	</li>
 </ul>
 
 <p>Notice how the more efficient approach&#xA0;starts by finding the price for 1 lb of granola.</p>
 
-<p>Remember that dividing by a whole number is the same as multiplying by a unit fraction. In this&#xA0;example, we can divide by 4 or multiply by <span class="math math-repaired">\(\frac14\)</span> to find the unit price.</p>
+<p>Remember that dividing by a whole number is the same as multiplying by a unit fraction. In this&#xA0;example, we can divide by 4 or multiply by <span><span><math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mfrac>
+    <mn>1</mn>
+    <mn>4</mn>
+  </mfrac>
+</math></span><annotation description="\(\frac14\)"></annotation></span> to find the unit price.</p>
 </div>
   </body>
 </html>

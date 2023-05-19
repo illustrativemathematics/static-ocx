@@ -1,0 +1,100 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:AssessmentProblem",
+  "@id": "im:9b28c3cd-cdc4-5236-be23-11af7b6cebe5",
+  "identifier": "im:9b28c3cd-cdc4-5236-be23-11af7b6cebe5",
+  "name": "A bag contains 120 marbles. Some are red and the rest are black. There...",
+  "alternateName": "6.2",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Assessment",
+    "@id": "im:ef81ee86-0657-59fe-a284-29245e4b212f",
+    "courseCode": "6.2"
+  },
+  "learningResourceType": [
+    "Assessment problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:AssessmentProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL(s) should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/assessment_problems/26690",
+  "dateCreated": "2022-09-30 09:16:25 UTC",
+  "dateModified": "2022-09-30 09:17:49 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
+    <div class="AssessmentProblem.statement"><p>A bag contains 120 marbles. Some are red and the rest are black. There are 19 red marbles for every black marble. How many red marbles are in the bag? Explain your reasoning.<presentation-tag src="/presentation_tags/2.tag"></presentation-tag></p>
+</div>
+    <div class="AssessmentProblem.solution"><p>114 red marbles. Explanations vary. Sample explanation: Make a table in which the first row has 19 red marbles and 1 black marble. We want to find the row where the total number of marbles is 120. Multiplying the first row by 6 gives&#xA0;114 red marbles and 6 black marbles, which add to&#xA0;the correct total.</p>
+
+<p>Minimal Tier 1 response:</p>
+
+<ul>
+	<li>Work is complete and correct.</li>
+	<li>Sample: <span class="math math-repaired" data-png-file-id="44925">\(19 \boldcdot 6 = 114\)</span>, so there are 114 red marbles and 6 black marbles.</li>
+</ul>
+
+<p>Tier 2 response:</p>
+
+<ul>
+	<li>Work shows general conceptual understanding and mastery, with some errors.</li>
+	<li>Sample errors: Red and black marbles are in the correct ratio but do not total 120; correct answer with no&#xA0;work shown and no explanation; work involves&#xA0;some correct reasoning about equivalent ratios with some errors.</li>
+</ul>
+
+<p>Tier 3 response:</p>
+
+<ul>
+	<li>Significant errors in work demonstrate lack of conceptual understanding or mastery.</li>
+	<li>Sample errors: Work does not show evidence of an understanding of equivalent ratios; incorrect answer with no work shown.</li>
+</ul>
+</div>
+  </body>
+</html>

@@ -1,0 +1,119 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:Activity",
+  "@id": "im:97e59936-538e-57d4-84e8-b34d1a1ec3e0",
+  "identifier": "im:97e59936-538e-57d4-84e8-b34d1a1ec3e0",
+  "name": "Blue Paint and Play Clay",
+  "alternateName": "6.2.2.2",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Lesson",
+    "@id": "im:2c05b503-614c-5590-a9fc-5fc687a8f9f8",
+    "courseCode": "6.2.2"
+  },
+  "learningResourceType": [
+    "Activity"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:Activity",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "Grade6-2-2-2-Activity-student-task-statements.docx"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/activities/95127",
+  "dateCreated": "2022-09-30 09:03:54 UTC",
+  "dateModified": "2022-10-17 18:43:38 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="Activity.name">Blue Paint and Play Clay</div>
+    <div class="im_statement"><p>Elena mixed 2 cups of white paint with 6 tablespoons of blue paint.</p>
+
+<div class="imgrid">
+<div class="g--row g--row-1">
+<div class="g--col-1 g--column g--content g--one-third g--row-1">
+<p>Here is a diagram that represents this situation.</p>
+</div>
+
+<div class="g--col-2 g--column g--content g--row-1 g--two-third">
+<p><img src="/tikz_files/205164.svg" /></p>
+</div>
+</div>
+</div>
+
+<ol>
+	<li>
+	<p>Discuss each statement, and circle <strong>all</strong> those that correctly describe this situation. Make sure that both you and your partner agree with each circled answer.</p>
+
+	<ol>
+		<li>The ratio of cups of white paint to tablespoons of blue paint is <span class="math math-repaired">\(2 : 6\)</span>.</li>
+		<li>For every cup of white paint, there are 2 tablespoons of blue paint.</li>
+		<li>There is 1 cup of white paint for every 3 tablespoons of blue paint.</li>
+		<li>There are 3 tablespoons of blue paint for every cup of white paint.</li>
+		<li>For each tablespoon of blue paint, there are 3 cups of white paint.</li>
+		<li>For every 6 tablespoons of blue paint, there are 2 cups of white paint.</li>
+		<li>The ratio of tablespoons of blue paint to cups of white paint is 6 to 2.<presentation-tag data-duplicated-from-tree-node-id="376770" data-tag-title="HALF INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/3.tag"></presentation-tag><presentation-tag data-tag-title="HALF INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/3.tag"></presentation-tag>
+</li>
+	</ol>
+	</li>
+	<li>
+	<p>Jada mixed 8 cups of corn flour with 2 pints of liquid glue to make play clay.</p>
+
+	<ol>
+		<li>
+		<p>Draw a diagram that represents the situation.<presentation-tag data-duplicated-from-tree-node-id="376770" data-tag-title="HALF INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/3.tag"></presentation-tag><presentation-tag data-tag-title="HALF INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/3.tag"></presentation-tag></p>
+		<presentation-tag data-duplicated-from-tree-node-id="376770" data-tag-title="1 INCH" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/4.tag"></presentation-tag><presentation-tag data-tag-title="1 INCH" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/4.tag"></presentation-tag>
+</li>
+		<li>Write at least two sentences describing the ratio of corn flour and glue.<presentation-tag data-duplicated-from-tree-node-id="376770" data-tag-title="Pagebreak after" data-tree-code="MS_vIV" data-tree-node-id="464461" data-tree-ref-id="356" src="/presentation_tags/2.tag"></presentation-tag><presentation-tag data-tag-title="Pagebreak after" data-tree-code="Accel6_8" data-tree-node-id="260635" data-tree-ref-id="218" src="/presentation_tags/2.tag"></presentation-tag>
+</li>
+	</ol>
+	</li>
+</ol>
+</div>
+    <div class="im_extension"></div>
+  </body>
+</html>

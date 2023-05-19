@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "UTF-8" "">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script type="application/ld+json">{
+  "@context": [
+    "https://schema.org/",
+    {
+      "oer": "https://oerschema.org/",
+      "ocx": "https://github.com/K12OCX/k12ocx-specs/",
+      "im": "https://ocx-specs.illustrativemathematics.org/"
+    }
+  ],
+  "@type": "oer:AssessmentProblem",
+  "@id": "im:95985977-2793-5f83-99e6-c6aebc537445",
+  "identifier": "im:95985977-2793-5f83-99e6-c6aebc537445",
+  "name": "Lin mixes 20 cups of pancake mix and 15 cups of water.",
+  "alternateName": "6.2",
+  "forCourse": {
+    "@type": "oer:Course",
+    "courseIdentifier": "Grade 6"
+  },
+  "author": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "provider": {
+    "@type": "http://schema.org/Organization",
+    "name": "Illustrative Mathematics",
+    "email": "email@illustrativemathematics.org",
+    "url": "https://illustrativemathematics.org/"
+  },
+  "isPartOf": {
+    "@type": "oer:Assessment",
+    "@id": "im:faee1762-67bf-5936-811c-68c4ec7476a5",
+    "courseCode": "6.2"
+  },
+  "learningResourceType": [
+    "Assessment problem"
+  ],
+  "ocx:submissionType": "Text, Recording, File Upload, URL, Student Annotation",
+  "educationalUse": "im:AssessmentProblem",
+  "gradingformat": "oer:CompletionGradeFormat",
+  "ocx:interactionType": "Text, Paper, Upload, Online document",
+  "ocx:submissionGroup": "Individual, Small Group, or Class",
+  "ocx:totalPoints": "0",
+  "ocx:accessToInformation": "",
+  "encoding": [
+    {
+      "encodingFormat": "application/msword",
+      "contentUrl": "***TODO*** what URL(s) should we use?"
+    }
+  ],
+  "timeRequired": "15",
+  "url": "https://cms-assets.illustrativemathematics.org/assessment_problems/27788",
+  "dateCreated": "2022-10-14 19:02:04 UTC",
+  "dateModified": "2022-10-14 19:02:04 UTC",
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "student"
+  },
+  "inLanguage": "EN",
+  "cc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "cc:morePermissions": "TBD",
+  "cc:attributionName": "Illustrative Mathematics",
+  "cc:attributionURL": "https://illustrativemathematics.org",
+  "cc:useGuidelines": "TBD"
+}</script>
+  </head>
+  <body>
+    <div class="AssessmentProblem.type">RestrictedConstructedResponse</div>
+    <div class="AssessmentProblem.statement"><p>Lin is making pancakes using a pancake mix and water. In her recipe, the ratio of cups of pancake mix to cups of water is $4 : 3$.</p>&#xD;
+&#xD;
+<ol>&#xD;
+	<li>Lin mixes 20 cups of pancake mix and 15 cups of water. Is this ratio of pancake mix to water equivalent to that in the recipe? Explain your reasoning.</li>&#xD;
+	<li>Find two ratios of cups of pancake mix to cups of water to make pancakes that would taste the same as the recipe. Show your reasoning.</li>&#xD;
+</ol>&#xD;
+</div>
+    <div class="AssessmentProblem.solution"><ol>&#xD;
+	<li>Yes. Sample reasoning: Both the cups of pancake mix and the cups of water are 5 times the numbers in the original recipe ($20 = 5 \boldcdot 4$ and $15 = 5 \boldcdot 3$). Lin is making 5 batches of the recipe.&#xA0;</li>&#xD;
+	<li>Sample response: $8 : 6$ and $2 : 1\frac{1}{2}$. The first ratio is for 2 batches of pancakes: $2 \boldcdot 4 = 8$ and $2 \boldcdot 3 = 6$. The second ratio is for half a batch: 2 is half of 4 and $1\frac{1}{2}$ is half of 3.</li>&#xD;
+</ol>&#xD;
+</div>
+  </body>
+</html>
