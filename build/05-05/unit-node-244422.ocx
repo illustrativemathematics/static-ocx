@@ -37,6 +37,78 @@
     "@id": "im:f9df3531-a996-526d-a47f-8a47e1e95276",
     "courseCode": "6"
   },
+  "hasPart": [{
+    "@type": ["oer:Assessment","DigitalDocument"],
+    "@id": "im:cd4e20cd-ef15-5a94-a95a-9ec6056135c6",
+    "name": "Check Your Readiness (A)",
+    "alternateName": "6.2",
+    "url": "assessment-node-244839.ocx"
+  },
+  {
+    "@type": ["oer:Assessment","DigitalDocument"],
+    "@id": "im:cd634542-9ef9-55bd-a894-f6363ad978a3",
+    "name": "Check Your Readiness (B)",
+    "alternateName": "6.2",
+    "url": "assessment-node-266329.ocx"
+  },
+  {
+    "@type": "oer:Section",
+    "@id": "im:7b2af7ee-b4de-5186-a4b5-2e84f8848149",
+    "name": "What are Ratios?",
+    "alternateName": "6.2.A",
+    "url":"section-node-244423.ocx"
+  },
+  {
+    "@type": "oer:Section",
+    "@id": "im:3a9c60f6-a722-5dce-99eb-48b554eb5c84",
+    "name": "Equivalent Ratios",
+    "alternateName": "6.2.B",
+    "url": "section-node-244476.ocx"
+  },
+  {
+    "@type": "oer:Section",
+    "@id": "im:b3470304-14c5-52f6-a0d4-304aabdc5f53",
+    "name": "Representing Equivalent Ratios",
+    "alternateName": "6.2.C",
+    "url": "section-node-244560.ocx"
+  },
+  {
+    "@type": "oer:Section",
+    "@id": "im:2c386993-a502-5d1c-9dce-f30cc77257e4",
+    "name": "Solving Ratio and Rate Problems",
+    "alternateName": "6.2.D",
+    "url": "section-node-244685.ocx"
+  },
+  {
+    "@type": "oer:Section",
+    "@id": "im:8855add6-c105-50b0-b3a7-dc6af18b63b8",
+    "name": "Part-part-whole Ratios",
+    "alternateName": "6.2.E",
+    "url": "section-node-244784.ocx"
+  },
+  {
+    "@type": "oer:Section",
+    "@id": "im:e1d66842-27bf-5dca-bb45-6083c2e16338",
+    "name": "Let&#x2019;s Put it to Work",
+    "alternateName": "6.2.D",
+    "url": "section-node-244832.ocx"
+  },
+  {
+    "@type": ["oer:Assessment","DigitalDocument"],
+    "@id": "im:dc1c61ef-ba5b-559c-9fce-6598a9af24c0",
+    "name": "End-of-Unit Assessment (A)",
+    "alternateName": "6.2",
+    "url": "assessment-node-244846.ocx"
+  },
+  {
+    "@type": ["oer:Assessment","DigitalDocument"],
+    "@id": "im:08f8bbd2-4634-53d2-bbd6-d623a84a7222",
+    "name": "End-of-Unit Assessment (B)",
+    "alternateName": "6.2",
+    "url": "assessment-node-266337.ocx"
+  }
+    
+  ],
   "learningResourceType": [
     "Unit"
   ],
