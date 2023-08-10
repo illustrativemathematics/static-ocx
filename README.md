@@ -38,8 +38,8 @@ This rewrites the static build to `tmp/ocx`.
 $ cd ~/static-ocx/build
 $ cp ~/cms/tmp/ocx/* cms_im-PR1219
 ```
-Commit these changes and push.
-6. Crate a new PR in the static build repo and link it to the Linear story and to PR1219 in the CMS repo.
-7. Link back from PR1219 in the CMS to the new PR in the static-build repo.
-8. ...
-9. Profit
+6. Commit these changes and push.
+7. Crate a new PR in the static build repo and link it to the Linear story and to PR1219 in the CMS repo.
+8. Link back from PR1219 in the CMS to the new PR in the static-build repo.
+9. ...
+10. Profit
