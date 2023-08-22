@@ -7,6 +7,20 @@
     </ocx:ocx>
   </url>
   <url>
+    <loc>assessment-node-244839.ocx.html</loc>
+    <lastmod>2020-05-04 20:23:36 UTC</lastmod>
+    <ocx:ocx>
+      <ocx:type>http://oerschema.org/Assessment</ocx:type>
+    </ocx:ocx>
+  </url>
+  <url>
+    <loc>assessment-node-266329.ocx.html</loc>
+    <lastmod>2020-05-04 20:23:36 UTC</lastmod>
+    <ocx:ocx>
+      <ocx:type>http://oerschema.org/Assessment</ocx:type>
+    </ocx:ocx>
+  </url>
+  <url>
     <loc>section-node-244423.ocx.html</loc>
     <lastmod>2020-06-25 12:55:58 UTC</lastmod>
     <ocx:ocx>
@@ -662,20 +676,6 @@
     <lastmod>2021-07-26 15:41:17 UTC</lastmod>
     <ocx:ocx>
       <ocx:type>http://oerschema.org/Activity</ocx:type>
-    </ocx:ocx>
-  </url>
-  <url>
-    <loc>assessment-node-244839.ocx.html</loc>
-    <lastmod>2020-05-04 20:23:36 UTC</lastmod>
-    <ocx:ocx>
-      <ocx:type>http://oerschema.org/Assessment</ocx:type>
-    </ocx:ocx>
-  </url>
-  <url>
-    <loc>assessment-node-266329.ocx.html</loc>
-    <lastmod>2020-05-04 20:23:36 UTC</lastmod>
-    <ocx:ocx>
-      <ocx:type>http://oerschema.org/Assessment</ocx:type>
     </ocx:ocx>
   </url>
   <url>
