@@ -979,4 +979,11 @@
       <ocx:type>http://oerschema.org/PracticeProblemSet</ocx:type>
     </ocx:ocx>
   </url>
+  <url>
+    <loc>glossary-41655.ocx.html</loc>
+    <lastmod>2023-08-23 15:40:50 UTC</lastmod>
+    <ocx:ocx>
+      <ocx:type>oer:SupplementalMaterial</ocx:type>
+    </ocx:ocx>
+  </url>
 </urlset>
