@@ -343,6 +343,13 @@
     </ocx:ocx>
   </url>
   <url>
+    <loc>assessment-41666.ocx.html</loc>
+    <lastmod>2023-08-23 15:40:44 UTC</lastmod>
+    <ocx:ocx>
+      <ocx:type>http://oerschema.org/Assessment</ocx:type>
+    </ocx:ocx>
+  </url>
+  <url>
     <loc>section-41764.ocx.html</loc>
     <lastmod>2023-08-23 15:40:48 UTC</lastmod>
     <ocx:ocx>
@@ -351,7 +358,7 @@
   </url>
   <url>
     <loc>lesson-41765.ocx.html</loc>
-    <lastmod>2023-08-23 15:40:46 UTC</lastmod>
+    <lastmod>2023-09-08 20:18:09 UTC</lastmod>
     <ocx:ocx>
       <ocx:type>http://oerschema.org/Lesson</ocx:type>
     </ocx:ocx>
@@ -421,7 +428,7 @@
   </url>
   <url>
     <loc>lesson-41794.ocx.html</loc>
-    <lastmod>2023-08-23 15:40:47 UTC</lastmod>
+    <lastmod>2023-09-08 20:18:47 UTC</lastmod>
     <ocx:ocx>
       <ocx:type>http://oerschema.org/Lesson</ocx:type>
     </ocx:ocx>
